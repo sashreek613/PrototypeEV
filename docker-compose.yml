@@ -1,5 +1,6 @@
 services:
   postgres:
+    # Optional local database. Production/demo hosting uses Supabase with the same schema.
     image: postgis/postgis:16-3.4
     environment:
       POSTGRES_USER: vidyutone

@@ -15,21 +15,18 @@ Included now:
 
 - Project structure for frontend, backend, demo data, and docs
 - FastAPI endpoints for health, sites, chargers, and bookings
-- Mock JSON dataset (10 candidate sites, 14 chargers)
+- Demo dataset (10 candidate sites, 14 chargers) seeded into PostgreSQL
 - Isolated site recommendation engine (weighted score + rule-based recommendation)
-- In-memory booking create/get (no payment)
-- React Router routes for planner and driver placeholders
-- Axios service layer using `VITE_API_BASE_URL`
-- SQLAlchemy + PostgreSQL configuration prepared (not required to run the API)
+- Persistent bookings in PostgreSQL (not in-memory)
+- React Planner + driver PWA using Axios (`VITE_API_BASE_URL`)
+- SQLAlchemy + Alembic against Supabase PostgreSQL or local Docker Postgres
 - CORS for local frontend development
-- Docker Compose for frontend, backend, and PostGIS-ready Postgres
+- Docker Compose for optional local PostGIS Postgres
 
 Intentionally not included yet:
 
-- Polished UI / dashboards
-- Authentication
-- Real PostgreSQL persistence for API data
-- PostGIS spatial queries
+- Real authentication (demo login remains mocked)
+- PostGIS radius queries (extension can be enabled; V1 uses lat/lon)
 - ML, optimization, grid modelling, dynamic pricing, route optimization
 - Payments
 - Simulation
@@ -38,20 +35,19 @@ Intentionally not included yet:
 ## Architecture
 
 ```
-React (planner + driver routes)
+React Planner (and later Flutter Driver)
         |
-        |  Axios / VITE_API_BASE_URL
+        |  HTTP / VITE_API_BASE_URL
         v
 FastAPI (/api/...)
         |
-        +-- services (mock JSON + in-memory bookings)
+        +-- SQLAlchemy services
         +-- engines/recommendation.py
-        +-- SQLAlchemy models (ready, unused by current routes)
         v
-PostgreSQL / PostGIS (optional for this MVP)
+PostgreSQL (Supabase, or local Docker)
 ```
 
-See [docs/architecture.md](docs/architecture.md) for how to swap mock data and UI later.
+See [docs/architecture.md](docs/architecture.md) and [docs/supabase.md](docs/supabase.md).
 
 ## Folder structure
 
@@ -122,7 +118,14 @@ pip install -r requirements.txt
 cp .env.example .env
 ```
 
-PostgreSQL does **not** need to be running for the current mock API.
+PostgreSQL **is** required for the API (Supabase or local Docker). JSON in `data/` is only used by the seed script.
+
+After backend install, from `backend/`:
+
+```bash
+alembic upgrade head
+python -m app.scripts.seed_demo
+```
 
 ## Run both locally
 
@@ -195,11 +198,11 @@ Logic lives only in `backend/app/engines/` so it can be replaced with ML later.
 
 ## Current limitations
 
-- UI is placeholder markup only
-- Sites and chargers come from JSON files, not the database
-- Bookings are stored in process memory and reset on backend restart
+- Demo login is still mocked (no password check)
+- Sites/chargers start as seeded demo rows (Bengaluru-looking, not live grid)
+- `data/*.json` is seed input only; the API reads PostgreSQL
 - No auth, payments, notifications, or real-time availability
-- MapLibre, Recharts, and Lucide are installed but not visually configured
+- PostGIS radius queries are not implemented yet
 - Demo coordinates must not be treated as operational data
 
 ## Planned future features

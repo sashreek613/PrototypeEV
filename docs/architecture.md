@@ -1,33 +1,18 @@
-# VidyutOne architecture (MVP)
+# VidyutOne architecture (V1)
 
-This document describes the current foundation. Visual design is intentionally
-out of scope and will be implemented later from UI screenshots.
-
-## Apps
-
-- `frontend/` — React + TypeScript SPA (planner dashboard + driver PWA routes)
-- `backend/` — FastAPI API
-- `data/` — simulated Bengaluru demo JSON (not live infrastructure)
-
-Both UIs share one backend.
+React Planner (and later Flutter Driver) both call **one FastAPI API**.
+FastAPI persists to **PostgreSQL** (Supabase in hosted use, or Docker locally).
 
 ## Request flow
 
-1. Page or hook calls a function in `frontend/src/services/api.ts`
+1. Page or hook calls `frontend/src/services/api.ts`
 2. Axios sends the request to `VITE_API_BASE_URL`
-3. FastAPI route in `backend/app/api/routes/` delegates to a service
-4. Services currently read mock JSON / in-memory bookings
+3. FastAPI route uses `Depends(get_db)`
+4. Services read/write SQLAlchemy models
 5. Site recommendations are computed in `backend/app/engines/recommendation.py`
+6. `data/*.json` is used only by `python -m app.scripts.seed_demo`
 
-## Replacing mock data with PostgreSQL
+## Database
 
-SQLAlchemy models and session helpers already exist under
-`backend/app/models/` and `backend/app/database/`. Swap service implementations
-to use `get_db()` when ready. Latitude/longitude are floats so PostGIS geometry
-columns can be added later without changing the API contract.
-
-## UI replacement
-
-Pages under `frontend/src/pages/` are placeholders. Layouts, reusable
-components, Tailwind `@theme` tokens, and the API/types layer are structured so
-screenshot-based UI can replace page markup without rewriting business logic.
+See [supabase.md](supabase.md) for hosted setup. Docker Compose Postgres remains
+available for local development with the same schema.
