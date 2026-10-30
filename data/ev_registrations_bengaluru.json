@@ -1,0 +1,1021 @@
+[
+  {
+    "rto_name": "BENGALURU CENTRAL  RTO",
+    "rto_code": "1",
+    "year": 2021,
+    "ev_count": 1212,
+    "total_registrations": 41477,
+    "fuel_breakdown": {
+      "CNG ONLY": 281,
+      "DIESEL": 4653,
+      "DIESEL/HYBRID": 2,
+      "ELECTRIC(BOV)": 1212,
+      "LPG ONLY": 192,
+      "PETROL": 34352,
+      "PETROL/CNG": 115,
+      "PETROL/HYBRID": 646,
+      "PETROL/LPG": 24
+    },
+    "ev_share_pct": 2.92
+  },
+  {
+    "rto_name": "BENGALURU CENTRAL  RTO",
+    "rto_code": "1",
+    "year": 2022,
+    "ev_count": 5293,
+    "total_registrations": 75783,
+    "fuel_breakdown": {
+      "CNG ONLY": 1945,
+      "DIESEL": 6793,
+      "DIESEL/HYBRID": 16,
+      "DUAL DIESEL/LNG": 1,
+      "ELECTRIC(BOV)": 5293,
+      "LPG ONLY": 68,
+      "NOT APPLICABLE": 3,
+      "PETROL": 59842,
+      "PETROL/CNG": 421,
+      "PETROL/HYBRID": 1400,
+      "PETROL/LPG": 1
+    },
+    "ev_share_pct": 6.98
+  },
+  {
+    "rto_name": "BENGALURU CENTRAL  RTO",
+    "rto_code": "1",
+    "year": 2023,
+    "ev_count": 8691,
+    "total_registrations": 98615,
+    "fuel_breakdown": {
+      "CNG ONLY": 6462,
+      "DIESEL": 7426,
+      "DIESEL/HYBRID": 36,
+      "ELECTRIC(BOV)": 8691,
+      "LPG ONLY": 38,
+      "NOT APPLICABLE": 1,
+      "PETROL": 69494,
+      "PETROL/CNG": 937,
+      "PETROL/ETHANOL": 2475,
+      "PETROL/HYBRID": 3055
+    },
+    "ev_share_pct": 8.81
+  },
+  {
+    "rto_name": "BENGALURU CENTRAL  RTO",
+    "rto_code": "1",
+    "year": 2024,
+    "ev_count": 12202,
+    "total_registrations": 113354,
+    "fuel_breakdown": {
+      "CNG ONLY": 8808,
+      "DIESEL": 8154,
+      "DIESEL/HYBRID": 105,
+      "DUAL DIESEL/LNG": 1,
+      "ELECTRIC(BOV)": 8577,
+      "ETHANOL": 3,
+      "LPG ONLY": 58,
+      "NOT APPLICABLE": 58,
+      "PETROL": 75617,
+      "PETROL/CNG": 1837,
+      "PETROL/ETHANOL": 3620,
+      "PETROL/HYBRID": 2034,
+      "PURE EV": 3625,
+      "STRONG HYBRID EV": 857
+    },
+    "ev_share_pct": 10.76
+  },
+  {
+    "rto_name": "BENGALURU CENTRAL  RTO",
+    "rto_code": "1",
+    "year": 2025,
+    "ev_count": 6127,
+    "total_registrations": 56210,
+    "fuel_breakdown": {
+      "CNG ONLY": 3871,
+      "DIESEL": 4477,
+      "DIESEL/HYBRID": 72,
+      "DUAL DIESEL/LNG": 30,
+      "ELECTRIC(BOV)": 1607,
+      "ETHANOL": 20,
+      "LPG ONLY": 31,
+      "NOT APPLICABLE": 107,
+      "PETROL": 29696,
+      "PETROL/CNG": 1028,
+      "PETROL/ETHANOL": 9295,
+      "PETROL/HYBRID": 753,
+      "PLUG-IN HYBRID EV": 2,
+      "PURE EV": 4518,
+      "STRONG HYBRID EV": 703
+    },
+    "ev_share_pct": 10.9
+  },
+  {
+    "rto_name": "BENGALURU EAST  RTO",
+    "rto_code": "3",
+    "year": 2021,
+    "ev_count": 2125,
+    "total_registrations": 54385,
+    "fuel_breakdown": {
+      "CNG ONLY": 266,
+      "DIESEL": 5002,
+      "ELECTRIC(BOV)": 2125,
+      "LPG ONLY": 263,
+      "NOT APPLICABLE": 9,
+      "PETROL": 44751,
+      "PETROL/CNG": 268,
+      "PETROL/HYBRID": 1660,
+      "PETROL/LPG": 41
+    },
+    "ev_share_pct": 3.91
+  },
+  {
+    "rto_name": "BENGALURU EAST  RTO",
+    "rto_code": "3",
+    "year": 2022,
+    "ev_count": 5560,
+    "total_registrations": 84744,
+    "fuel_breakdown": {
+      "CNG ONLY": 1532,
+      "DIESEL": 7374,
+      "DIESEL/HYBRID": 16,
+      "ELECTRIC(BOV)": 5560,
+      "LPG ONLY": 40,
+      "NOT APPLICABLE": 6,
+      "PETROL": 67062,
+      "PETROL/CNG": 945,
+      "PETROL/HYBRID": 2209
+    },
+    "ev_share_pct": 6.56
+  },
+  {
+    "rto_name": "BENGALURU EAST  RTO",
+    "rto_code": "3",
+    "year": 2023,
+    "ev_count": 11074,
+    "total_registrations": 98787,
+    "fuel_breakdown": {
+      "CNG ONLY": 5926,
+      "DIESEL": 6843,
+      "DIESEL/HYBRID": 39,
+      "ELECTRIC(BOV)": 11074,
+      "LPG ONLY": 93,
+      "NOT APPLICABLE": 1,
+      "PETROL": 67801,
+      "PETROL/CNG": 1431,
+      "PETROL/ETHANOL": 1862,
+      "PETROL/HYBRID": 3717
+    },
+    "ev_share_pct": 11.21
+  },
+  {
+    "rto_name": "BENGALURU EAST  RTO",
+    "rto_code": "3",
+    "year": 2024,
+    "ev_count": 12088,
+    "total_registrations": 100364,
+    "fuel_breakdown": {
+      "CNG ONLY": 7137,
+      "DIESEL": 6734,
+      "DIESEL/HYBRID": 115,
+      "ELECTRIC(BOV)": 9188,
+      "LPG ONLY": 98,
+      "NOT APPLICABLE": 15,
+      "PETROL": 65202,
+      "PETROL/CNG": 2764,
+      "PETROL/ETHANOL": 2838,
+      "PETROL/HYBRID": 2415,
+      "PURE EV": 2900,
+      "STRONG HYBRID EV": 958
+    },
+    "ev_share_pct": 12.04
+  },
+  {
+    "rto_name": "BENGALURU EAST  RTO",
+    "rto_code": "3",
+    "year": 2025,
+    "ev_count": 5364,
+    "total_registrations": 48206,
+    "fuel_breakdown": {
+      "CNG ONLY": 3046,
+      "DIESEL": 3428,
+      "DIESEL/HYBRID": 147,
+      "ELECTRIC(BOV)": 1628,
+      "ETHANOL": 13,
+      "LPG ONLY": 27,
+      "PETROL": 25901,
+      "PETROL/CNG": 1720,
+      "PETROL/ETHANOL": 6927,
+      "PETROL/HYBRID": 904,
+      "PURE EV": 3736,
+      "STRONG HYBRID EV": 729
+    },
+    "ev_share_pct": 11.13
+  },
+  {
+    "rto_name": "BENGALURU NORTH  RTO",
+    "rto_code": "4",
+    "year": 2021,
+    "ev_count": 1243,
+    "total_registrations": 44950,
+    "fuel_breakdown": {
+      "CNG ONLY": 115,
+      "DIESEL": 3277,
+      "ELECTRIC(BOV)": 1243,
+      "LPG ONLY": 23,
+      "PETROL": 39010,
+      "PETROL/CNG": 283,
+      "PETROL/HYBRID": 994,
+      "PETROL/LPG": 5
+    },
+    "ev_share_pct": 2.77
+  },
+  {
+    "rto_name": "BENGALURU NORTH  RTO",
+    "rto_code": "4",
+    "year": 2022,
+    "ev_count": 6328,
+    "total_registrations": 56388,
+    "fuel_breakdown": {
+      "CNG ONLY": 500,
+      "DIESEL": 4443,
+      "DIESEL/HYBRID": 5,
+      "ELECTRIC(BOV)": 6328,
+      "LPG ONLY": 16,
+      "PETROL": 42922,
+      "PETROL/CNG": 791,
+      "PETROL/HYBRID": 1383
+    },
+    "ev_share_pct": 11.22
+  },
+  {
+    "rto_name": "BENGALURU NORTH  RTO",
+    "rto_code": "4",
+    "year": 2023,
+    "ev_count": 10618,
+    "total_registrations": 68440,
+    "fuel_breakdown": {
+      "CNG ONLY": 1254,
+      "DIESEL": 4732,
+      "DIESEL/HYBRID": 27,
+      "ELECTRIC(BOV)": 10618,
+      "LPG ONLY": 8,
+      "PETROL": 46043,
+      "PETROL/CNG": 1653,
+      "PETROL/ETHANOL": 1698,
+      "PETROL/HYBRID": 2407
+    },
+    "ev_share_pct": 15.51
+  },
+  {
+    "rto_name": "BENGALURU NORTH  RTO",
+    "rto_code": "4",
+    "year": 2024,
+    "ev_count": 11385,
+    "total_registrations": 72435,
+    "fuel_breakdown": {
+      "CNG ONLY": 1519,
+      "DIESEL": 4296,
+      "DIESEL/HYBRID": 44,
+      "ELECTRIC(BOV)": 8707,
+      "LPG ONLY": 8,
+      "NOT APPLICABLE": 1,
+      "PETROL": 47689,
+      "PETROL/CNG": 3206,
+      "PETROL/ETHANOL": 1951,
+      "PETROL/HYBRID": 1773,
+      "PURE EV": 2678,
+      "STRONG HYBRID EV": 563
+    },
+    "ev_share_pct": 15.72
+  },
+  {
+    "rto_name": "BENGALURU NORTH  RTO",
+    "rto_code": "4",
+    "year": 2025,
+    "ev_count": 5610,
+    "total_registrations": 34181,
+    "fuel_breakdown": {
+      "CNG ONLY": 674,
+      "DIESEL": 2194,
+      "DIESEL/HYBRID": 30,
+      "ELECTRIC(BOV)": 1888,
+      "ETHANOL": 11,
+      "LPG ONLY": 6,
+      "PETROL": 19125,
+      "PETROL/CNG": 1538,
+      "PETROL/ETHANOL": 3986,
+      "PETROL/HYBRID": 580,
+      "PURE EV": 3722,
+      "STRONG HYBRID EV": 427
+    },
+    "ev_share_pct": 16.41
+  },
+  {
+    "rto_name": "BENGALURU SOUTH  RTO",
+    "rto_code": "5",
+    "year": 2021,
+    "ev_count": 4931,
+    "total_registrations": 68340,
+    "fuel_breakdown": {
+      "CNG ONLY": 142,
+      "DIESEL": 4667,
+      "DIESEL/HYBRID": 1,
+      "ELECTRIC(BOV)": 4931,
+      "LPG ONLY": 32,
+      "NOT APPLICABLE": 3,
+      "PETROL": 56939,
+      "PETROL/CNG": 339,
+      "PETROL/HYBRID": 1280,
+      "PETROL/LPG": 6
+    },
+    "ev_share_pct": 7.22
+  },
+  {
+    "rto_name": "BENGALURU SOUTH  RTO",
+    "rto_code": "5",
+    "year": 2022,
+    "ev_count": 16742,
+    "total_registrations": 111343,
+    "fuel_breakdown": {
+      "CNG ONLY": 1107,
+      "DIESEL": 7674,
+      "DIESEL/HYBRID": 8,
+      "ELECTRIC(BOV)": 16742,
+      "LPG ONLY": 18,
+      "NOT APPLICABLE": 2,
+      "PETROL": 81626,
+      "PETROL/CNG": 2306,
+      "PETROL/HYBRID": 1860
+    },
+    "ev_share_pct": 15.04
+  },
+  {
+    "rto_name": "BENGALURU SOUTH  RTO",
+    "rto_code": "5",
+    "year": 2023,
+    "ev_count": 20186,
+    "total_registrations": 122378,
+    "fuel_breakdown": {
+      "CNG ONLY": 3499,
+      "DIESEL": 7864,
+      "DIESEL/HYBRID": 43,
+      "ELECTRIC(BOV)": 20186,
+      "LPG ONLY": 24,
+      "PETROL": 81748,
+      "PETROL/CNG": 3310,
+      "PETROL/ETHANOL": 2123,
+      "PETROL/HYBRID": 3581
+    },
+    "ev_share_pct": 16.49
+  },
+  {
+    "rto_name": "BENGALURU SOUTH  RTO",
+    "rto_code": "5",
+    "year": 2024,
+    "ev_count": 22366,
+    "total_registrations": 125827,
+    "fuel_breakdown": {
+      "CNG ONLY": 3019,
+      "DIESEL": 7802,
+      "DIESEL/HYBRID": 53,
+      "ELECTRIC(BOV)": 14858,
+      "ETHANOL": 1,
+      "LPG ONLY": 23,
+      "NOT APPLICABLE": 1,
+      "PETROL": 82572,
+      "PETROL/CNG": 3707,
+      "PETROL/ETHANOL": 2935,
+      "PETROL/HYBRID": 2522,
+      "PURE EV": 7508,
+      "STRONG HYBRID EV": 826
+    },
+    "ev_share_pct": 17.78
+  },
+  {
+    "rto_name": "BENGALURU SOUTH  RTO",
+    "rto_code": "5",
+    "year": 2025,
+    "ev_count": 11296,
+    "total_registrations": 59236,
+    "fuel_breakdown": {
+      "CNG ONLY": 1066,
+      "DIESEL": 3421,
+      "DIESEL/HYBRID": 38,
+      "ELECTRIC(BOV)": 4030,
+      "ETHANOL": 25,
+      "LPG ONLY": 7,
+      "PETROL": 32797,
+      "PETROL/CNG": 1557,
+      "PETROL/ETHANOL": 7523,
+      "PETROL/HYBRID": 917,
+      "PURE EV": 7266,
+      "STRONG HYBRID EV": 589
+    },
+    "ev_share_pct": 19.07
+  },
+  {
+    "rto_name": "BENGALURU WEST  RTO",
+    "rto_code": "2",
+    "year": 2021,
+    "ev_count": 1735,
+    "total_registrations": 46645,
+    "fuel_breakdown": {
+      "CNG ONLY": 157,
+      "DIESEL": 3327,
+      "ELECTRIC(BOV)": 1735,
+      "LPG ONLY": 119,
+      "NOT APPLICABLE": 3,
+      "PETROL": 40181,
+      "PETROL/CNG": 236,
+      "PETROL/HYBRID": 883,
+      "PETROL/LPG": 4
+    },
+    "ev_share_pct": 3.72
+  },
+  {
+    "rto_name": "BENGALURU WEST  RTO",
+    "rto_code": "2",
+    "year": 2022,
+    "ev_count": 6454,
+    "total_registrations": 64320,
+    "fuel_breakdown": {
+      "CNG ONLY": 1039,
+      "DIESEL": 4532,
+      "DIESEL/HYBRID": 3,
+      "ELECTRIC(BOV)": 6454,
+      "LPG ONLY": 34,
+      "PETROL": 50496,
+      "PETROL/CNG": 607,
+      "PETROL/HYBRID": 1154,
+      "PETROL/LPG": 1
+    },
+    "ev_share_pct": 10.03
+  },
+  {
+    "rto_name": "BENGALURU WEST  RTO",
+    "rto_code": "2",
+    "year": 2023,
+    "ev_count": 10849,
+    "total_registrations": 75219,
+    "fuel_breakdown": {
+      "CNG ONLY": 5106,
+      "DIESEL": 4674,
+      "DIESEL/HYBRID": 10,
+      "ELECTRIC(BOV)": 10849,
+      "LPG ONLY": 54,
+      "PETROL": 50092,
+      "PETROL/CNG": 633,
+      "PETROL/ETHANOL": 1750,
+      "PETROL/HYBRID": 2051
+    },
+    "ev_share_pct": 14.42
+  },
+  {
+    "rto_name": "BENGALURU WEST  RTO",
+    "rto_code": "2",
+    "year": 2024,
+    "ev_count": 12190,
+    "total_registrations": 87702,
+    "fuel_breakdown": {
+      "CNG ONLY": 9868,
+      "DIESEL": 4887,
+      "DIESEL/HYBRID": 38,
+      "ELECTRIC(BOV)": 9219,
+      "LPG ONLY": 69,
+      "PETROL": 55091,
+      "PETROL/CNG": 539,
+      "PETROL/ETHANOL": 2992,
+      "PETROL/HYBRID": 1573,
+      "PURE EV": 2971,
+      "STRONG HYBRID EV": 455
+    },
+    "ev_share_pct": 13.9
+  },
+  {
+    "rto_name": "BENGALURU WEST  RTO",
+    "rto_code": "2",
+    "year": 2025,
+    "ev_count": 6492,
+    "total_registrations": 42168,
+    "fuel_breakdown": {
+      "CNG ONLY": 4497,
+      "DIESEL": 2014,
+      "DIESEL/HYBRID": 20,
+      "ELECTRIC(BOV)": 2165,
+      "ETHANOL": 4,
+      "LPG ONLY": 39,
+      "NOT APPLICABLE": 2,
+      "PETROL": 21999,
+      "PETROL/CNG": 539,
+      "PETROL/ETHANOL": 5702,
+      "PETROL/HYBRID": 535,
+      "PURE EV": 4327,
+      "STRONG HYBRID EV": 325
+    },
+    "ev_share_pct": 15.4
+  },
+  {
+    "rto_name": "CHANDAPURA, BENGALURU RTO",
+    "rto_code": "59",
+    "year": 2021,
+    "ev_count": 255,
+    "total_registrations": 10849,
+    "fuel_breakdown": {
+      "CNG ONLY": 28,
+      "DIESEL": 765,
+      "ELECTRIC(BOV)": 255,
+      "LPG ONLY": 2,
+      "NOT APPLICABLE": 15,
+      "PETROL": 9728,
+      "PETROL/CNG": 14,
+      "PETROL/HYBRID": 42
+    },
+    "ev_share_pct": 2.35
+  },
+  {
+    "rto_name": "CHANDAPURA, BENGALURU RTO",
+    "rto_code": "59",
+    "year": 2022,
+    "ev_count": 475,
+    "total_registrations": 11944,
+    "fuel_breakdown": {
+      "CNG ONLY": 65,
+      "DIESEL": 1403,
+      "ELECTRIC(BOV)": 475,
+      "NOT APPLICABLE": 42,
+      "PETROL": 9846,
+      "PETROL/CNG": 52,
+      "PETROL/HYBRID": 61
+    },
+    "ev_share_pct": 3.98
+  },
+  {
+    "rto_name": "CHANDAPURA, BENGALURU RTO",
+    "rto_code": "59",
+    "year": 2023,
+    "ev_count": 2299,
+    "total_registrations": 12614,
+    "fuel_breakdown": {
+      "CNG ONLY": 50,
+      "DIESEL": 1562,
+      "ELECTRIC(BOV)": 2299,
+      "NOT APPLICABLE": 22,
+      "PETROL": 7888,
+      "PETROL/CNG": 84,
+      "PETROL/ETHANOL": 612,
+      "PETROL/HYBRID": 97
+    },
+    "ev_share_pct": 18.23
+  },
+  {
+    "rto_name": "CHANDAPURA, BENGALURU RTO",
+    "rto_code": "59",
+    "year": 2024,
+    "ev_count": 1769,
+    "total_registrations": 11112,
+    "fuel_breakdown": {
+      "CNG ONLY": 30,
+      "DIESEL": 1341,
+      "DIESEL/HYBRID": 2,
+      "ELECTRIC(BOV)": 1423,
+      "NOT APPLICABLE": 17,
+      "PETROL": 6942,
+      "PETROL/CNG": 65,
+      "PETROL/ETHANOL": 821,
+      "PETROL/HYBRID": 96,
+      "PURE EV": 346,
+      "STRONG HYBRID EV": 29
+    },
+    "ev_share_pct": 15.92
+  },
+  {
+    "rto_name": "CHANDAPURA, BENGALURU RTO",
+    "rto_code": "59",
+    "year": 2025,
+    "ev_count": 692,
+    "total_registrations": 5040,
+    "fuel_breakdown": {
+      "CNG ONLY": 23,
+      "DIESEL": 662,
+      "ELECTRIC(BOV)": 174,
+      "LNG": 20,
+      "NOT APPLICABLE": 18,
+      "PETROL": 2802,
+      "PETROL/CNG": 55,
+      "PETROL/ETHANOL": 728,
+      "PETROL/HYBRID": 28,
+      "PURE EV": 518,
+      "STRONG HYBRID EV": 12
+    },
+    "ev_share_pct": 13.73
+  },
+  {
+    "rto_name": "ELECTRONIC CITY  RTO",
+    "rto_code": "51",
+    "year": 2021,
+    "ev_count": 6014,
+    "total_registrations": 53231,
+    "fuel_breakdown": {
+      "CNG ONLY": 402,
+      "DIESEL": 6726,
+      "ELECTRIC(BOV)": 6014,
+      "LPG ONLY": 5,
+      "NOT APPLICABLE": 320,
+      "PETROL": 38604,
+      "PETROL/CNG": 209,
+      "PETROL/HYBRID": 951
+    },
+    "ev_share_pct": 11.3
+  },
+  {
+    "rto_name": "ELECTRONIC CITY  RTO",
+    "rto_code": "51",
+    "year": 2022,
+    "ev_count": 8982,
+    "total_registrations": 73609,
+    "fuel_breakdown": {
+      "CNG ONLY": 546,
+      "DIESEL": 8633,
+      "DIESEL/HYBRID": 3,
+      "ELECTRIC(BOV)": 8982,
+      "LPG ONLY": 5,
+      "NOT APPLICABLE": 476,
+      "PETROL": 53004,
+      "PETROL/CNG": 837,
+      "PETROL/HYBRID": 1123
+    },
+    "ev_share_pct": 12.2
+  },
+  {
+    "rto_name": "ELECTRONIC CITY  RTO",
+    "rto_code": "51",
+    "year": 2023,
+    "ev_count": 9206,
+    "total_registrations": 75897,
+    "fuel_breakdown": {
+      "CNG ONLY": 450,
+      "DIESEL": 9575,
+      "DIESEL/HYBRID": 12,
+      "ELECTRIC(BOV)": 9206,
+      "LPG ONLY": 1,
+      "NOT APPLICABLE": 257,
+      "PETROL": 51573,
+      "PETROL/CNG": 758,
+      "PETROL/ETHANOL": 2069,
+      "PETROL/HYBRID": 1996
+    },
+    "ev_share_pct": 12.13
+  },
+  {
+    "rto_name": "ELECTRONIC CITY  RTO",
+    "rto_code": "51",
+    "year": 2024,
+    "ev_count": 10515,
+    "total_registrations": 77894,
+    "fuel_breakdown": {
+      "CNG ONLY": 590,
+      "DIESEL": 9818,
+      "DIESEL/HYBRID": 38,
+      "DUAL DIESEL/LNG": 20,
+      "ELECTRIC(BOV)": 7947,
+      "ETHANOL": 1,
+      "NOT APPLICABLE": 247,
+      "PETROL": 51152,
+      "PETROL/CNG": 1202,
+      "PETROL/ETHANOL": 2614,
+      "PETROL/HYBRID": 1281,
+      "PURE EV": 2568,
+      "STRONG HYBRID EV": 416
+    },
+    "ev_share_pct": 13.5
+  },
+  {
+    "rto_name": "ELECTRONIC CITY  RTO",
+    "rto_code": "51",
+    "year": 2025,
+    "ev_count": 5097,
+    "total_registrations": 37710,
+    "fuel_breakdown": {
+      "CNG ONLY": 286,
+      "DIESEL": 5174,
+      "DIESEL/HYBRID": 19,
+      "ELECTRIC(BOV)": 1951,
+      "ETHANOL": 3,
+      "NOT APPLICABLE": 81,
+      "PETROL": 19903,
+      "PETROL/CNG": 1486,
+      "PETROL/ETHANOL": 4753,
+      "PETROL/HYBRID": 560,
+      "PURE EV": 3146,
+      "STRONG HYBRID EV": 348
+    },
+    "ev_share_pct": 13.52
+  },
+  {
+    "rto_name": "JNANABHARATHI  RTO",
+    "rto_code": "41",
+    "year": 2021,
+    "ev_count": 285,
+    "total_registrations": 18943,
+    "fuel_breakdown": {
+      "CNG ONLY": 91,
+      "DIESEL": 1683,
+      "DIESEL/HYBRID": 1,
+      "ELECTRIC(BOV)": 285,
+      "LPG ONLY": 28,
+      "NOT APPLICABLE": 39,
+      "PETROL": 16183,
+      "PETROL/CNG": 153,
+      "PETROL/HYBRID": 476,
+      "PETROL/LPG": 4
+    },
+    "ev_share_pct": 1.5
+  },
+  {
+    "rto_name": "JNANABHARATHI  RTO",
+    "rto_code": "41",
+    "year": 2022,
+    "ev_count": 1567,
+    "total_registrations": 25318,
+    "fuel_breakdown": {
+      "CNG ONLY": 375,
+      "DIESEL": 2286,
+      "ELECTRIC(BOV)": 1567,
+      "LPG ONLY": 3,
+      "NOT APPLICABLE": 23,
+      "PETROL": 20141,
+      "PETROL/CNG": 315,
+      "PETROL/HYBRID": 608
+    },
+    "ev_share_pct": 6.19
+  },
+  {
+    "rto_name": "JNANABHARATHI  RTO",
+    "rto_code": "41",
+    "year": 2023,
+    "ev_count": 4363,
+    "total_registrations": 32213,
+    "fuel_breakdown": {
+      "CNG ONLY": 900,
+      "DIESEL": 2616,
+      "DIESEL/HYBRID": 6,
+      "ELECTRIC(BOV)": 4363,
+      "LPG ONLY": 8,
+      "NOT APPLICABLE": 80,
+      "PETROL": 22435,
+      "PETROL/CNG": 616,
+      "PETROL/ETHANOL": 356,
+      "PETROL/HYBRID": 833
+    },
+    "ev_share_pct": 13.54
+  },
+  {
+    "rto_name": "JNANABHARATHI  RTO",
+    "rto_code": "41",
+    "year": 2024,
+    "ev_count": 4038,
+    "total_registrations": 34072,
+    "fuel_breakdown": {
+      "CNG ONLY": 972,
+      "DIESEL": 2566,
+      "DIESEL/HYBRID": 8,
+      "ELECTRIC(BOV)": 2974,
+      "LPG ONLY": 11,
+      "NOT APPLICABLE": 1,
+      "PETROL": 24081,
+      "PETROL/CNG": 960,
+      "PETROL/ETHANOL": 537,
+      "PETROL/HYBRID": 768,
+      "PURE EV": 1064,
+      "STRONG HYBRID EV": 130
+    },
+    "ev_share_pct": 11.85
+  },
+  {
+    "rto_name": "JNANABHARATHI  RTO",
+    "rto_code": "41",
+    "year": 2025,
+    "ev_count": 1925,
+    "total_registrations": 16672,
+    "fuel_breakdown": {
+      "CNG ONLY": 406,
+      "DIESEL": 1190,
+      "DIESEL/HYBRID": 5,
+      "ELECTRIC(BOV)": 304,
+      "ETHANOL": 5,
+      "LPG ONLY": 4,
+      "NOT APPLICABLE": 3,
+      "PETROL": 9964,
+      "PETROL/CNG": 692,
+      "PETROL/ETHANOL": 2111,
+      "PETROL/HYBRID": 310,
+      "PURE EV": 1621,
+      "STRONG HYBRID EV": 57
+    },
+    "ev_share_pct": 11.55
+  },
+  {
+    "rto_name": "KRISHNARAJAPURAM  RTO",
+    "rto_code": "53",
+    "year": 2021,
+    "ev_count": 937,
+    "total_registrations": 34155,
+    "fuel_breakdown": {
+      "CNG ONLY": 97,
+      "DIESEL": 2679,
+      "ELECTRIC(BOV)": 937,
+      "LPG ONLY": 3,
+      "NOT APPLICABLE": 99,
+      "PETROL": 29647,
+      "PETROL/CNG": 133,
+      "PETROL/HYBRID": 560
+    },
+    "ev_share_pct": 2.74
+  },
+  {
+    "rto_name": "KRISHNARAJAPURAM  RTO",
+    "rto_code": "53",
+    "year": 2022,
+    "ev_count": 3580,
+    "total_registrations": 57412,
+    "fuel_breakdown": {
+      "CNG ONLY": 184,
+      "DIESEL": 4895,
+      "DIESEL/HYBRID": 1,
+      "ELECTRIC(BOV)": 3580,
+      "LPG ONLY": 1,
+      "NOT APPLICABLE": 106,
+      "PETROL": 47728,
+      "PETROL/CNG": 294,
+      "PETROL/HYBRID": 623
+    },
+    "ev_share_pct": 6.24
+  },
+  {
+    "rto_name": "KRISHNARAJAPURAM  RTO",
+    "rto_code": "53",
+    "year": 2023,
+    "ev_count": 6369,
+    "total_registrations": 69839,
+    "fuel_breakdown": {
+      "CNG ONLY": 164,
+      "DIESEL": 5712,
+      "DIESEL/HYBRID": 21,
+      "ELECTRIC(BOV)": 6369,
+      "LPG ONLY": 2,
+      "NOT APPLICABLE": 123,
+      "PETROL": 52486,
+      "PETROL/CNG": 672,
+      "PETROL/ETHANOL": 3088,
+      "PETROL/HYBRID": 1202
+    },
+    "ev_share_pct": 9.12
+  },
+  {
+    "rto_name": "KRISHNARAJAPURAM  RTO",
+    "rto_code": "53",
+    "year": 2024,
+    "ev_count": 6109,
+    "total_registrations": 71987,
+    "fuel_breakdown": {
+      "CNG ONLY": 368,
+      "DIESEL": 5995,
+      "DIESEL/HYBRID": 20,
+      "ELECTRIC(BOV)": 4643,
+      "ETHANOL": 1,
+      "LPG ONLY": 3,
+      "NOT APPLICABLE": 210,
+      "PETROL": 53345,
+      "PETROL/CNG": 751,
+      "PETROL/ETHANOL": 4026,
+      "PETROL/HYBRID": 877,
+      "PURE EV": 1466,
+      "STRONG HYBRID EV": 282
+    },
+    "ev_share_pct": 8.49
+  },
+  {
+    "rto_name": "KRISHNARAJAPURAM  RTO",
+    "rto_code": "53",
+    "year": 2025,
+    "ev_count": 3176,
+    "total_registrations": 37315,
+    "fuel_breakdown": {
+      "CNG ONLY": 137,
+      "DIESEL": 3669,
+      "DIESEL/HYBRID": 16,
+      "ELECTRIC(BOV)": 810,
+      "ETHANOL": 8,
+      "LPG ONLY": 1,
+      "NOT APPLICABLE": 93,
+      "PETROL": 22869,
+      "PETROL/CNG": 398,
+      "PETROL/ETHANOL": 6282,
+      "PETROL/HYBRID": 394,
+      "PURE EV": 2366,
+      "STRONG HYBRID EV": 272
+    },
+    "ev_share_pct": 8.51
+  },
+  {
+    "rto_name": "YALAHANKA  RTO",
+    "rto_code": "50",
+    "year": 2021,
+    "ev_count": 746,
+    "total_registrations": 20054,
+    "fuel_breakdown": {
+      "CNG ONLY": 76,
+      "DIESEL": 1342,
+      "ELECTRIC(BOV)": 746,
+      "LPG ONLY": 4,
+      "NOT APPLICABLE": 87,
+      "PETROL": 17262,
+      "PETROL/CNG": 133,
+      "PETROL/HYBRID": 404
+    },
+    "ev_share_pct": 3.72
+  },
+  {
+    "rto_name": "YALAHANKA  RTO",
+    "rto_code": "50",
+    "year": 2022,
+    "ev_count": 2523,
+    "total_registrations": 29671,
+    "fuel_breakdown": {
+      "CNG ONLY": 137,
+      "DIESEL": 2644,
+      "DIESEL/HYBRID": 3,
+      "ELECTRIC(BOV)": 2523,
+      "NOT APPLICABLE": 172,
+      "PETROL": 23194,
+      "PETROL/CNG": 417,
+      "PETROL/HYBRID": 580,
+      "PETROL/LPG": 1
+    },
+    "ev_share_pct": 8.5
+  },
+  {
+    "rto_name": "YALAHANKA  RTO",
+    "rto_code": "50",
+    "year": 2023,
+    "ev_count": 7449,
+    "total_registrations": 37735,
+    "fuel_breakdown": {
+      "CNG ONLY": 96,
+      "DIESEL": 2821,
+      "DIESEL/HYBRID": 9,
+      "ELECTRIC(BOV)": 7449,
+      "LPG ONLY": 3,
+      "NOT APPLICABLE": 120,
+      "PETROL": 24569,
+      "PETROL/CNG": 884,
+      "PETROL/ETHANOL": 687,
+      "PETROL/HYBRID": 1097
+    },
+    "ev_share_pct": 19.74
+  },
+  {
+    "rto_name": "YALAHANKA  RTO",
+    "rto_code": "50",
+    "year": 2024,
+    "ev_count": 7038,
+    "total_registrations": 43949,
+    "fuel_breakdown": {
+      "CNG ONLY": 222,
+      "DIESEL": 3218,
+      "DIESEL/HYBRID": 20,
+      "ELECTRIC(BOV)": 5477,
+      "ETHANOL": 1,
+      "LPG ONLY": 8,
+      "NOT APPLICABLE": 217,
+      "PETROL": 28960,
+      "PETROL/CNG": 1692,
+      "PETROL/ETHANOL": 1427,
+      "PETROL/HYBRID": 940,
+      "PURE EV": 1561,
+      "STRONG HYBRID EV": 206
+    },
+    "ev_share_pct": 16.01
+  },
+  {
+    "rto_name": "YALAHANKA  RTO",
+    "rto_code": "50",
+    "year": 2025,
+    "ev_count": 3000,
+    "total_registrations": 21320,
+    "fuel_breakdown": {
+      "CNG ONLY": 140,
+      "DIESEL": 1797,
+      "DIESEL/HYBRID": 14,
+      "ELECTRIC(BOV)": 748,
+      "LPG ONLY": 10,
+      "NOT APPLICABLE": 155,
+      "PETROL": 11944,
+      "PETROL/CNG": 501,
+      "PETROL/ETHANOL": 3096,
+      "PETROL/HYBRID": 413,
+      "PURE EV": 2252,
+      "STRONG HYBRID EV": 250
+    },
+    "ev_share_pct": 14.07
+  }
+]

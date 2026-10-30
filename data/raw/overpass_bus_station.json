@@ -1,0 +1,3959 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-08-23T15:57:21Z",
+    "timestamp_areas_base": "2026-08-22T22:50:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 446805877,
+      "lat": 13.0362217,
+      "lon": 77.5663481,
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Chikkamaranahalli",
+        "name:kn": "\u0c9a\u0cbf\u0c95\u0ccd\u0c95\u0cae\u0cbe\u0cb0\u0ca8\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 471760581,
+      "lat": 12.9052725,
+      "lon": 77.5432875,
+      "tags": {
+        "amenity": "bus_station",
+        "name": "Uttarahalli Bus Station",
+        "name:kn": "\u0c89\u0ca4\u0ccd\u0ca4\u0cb0\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 521144263,
+      "lat": 13.0452298,
+      "lon": 77.547996,
+      "tags": {
+        "amenity": "bus_station",
+        "name": "Jalahalli Village",
+        "name:kn": "\u0c9c\u0cbe\u0cb2\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 954610622,
+      "lat": 12.9444378,
+      "lon": 77.5546637,
+      "tags": {
+        "amenity": "bus_station",
+        "building": "public",
+        "name": "Srinagar Bus Station",
+        "name:kn": "\u0cb6\u0ccd\u0cb0\u0cc0\u0ca8\u0c97\u0cb0 \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1428116573,
+      "lat": 12.9070833,
+      "lon": 77.6351607,
+      "tags": {
+        "amenity": "bus_station",
+        "name": "Mangammanapalya",
+        "name:kn": "\u0cae\u0c82\u0c97\u0cae\u0ccd\u0cae\u0ca8 \u0caa\u0cbe\u0cb3\u0ccd\u0caf"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1473053490,
+      "lat": 13.0367319,
+      "lon": 77.5237031,
+      "tags": {
+        "amenity": "bus_station",
+        "name": "BMTC",
+        "name:kn": "\u0cac\u0cbf\u0c8e\u0c82\u0c9f\u0cbf\u0cb8\u0cbf"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1529386309,
+      "lat": 13.0730486,
+      "lon": 77.5413377,
+      "tags": {
+        "amenity": "bus_station",
+        "name": "Kuvempunagar 2nd Stage"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1789736226,
+      "lat": 12.9534085,
+      "lon": 77.5435706,
+      "tags": {
+        "amenity": "bus_station",
+        "check_date": "2024-04-05",
+        "name": "Mysore Road Bus Station",
+        "name:kn": "\u0cae\u0cc8\u0cb8\u0cc2\u0cb0\u0cc1 \u0cb0\u0cb8\u0ccd\u0ca4\u0cc6 \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1794171016,
+      "lat": 13.0108586,
+      "lon": 77.5069287,
+      "tags": {
+        "amenity": "bus_station",
+        "name": "Peenya 2nd Stage",
+        "name:kn": "\u0caa\u0cc0\u0ca3\u0ccd\u0caf \u0ce8\u0ca8\u0cc7 \u0cb9\u0c82\u0ca4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1809771508,
+      "lat": 12.9803795,
+      "lon": 77.5760204,
+      "tags": {
+        "amenity": "bus_station",
+        "name": "SRS Bus Station",
+        "operator": "SRS Travels",
+        "website": "https://www.srsbooking.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1809771510,
+      "lat": 12.9803246,
+      "lon": 77.5754733,
+      "tags": {
+        "amenity": "bus_station",
+        "name": "VRL Bus Station",
+        "operator": "VRL Travels",
+        "website": "https://www.vrlbus.in/vrl2013/booking_home_page.aspx"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2123629154,
+      "lat": 12.9151671,
+      "lon": 77.552159,
+      "tags": {
+        "amenity": "bus_station",
+        "name": "Chikkalasandra Bus Stop",
+        "name:kn": "\u0c9a\u0cbf\u0c95\u0ccd\u0c95\u0cb2\u0cb8\u0c82\u0ca6\u0ccd\u0cb0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2126404931,
+      "lat": 12.9123803,
+      "lon": 77.5371751,
+      "tags": {
+        "amenity": "bus_station",
+        "name": "AGS Layout Bus Stand",
+        "public_transport": "station",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2281199651,
+      "lat": 12.8894502,
+      "lon": 77.5940375,
+      "tags": {
+        "amenity": "bus_station",
+        "name": "Arekere MICO Layout Bus Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2394086882,
+      "lat": 13.0098511,
+      "lon": 77.5691769,
+      "tags": {
+        "amenity": "bus_station",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "covered": "yes",
+        "name": "Malleswaram 18th Cross",
+        "name:en": "Malleswaram 18th Cross",
+        "name:kn": "\u0cae\u0cb2\u0ccd\u0cb2\u0cc7\u0cb6\u0ccd\u0cb5\u0cb0\u0c82 \u0ce7\u0cee\u0ca8\u0cc7 \u0c85\u0ca1\u0ccd\u0ca1",
+        "network": "BMTC",
+        "operator": "BMTC",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3300149440,
+      "lat": 12.9127356,
+      "lon": 77.6380054,
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "HSR Layout",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4130929491,
+      "lat": 12.9609947,
+      "lon": 77.5508936,
+      "tags": {
+        "addr:street": "vinayaka nagar",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Old Gudahalli",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4242256789,
+      "lat": 13.1110497,
+      "lon": 77.5797494,
+      "tags": {
+        "addr:postcode": "560064",
+        "addr:street": "Doddaballapur Road",
+        "amenity": "bus_station",
+        "name": "Bus Station Puttanahalli",
+        "name:kn": "\u0caa\u0cc1\u0c9f\u0ccd\u0c9f\u0ca8\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4417325592,
+      "lat": 12.9486948,
+      "lon": 77.7080762,
+      "tags": {
+        "amenity": "bus_station",
+        "name": "Munekolala bus stand",
+        "name:kn": "\u0cae\u0cc1\u0ca8\u0cc6\u0c95\u0cca\u0cb2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9942510003,
+      "lat": 13.0220475,
+      "lon": 77.5514003,
+      "tags": {
+        "amenity": "bus_station",
+        "name": "KSRTC Pickup Point",
+        "website": "ksrtc.in"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12076711792,
+      "lat": 12.8972797,
+      "lon": 77.6454852,
+      "tags": {
+        "addr:city": "Bengaluru",
+        "addr:district": "Bengaluru",
+        "addr:postcode": "560068",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Hosapalya Bus Stop",
+        "name:ta": "\u0bb9\u0bcb\u0b9a\u0bbe\u0baa\u0bbe\u0bb2\u0bcd\u0baf\u0bbe \u0baa\u0bb8\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 31231545,
+      "bounds": {
+        "minlat": 12.9612806,
+        "minlon": 77.6382119,
+        "maxlat": 12.9623232,
+        "maxlon": 77.6392473
+      },
+      "nodes": [
+        347261910,
+        347261911,
+        1420066635,
+        1780091339,
+        1420066651,
+        345543199,
+        345543198,
+        347261910
+      ],
+      "geometry": [
+        {
+          "lat": 12.9612806,
+          "lon": 77.6386615
+        },
+        {
+          "lat": 12.9617357,
+          "lon": 77.6382119
+        },
+        {
+          "lat": 12.9619212,
+          "lon": 77.6384058
+        },
+        {
+          "lat": 12.9619883,
+          "lon": 77.6384764
+        },
+        {
+          "lat": 12.9620415,
+          "lon": 77.6384232
+        },
+        {
+          "lat": 12.9623232,
+          "lon": 77.6387197
+        },
+        {
+          "lat": 12.9618804,
+          "lon": 77.6392473
+        },
+        {
+          "lat": 12.9612806,
+          "lon": 77.6386615
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Domlur Bus Station",
+        "name:kn": "\u0ca6\u0cca\u0cae\u0ccd\u0cae\u0cb2\u0cc2\u0cb0\u0cc1 \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3",
+        "official_name": "Dr. BR Ambedkar Bus Terminal",
+        "public_transport": "station",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 36885141,
+      "bounds": {
+        "minlat": 12.9637586,
+        "minlon": 77.5771453,
+        "maxlat": 12.9643883,
+        "maxlon": 77.5784387
+      },
+      "nodes": [
+        428858189,
+        428858190,
+        1837339341,
+        428858191,
+        3355935597,
+        428858192,
+        428858193,
+        428858194,
+        428858189
+      ],
+      "geometry": [
+        {
+          "lat": 12.9642026,
+          "lon": 77.5771453
+        },
+        {
+          "lat": 12.9643703,
+          "lon": 77.5773061
+        },
+        {
+          "lat": 12.9643883,
+          "lon": 77.5775095
+        },
+        {
+          "lat": 12.9643779,
+          "lon": 77.5776458
+        },
+        {
+          "lat": 12.9642784,
+          "lon": 77.5776495
+        },
+        {
+          "lat": 12.9637586,
+          "lon": 77.5784387
+        },
+        {
+          "lat": 12.9638058,
+          "lon": 77.5781909
+        },
+        {
+          "lat": 12.9640574,
+          "lon": 77.5776067
+        },
+        {
+          "lat": 12.9642026,
+          "lon": 77.5771453
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "KR Market Bus Terminus",
+        "name:kn": "\u0c95\u0cc3\u0cb7\u0ccd\u0ca3\u0cb0\u0cbe\u0c9c\u0cc7\u0c82\u0ca6\u0ccd\u0cb0 \u0cae\u0cbe\u0cb0\u0cc1\u0c95\u0c9f\u0ccd\u0c9f\u0cc6",
+        "public_transport": "station",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37339217,
+      "bounds": {
+        "minlat": 12.9591166,
+        "minlon": 77.5766607,
+        "maxlat": 12.9616771,
+        "maxlon": 77.5776405
+      },
+      "nodes": [
+        435245495,
+        435245496,
+        11304487425,
+        11304487424,
+        435245497,
+        1837339181,
+        10012619977,
+        10012619976,
+        1837339177,
+        3770161962,
+        435245498,
+        11304487426,
+        435245495
+      ],
+      "geometry": [
+        {
+          "lat": 12.9616771,
+          "lon": 77.5770546
+        },
+        {
+          "lat": 12.96141,
+          "lon": 77.5776405
+        },
+        {
+          "lat": 12.9610824,
+          "lon": 77.5775743
+        },
+        {
+          "lat": 12.9603727,
+          "lon": 77.5775407
+        },
+        {
+          "lat": 12.9599544,
+          "lon": 77.5775868
+        },
+        {
+          "lat": 12.9599536,
+          "lon": 77.5773409
+        },
+        {
+          "lat": 12.9594879,
+          "lon": 77.5772792
+        },
+        {
+          "lat": 12.9594722,
+          "lon": 77.577593
+        },
+        {
+          "lat": 12.9591166,
+          "lon": 77.5775624
+        },
+        {
+          "lat": 12.9592163,
+          "lon": 77.577073
+        },
+        {
+          "lat": 12.9593003,
+          "lon": 77.5766607
+        },
+        {
+          "lat": 12.9594097,
+          "lon": 77.5766788
+        },
+        {
+          "lat": 12.9616771,
+          "lon": 77.5770546
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Kalasipalyam Bus Stand",
+        "name:hi": "\u0915\u0932\u093e\u0938\u093f\u092a\u093e\u0933\u092f\u092e \u092c\u0938 \u0938\u094d\u091f\u0947\u0928\u094d\u0921",
+        "name:kn": "\u0c95\u0cb2\u0cbe\u0cb8\u0cbf\u0caa\u0cbe\u0cb3\u0ccd\u0caf\u0cae\u0ccd \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3",
+        "name:ta": "\u0b95\u0bb2\u0bbe\u0bb8\u0bbf\u0baa\u0bbe\u0bb3\u0bcd\u0baf\u0bae\u0bcd \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 54148031,
+      "bounds": {
+        "minlat": 12.9586322,
+        "minlon": 77.5351875,
+        "maxlat": 12.9593261,
+        "maxlon": 77.5357698
+      },
+      "nodes": [
+        11873259302,
+        11873259303,
+        683067877,
+        683067632,
+        11873259302
+      ],
+      "geometry": [
+        {
+          "lat": 12.9591324,
+          "lon": 77.5351875
+        },
+        {
+          "lat": 12.9593261,
+          "lon": 77.5353875
+        },
+        {
+          "lat": 12.9589697,
+          "lon": 77.5357698
+        },
+        {
+          "lat": 12.9586322,
+          "lon": 77.5354185
+        },
+        {
+          "lat": 12.9591324,
+          "lon": 77.5351875
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Hampinagara Bus Station",
+        "name:en": "Hampinagara Bus Station",
+        "name:kn": "\u0cb9\u0c82\u0caa\u0cbf\u0ca8\u0c97\u0cb0 \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 122415848,
+      "bounds": {
+        "minlat": 12.9404285,
+        "minlon": 77.6243922,
+        "maxlat": 12.9415055,
+        "maxlon": 77.6257118
+      },
+      "nodes": [
+        3969066508,
+        1368030144,
+        10797060722,
+        1368030129,
+        7262972980,
+        3740957814,
+        443224617,
+        3969066509,
+        3969066508
+      ],
+      "geometry": [
+        {
+          "lat": 12.9405539,
+          "lon": 77.6257118
+        },
+        {
+          "lat": 12.9404285,
+          "lon": 77.6255118
+        },
+        {
+          "lat": 12.9404553,
+          "lon": 77.6250883
+        },
+        {
+          "lat": 12.9404568,
+          "lon": 77.6250388
+        },
+        {
+          "lat": 12.9405373,
+          "lon": 77.6249645
+        },
+        {
+          "lat": 12.9410561,
+          "lon": 77.6244838
+        },
+        {
+          "lat": 12.9411467,
+          "lon": 77.6243922
+        },
+        {
+          "lat": 12.9415055,
+          "lon": 77.6247904
+        },
+        {
+          "lat": 12.9405539,
+          "lon": 77.6257118
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Koramangala TTMC",
+        "name:kn": "\u0c95\u0ccb\u0cb0\u0cae\u0c82\u0c97\u0cb2",
+        "operator": "BMTC",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 130127246,
+      "bounds": {
+        "minlat": 12.9951979,
+        "minlon": 77.7581526,
+        "maxlat": 12.9962038,
+        "maxlon": 77.7588681
+      },
+      "nodes": [
+        1434224674,
+        1434224690,
+        1434224691,
+        1434224687,
+        1434224695,
+        12135160554,
+        12135160555,
+        1434224674
+      ],
+      "geometry": [
+        {
+          "lat": 12.9961644,
+          "lon": 77.7584356
+        },
+        {
+          "lat": 12.9953143,
+          "lon": 77.7581526
+        },
+        {
+          "lat": 12.9951979,
+          "lon": 77.7585552
+        },
+        {
+          "lat": 12.9957879,
+          "lon": 77.7588668
+        },
+        {
+          "lat": 12.9961618,
+          "lon": 77.7588681
+        },
+        {
+          "lat": 12.9962038,
+          "lon": 77.7586247
+        },
+        {
+          "lat": 12.9961463,
+          "lon": 77.7586073
+        },
+        {
+          "lat": 12.9961644,
+          "lon": 77.7584356
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "designation": "BMTC",
+        "name": "Kadugodi Bus Station",
+        "name:kn": "\u0c95\u0cbe\u0ca1\u0cc1\u0c97\u0ccb\u0ca1\u0cbf",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 130127247,
+      "bounds": {
+        "minlat": 12.9955554,
+        "minlon": 77.7584427,
+        "maxlat": 12.9958424,
+        "maxlon": 77.7585982
+      },
+      "nodes": [
+        1434224698,
+        1434224699,
+        1434224678,
+        1434224683,
+        1434224701,
+        1434224675,
+        1434224676,
+        1434224694,
+        1434224698
+      ],
+      "geometry": [
+        {
+          "lat": 12.9958424,
+          "lon": 77.758534
+        },
+        {
+          "lat": 12.9958198,
+          "lon": 77.7585982
+        },
+        {
+          "lat": 12.9955554,
+          "lon": 77.7584999
+        },
+        {
+          "lat": 12.9955756,
+          "lon": 77.7584427
+        },
+        {
+          "lat": 12.9956672,
+          "lon": 77.7584767
+        },
+        {
+          "lat": 12.9956788,
+          "lon": 77.7584437
+        },
+        {
+          "lat": 12.9957464,
+          "lon": 77.7584688
+        },
+        {
+          "lat": 12.9957372,
+          "lon": 77.7584949
+        },
+        {
+          "lat": 12.9958424,
+          "lon": 77.758534
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Kadugodi Bus Station",
+        "name:kn": "\u0c95\u0cbe\u0ca1\u0cc1\u0c97\u0ccb\u0ca1\u0cbf \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca8",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 131219780,
+      "bounds": {
+        "minlat": 12.965519,
+        "minlon": 77.6576507,
+        "maxlat": 12.9659982,
+        "maxlon": 77.6585151
+      },
+      "nodes": [
+        1444650619,
+        3743041229,
+        3742854804,
+        3743040424,
+        1444650587,
+        3351705369,
+        1444650626,
+        1444650616,
+        1444650619
+      ],
+      "geometry": [
+        {
+          "lat": 12.9659982,
+          "lon": 77.657698
+        },
+        {
+          "lat": 12.9659805,
+          "lon": 77.6576958
+        },
+        {
+          "lat": 12.9659653,
+          "lon": 77.657694
+        },
+        {
+          "lat": 12.9659157,
+          "lon": 77.6576878
+        },
+        {
+          "lat": 12.9656149,
+          "lon": 77.6576507
+        },
+        {
+          "lat": 12.9655345,
+          "lon": 77.6583363
+        },
+        {
+          "lat": 12.965519,
+          "lon": 77.6584677
+        },
+        {
+          "lat": 12.9659023,
+          "lon": 77.6585151
+        },
+        {
+          "lat": 12.9659982,
+          "lon": 77.657698
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "landuse": "garages",
+        "name": "Jeevan Bhima Nagar Bus Depot",
+        "name:kn": "\u0c9c\u0cc0\u0cb5\u0ca8\u0cad\u0cc0\u0cae \u0ca8\u0c97\u0cb0 \u0cac\u0cb8\u0ccd \u0ca1\u0cc0\u0caa\u0ccb"
+      }
+    },
+    {
+      "type": "way",
+      "id": 137930290,
+      "bounds": {
+        "minlat": 12.9646144,
+        "minlon": 77.534147,
+        "maxlat": 12.9663193,
+        "maxlon": 77.535199
+      },
+      "nodes": [
+        1512515631,
+        1512515636,
+        1512515635,
+        1512515625,
+        10072893604,
+        1512515627,
+        1512515628,
+        10569341654,
+        1512515631
+      ],
+      "geometry": [
+        {
+          "lat": 12.9663193,
+          "lon": 77.5342297
+        },
+        {
+          "lat": 12.9656479,
+          "lon": 77.534147
+        },
+        {
+          "lat": 12.9648047,
+          "lon": 77.5342862
+        },
+        {
+          "lat": 12.9647216,
+          "lon": 77.5344115
+        },
+        {
+          "lat": 12.964667,
+          "lon": 77.5345359
+        },
+        {
+          "lat": 12.9646144,
+          "lon": 77.5346556
+        },
+        {
+          "lat": 12.9659855,
+          "lon": 77.535199
+        },
+        {
+          "lat": 12.9662756,
+          "lon": 77.5343567
+        },
+        {
+          "lat": 12.9663193,
+          "lon": 77.5342297
+        }
+      ],
+      "tags": {
+        "alt_name": "Vijayanagar TTMC",
+        "amenity": "bus_station",
+        "check_date": "2024-01-10",
+        "name": "Vijayanagar Bus Stand",
+        "name:kn": "\u0cb5\u0cbf\u0c9c\u0caf\u0ca8\u0c97\u0cb0 \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3",
+        "network": "BMTC",
+        "official_name": "Rastrakavi Kuvempu Bus Stand",
+        "operator": "BMTC",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 141375009,
+      "bounds": {
+        "minlat": 12.9880162,
+        "minlon": 77.5332493,
+        "maxlat": 12.9888332,
+        "maxlon": 77.5340824
+      },
+      "nodes": [
+        1547432353,
+        1547432217,
+        1547432176,
+        1547432331,
+        1547432353
+      ],
+      "geometry": [
+        {
+          "lat": 12.9881449,
+          "lon": 77.5332493
+        },
+        {
+          "lat": 12.9880162,
+          "lon": 77.533926
+        },
+        {
+          "lat": 12.9885336,
+          "lon": 77.5340824
+        },
+        {
+          "lat": 12.9888332,
+          "lon": 77.5333937
+        },
+        {
+          "lat": 12.9881449,
+          "lon": 77.5332493
+        }
+      ],
+      "tags": {
+        "addr:postcode": "560079",
+        "alt_name": "Sharadha Colony",
+        "amenity": "bus_station",
+        "designation": "Sharadha Colony",
+        "name": "Sharada Colony Bus Depot",
+        "name:kn": "\u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3 \u0cac\u0cb8\u0cb5\u0cc7\u0cb6\u0ccd\u0cb5\u0cb0\u0ca8\u0c97\u0cb0"
+      }
+    },
+    {
+      "type": "way",
+      "id": 162258166,
+      "bounds": {
+        "minlat": 12.9173055,
+        "minlon": 77.5891185,
+        "maxlat": 12.917349,
+        "maxlon": 77.5891952
+      },
+      "nodes": [
+        1741775714,
+        1741775710,
+        1741775712,
+        1741775707,
+        1741775714
+      ],
+      "geometry": [
+        {
+          "lat": 12.917349,
+          "lon": 77.5891194
+        },
+        {
+          "lat": 12.9173475,
+          "lon": 77.5891952
+        },
+        {
+          "lat": 12.9173055,
+          "lon": 77.5891943
+        },
+        {
+          "lat": 12.917307,
+          "lon": 77.5891185
+        },
+        {
+          "lat": 12.917349,
+          "lon": 77.5891194
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "roof",
+        "bus": "yes",
+        "name": "Atal Bihari Vajpayee Bus Stand",
+        "name:etymology:wikidata": "Q233289",
+        "name:kn": "\u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3",
+        "public_transport": "station",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 162332398,
+      "bounds": {
+        "minlat": 12.9171132,
+        "minlon": 77.5725733,
+        "maxlat": 12.9184167,
+        "maxlon": 77.5734338
+      },
+      "nodes": [
+        1742442134,
+        1742442136,
+        1742442135,
+        1742442133,
+        12507070341,
+        12507070331,
+        1742442132,
+        1839816766,
+        1839816775,
+        1839816770,
+        6495482487,
+        1742442134
+      ],
+      "geometry": [
+        {
+          "lat": 12.9181288,
+          "lon": 77.5725811
+        },
+        {
+          "lat": 12.9171373,
+          "lon": 77.5725733
+        },
+        {
+          "lat": 12.9171338,
+          "lon": 77.5727362
+        },
+        {
+          "lat": 12.9171132,
+          "lon": 77.5734166
+        },
+        {
+          "lat": 12.9173648,
+          "lon": 77.5734106
+        },
+        {
+          "lat": 12.9177327,
+          "lon": 77.5734101
+        },
+        {
+          "lat": 12.9178982,
+          "lon": 77.5734338
+        },
+        {
+          "lat": 12.9179637,
+          "lon": 77.5731953
+        },
+        {
+          "lat": 12.9182741,
+          "lon": 77.5731922
+        },
+        {
+          "lat": 12.9184167,
+          "lon": 77.572887
+        },
+        {
+          "lat": 12.9183391,
+          "lon": 77.5726167
+        },
+        {
+          "lat": 12.9181288,
+          "lon": 77.5725811
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Banashankari TTMC",
+        "name:kn": "\u0cac\u0ca8\u0cb6\u0c82\u0c95\u0cb0\u0cbf \u0c9f\u0cbf\u0c9f\u0cbf\u0c8e\u0cae\u0ccd\u0cb8\u0cbf",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 173154283,
+      "bounds": {
+        "minlat": 12.9171795,
+        "minlon": 77.5726626,
+        "maxlat": 12.9178602,
+        "maxlon": 77.573237
+      },
+      "nodes": [
+        1839816776,
+        1839816777,
+        1839816768,
+        13660768926,
+        1839816771,
+        1839816767,
+        1839816773,
+        1839816776
+      ],
+      "geometry": [
+        {
+          "lat": 12.9178587,
+          "lon": 77.5726626
+        },
+        {
+          "lat": 12.9171795,
+          "lon": 77.5726646
+        },
+        {
+          "lat": 12.9171811,
+          "lon": 77.573237
+        },
+        {
+          "lat": 12.91754,
+          "lon": 77.573236
+        },
+        {
+          "lat": 12.9177666,
+          "lon": 77.5732353
+        },
+        {
+          "lat": 12.9177665,
+          "lon": 77.5731971
+        },
+        {
+          "lat": 12.9178602,
+          "lon": 77.5731968
+        },
+        {
+          "lat": 12.9178587,
+          "lon": 77.5726626
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "transportation",
+        "bus": "yes",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 208748260,
+      "bounds": {
+        "minlat": 12.9822473,
+        "minlon": 77.602653,
+        "maxlat": 12.98417,
+        "maxlon": 77.6034998
+      },
+      "nodes": [
+        13800769595,
+        11669173878,
+        13800769596,
+        2190090849,
+        3943327860,
+        2190090847,
+        2190090845,
+        2190090841,
+        2190090837,
+        2190090835,
+        2190090831,
+        2190090833,
+        2190090839,
+        9796561519,
+        2190090843,
+        12507237904,
+        13800769595
+      ],
+      "geometry": [
+        {
+          "lat": 12.9839107,
+          "lon": 77.602877
+        },
+        {
+          "lat": 12.9840154,
+          "lon": 77.603007
+        },
+        {
+          "lat": 12.9841291,
+          "lon": 77.6030459
+        },
+        {
+          "lat": 12.98417,
+          "lon": 77.6030383
+        },
+        {
+          "lat": 12.9840818,
+          "lon": 77.603371
+        },
+        {
+          "lat": 12.9839819,
+          "lon": 77.6034946
+        },
+        {
+          "lat": 12.983915,
+          "lon": 77.6034998
+        },
+        {
+          "lat": 12.9828914,
+          "lon": 77.6031614
+        },
+        {
+          "lat": 12.9828002,
+          "lon": 77.6031673
+        },
+        {
+          "lat": 12.9824937,
+          "lon": 77.6033206
+        },
+        {
+          "lat": 12.9822473,
+          "lon": 77.6033704
+        },
+        {
+          "lat": 12.9823772,
+          "lon": 77.602937
+        },
+        {
+          "lat": 12.9828157,
+          "lon": 77.6030678
+        },
+        {
+          "lat": 12.9829063,
+          "lon": 77.6027921
+        },
+        {
+          "lat": 12.9829521,
+          "lon": 77.602653
+        },
+        {
+          "lat": 12.9832531,
+          "lon": 77.6026709
+        },
+        {
+          "lat": 12.9839107,
+          "lon": 77.602877
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Shivajinagar Bus Station",
+        "name:kn": "\u0cb6\u0cbf\u0cb5\u0cbe\u0c9c\u0cbf\u0ca8\u0c97\u0cb0 \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca8",
+        "network": "BMTC",
+        "operator": "BMTC",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239832511,
+      "bounds": {
+        "minlat": 12.9775767,
+        "minlon": 77.5710781,
+        "maxlat": 12.9787301,
+        "maxlon": 77.5737719
+      },
+      "nodes": [
+        2476128082,
+        2476128073,
+        3755665314,
+        2476128065,
+        2476128060,
+        2476128070,
+        2476128051,
+        2476128034,
+        2476128031,
+        2476128050,
+        3755665282,
+        13352986904,
+        3755665283,
+        12479806944,
+        10633375316,
+        3755624740,
+        3755625129,
+        10633375314,
+        3755625130,
+        3755625131,
+        10633375313,
+        3755625132,
+        3755625133,
+        13352359328,
+        3755625134,
+        3755625135,
+        10633375315,
+        3755625136,
+        3755624741,
+        3755624742,
+        3755665285,
+        13352986911,
+        3755665286,
+        2476128076,
+        12507000130,
+        2476128045,
+        2476128069,
+        2476128082
+      ],
+      "geometry": [
+        {
+          "lat": 12.9783083,
+          "lon": 77.5710974
+        },
+        {
+          "lat": 12.9783025,
+          "lon": 77.5713622
+        },
+        {
+          "lat": 12.9783219,
+          "lon": 77.5714117
+        },
+        {
+          "lat": 12.9784371,
+          "lon": 77.5714599
+        },
+        {
+          "lat": 12.9786643,
+          "lon": 77.5720362
+        },
+        {
+          "lat": 12.9787301,
+          "lon": 77.5727742
+        },
+        {
+          "lat": 12.9780668,
+          "lon": 77.5733901
+        },
+        {
+          "lat": 12.9779414,
+          "lon": 77.5735108
+        },
+        {
+          "lat": 12.9776367,
+          "lon": 77.5737715
+        },
+        {
+          "lat": 12.9775767,
+          "lon": 77.5737719
+        },
+        {
+          "lat": 12.9775792,
+          "lon": 77.5734591
+        },
+        {
+          "lat": 12.9775799,
+          "lon": 77.5734309
+        },
+        {
+          "lat": 12.9775811,
+          "lon": 77.5733842
+        },
+        {
+          "lat": 12.9775813,
+          "lon": 77.573334
+        },
+        {
+          "lat": 12.9775828,
+          "lon": 77.573232
+        },
+        {
+          "lat": 12.9775842,
+          "lon": 77.5731416
+        },
+        {
+          "lat": 12.9775851,
+          "lon": 77.5730819
+        },
+        {
+          "lat": 12.9775858,
+          "lon": 77.5730359
+        },
+        {
+          "lat": 12.9775867,
+          "lon": 77.5729803
+        },
+        {
+          "lat": 12.9775875,
+          "lon": 77.5729322
+        },
+        {
+          "lat": 12.9775883,
+          "lon": 77.5728838
+        },
+        {
+          "lat": 12.9775891,
+          "lon": 77.5728296
+        },
+        {
+          "lat": 12.9776036,
+          "lon": 77.5719085
+        },
+        {
+          "lat": 12.9776043,
+          "lon": 77.571868
+        },
+        {
+          "lat": 12.9776051,
+          "lon": 77.5718175
+        },
+        {
+          "lat": 12.9776059,
+          "lon": 77.5717644
+        },
+        {
+          "lat": 12.9776065,
+          "lon": 77.571725
+        },
+        {
+          "lat": 12.9776074,
+          "lon": 77.571671
+        },
+        {
+          "lat": 12.9776081,
+          "lon": 77.5716234
+        },
+        {
+          "lat": 12.9776112,
+          "lon": 77.5714282
+        },
+        {
+          "lat": 12.9776121,
+          "lon": 77.571372
+        },
+        {
+          "lat": 12.9776129,
+          "lon": 77.5713223
+        },
+        {
+          "lat": 12.9776135,
+          "lon": 77.5712818
+        },
+        {
+          "lat": 12.9776161,
+          "lon": 77.5711162
+        },
+        {
+          "lat": 12.9776715,
+          "lon": 77.5711195
+        },
+        {
+          "lat": 12.9779857,
+          "lon": 77.5711385
+        },
+        {
+          "lat": 12.9780055,
+          "lon": 77.5710781
+        },
+        {
+          "lat": 12.9783083,
+          "lon": 77.5710974
+        }
+      ],
+      "tags": {
+        "alt_name": "Majestic Bus Station",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "int_name": "BMTC Bus Stand",
+        "name": "Kempegowda Bus Station",
+        "name:etymology:wikidata": "Q6387049",
+        "name:kn": "\u0c95\u0cc6\u0c82\u0caa\u0cc7\u0c97\u0ccc\u0ca1 \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3",
+        "operator": "BMTC",
+        "public_transport": "station",
+        "wheelchair": "no",
+        "wikidata": "Q15235446",
+        "wikimedia_commons": "Category:Kempegowda Bus Station",
+        "wikipedia": "en:Kempegowda Bus Station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 243896056,
+      "bounds": {
+        "minlat": 12.9151632,
+        "minlon": 77.615648,
+        "maxlat": 12.9162145,
+        "maxlon": 77.6168416
+      },
+      "nodes": [
+        12000459711,
+        12000459709,
+        12000459710,
+        2512541879,
+        12000459708,
+        12000459712,
+        12000459713,
+        12000459714,
+        12000459711
+      ],
+      "geometry": [
+        {
+          "lat": 12.9162145,
+          "lon": 77.6157295
+        },
+        {
+          "lat": 12.9152202,
+          "lon": 77.615648
+        },
+        {
+          "lat": 12.9151971,
+          "lon": 77.6158843
+        },
+        {
+          "lat": 12.9151632,
+          "lon": 77.6162661
+        },
+        {
+          "lat": 12.9157217,
+          "lon": 77.6166011
+        },
+        {
+          "lat": 12.9160992,
+          "lon": 77.6168416
+        },
+        {
+          "lat": 12.9161241,
+          "lon": 77.6166241
+        },
+        {
+          "lat": 12.9162044,
+          "lon": 77.6158992
+        },
+        {
+          "lat": 12.9162145,
+          "lon": 77.6157295
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Kuvempunagara Bus Station",
+        "name:kn": "\u0c95\u0cc1\u0cb5\u0cc6\u0c82\u0caa\u0cc1\u0ca8\u0c97\u0cb0 \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 259879354,
+      "bounds": {
+        "minlat": 12.8990359,
+        "minlon": 77.5580067,
+        "maxlat": 12.8999243,
+        "maxlon": 77.5588913
+      },
+      "nodes": [
+        3417085511,
+        2653436758,
+        2473324041,
+        2473324040,
+        3417085511
+      ],
+      "geometry": [
+        {
+          "lat": 12.8999243,
+          "lon": 77.5586321
+        },
+        {
+          "lat": 12.8996187,
+          "lon": 77.5588913
+        },
+        {
+          "lat": 12.8990359,
+          "lon": 77.5583003
+        },
+        {
+          "lat": 12.8992543,
+          "lon": 77.5580067
+        },
+        {
+          "lat": 12.8999243,
+          "lon": 77.5586321
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "ISRO Layout Bus Stand",
+        "name:kn": "\u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 287724333,
+      "bounds": {
+        "minlat": 13.0326026,
+        "minlon": 77.5538243,
+        "maxlat": 13.033058,
+        "maxlon": 77.5541988
+      },
+      "nodes": [
+        2913001820,
+        2913001817,
+        2913001804,
+        2913001883,
+        2913001882,
+        2913001820
+      ],
+      "geometry": [
+        {
+          "lat": 13.033058,
+          "lon": 77.5540379
+        },
+        {
+          "lat": 13.0327496,
+          "lon": 77.5541988
+        },
+        {
+          "lat": 13.0326026,
+          "lon": 77.5539477
+        },
+        {
+          "lat": 13.0328221,
+          "lon": 77.5538243
+        },
+        {
+          "lat": 13.0330573,
+          "lon": 77.5539692
+        },
+        {
+          "lat": 13.033058,
+          "lon": 77.5540379
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "name": "Choudeshwari Bus Stand",
+        "name:kn": "\u0c9a\u0ccc\u0ca1\u0cc7\u0cb6\u0ccd\u0cb5\u0cb0\u0cbf \u0cac\u0cb8\u0ccd\u200c \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3 (\u0cae\u0ca4\u0ccd\u0ca4\u0cbf\u0c95\u0cc6\u0cb0\u0cc6)",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 314075857,
+      "bounds": {
+        "minlat": 13.0087069,
+        "minlon": 77.5686183,
+        "maxlat": 13.0089896,
+        "maxlon": 77.5690535
+      },
+      "nodes": [
+        3201178612,
+        460976104,
+        460976103,
+        3201178612
+      ],
+      "geometry": [
+        {
+          "lat": 13.0087069,
+          "lon": 77.5690535
+        },
+        {
+          "lat": 13.0089896,
+          "lon": 77.5690492
+        },
+        {
+          "lat": 13.008728,
+          "lon": 77.5686183
+        },
+        {
+          "lat": 13.0087069,
+          "lon": 77.5690535
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "highway": "platform",
+        "name": "Malleswaram 18th Cross",
+        "name:en": "Malleswaram 18th Cross",
+        "name:kn": "\u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca4\u0cbe\u0ca3, \u0cae\u0cb2\u0ccd\u0cb2\u0cc7\u0cb6\u0ccd\u0cb5\u0cb0\u0c82",
+        "network": "BMTC",
+        "operator": "BMTC",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 322488099,
+      "bounds": {
+        "minlat": 12.9746688,
+        "minlon": 77.5710352,
+        "maxlat": 12.9754491,
+        "maxlon": 77.5723466
+      },
+      "nodes": [
+        2007603924,
+        2007603922,
+        2007603961,
+        2007603918,
+        2007603963,
+        2007603944,
+        2007603928,
+        3292614933,
+        2019372159,
+        2007574741,
+        2007574684,
+        11235413278,
+        11235413279,
+        11235413280,
+        2007603924
+      ],
+      "geometry": [
+        {
+          "lat": 12.9751636,
+          "lon": 77.5710352
+        },
+        {
+          "lat": 12.974972,
+          "lon": 77.5710617
+        },
+        {
+          "lat": 12.9748204,
+          "lon": 77.5710885
+        },
+        {
+          "lat": 12.9747106,
+          "lon": 77.5711636
+        },
+        {
+          "lat": 12.9746688,
+          "lon": 77.5713406
+        },
+        {
+          "lat": 12.9746688,
+          "lon": 77.571523
+        },
+        {
+          "lat": 12.9746965,
+          "lon": 77.5723466
+        },
+        {
+          "lat": 12.9750401,
+          "lon": 77.5721495
+        },
+        {
+          "lat": 12.9750489,
+          "lon": 77.5720318
+        },
+        {
+          "lat": 12.9751013,
+          "lon": 77.5713326
+        },
+        {
+          "lat": 12.9754421,
+          "lon": 77.5713263
+        },
+        {
+          "lat": 12.9754491,
+          "lon": 77.5712483
+        },
+        {
+          "lat": 12.9753524,
+          "lon": 77.5712389
+        },
+        {
+          "lat": 12.9753655,
+          "lon": 77.5710618
+        },
+        {
+          "lat": 12.9751636,
+          "lon": 77.5710352
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "KSRTC Bus Terminal 3",
+        "name:kn": "\u0c95 \u0cb0\u0cbe \u0cb0 \u0cb8\u0cbe \u0ca8\u0cbf \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3 \u0ce9",
+        "operator": "KSRTC",
+        "public_transport": "station",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 323113360,
+      "bounds": {
+        "minlat": 13.0359405,
+        "minlon": 77.5659604,
+        "maxlat": 13.0366985,
+        "maxlon": 77.5668483
+      },
+      "nodes": [
+        3299077679,
+        3299077678,
+        3299077690,
+        3299077710,
+        3299077679
+      ],
+      "geometry": [
+        {
+          "lat": 13.0359838,
+          "lon": 77.5659604
+        },
+        {
+          "lat": 13.0359405,
+          "lon": 77.5668483
+        },
+        {
+          "lat": 13.036087,
+          "lon": 77.5666933
+        },
+        {
+          "lat": 13.0366985,
+          "lon": 77.5660859
+        },
+        {
+          "lat": 13.0359838,
+          "lon": 77.5659604
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "name": "Chikkamaranahalli",
+        "name:kn": "\u0c9a\u0cbf\u0c95\u0ccd\u0c95\u0cae\u0cbe\u0cb0\u0ca8\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca8"
+      }
+    },
+    {
+      "type": "way",
+      "id": 326201186,
+      "bounds": {
+        "minlat": 12.954214,
+        "minlon": 77.6225229,
+        "maxlat": 12.9544758,
+        "maxlon": 77.6228681
+      },
+      "nodes": [
+        3328217959,
+        3328217960,
+        3328217961,
+        3328217962,
+        3328217959
+      ],
+      "geometry": [
+        {
+          "lat": 12.9544758,
+          "lon": 77.6225649
+        },
+        {
+          "lat": 12.954274,
+          "lon": 77.6225229
+        },
+        {
+          "lat": 12.954214,
+          "lon": 77.622826
+        },
+        {
+          "lat": 12.9544157,
+          "lon": 77.6228681
+        },
+        {
+          "lat": 12.9544758,
+          "lon": 77.6225649
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "name": "Viveknagar Bus Station",
+        "name:kn": "\u0cb5\u0cbf\u0cb5\u0cc7\u0c95\u0ca8\u0c97\u0cb0 \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 326551177,
+      "bounds": {
+        "minlat": 13.0444451,
+        "minlon": 77.5252713,
+        "maxlat": 13.0453672,
+        "maxlon": 77.5260653
+      },
+      "nodes": [
+        3332105926,
+        3332105916,
+        3332105914,
+        3332105912,
+        3332105921,
+        3332105925,
+        3332105923,
+        3332105924,
+        3332105927,
+        3332105928,
+        3332105911,
+        3332105931,
+        3332105926
+      ],
+      "geometry": [
+        {
+          "lat": 13.0445938,
+          "lon": 77.5256736
+        },
+        {
+          "lat": 13.0447924,
+          "lon": 77.5260653
+        },
+        {
+          "lat": 13.0452,
+          "lon": 77.5260331
+        },
+        {
+          "lat": 13.0452836,
+          "lon": 77.5257166
+        },
+        {
+          "lat": 13.0453672,
+          "lon": 77.5253411
+        },
+        {
+          "lat": 13.0452732,
+          "lon": 77.5253089
+        },
+        {
+          "lat": 13.0451477,
+          "lon": 77.5252713
+        },
+        {
+          "lat": 13.0449805,
+          "lon": 77.5252713
+        },
+        {
+          "lat": 13.044829,
+          "lon": 77.5252767
+        },
+        {
+          "lat": 13.0445752,
+          "lon": 77.5253596
+        },
+        {
+          "lat": 13.0444451,
+          "lon": 77.5254266
+        },
+        {
+          "lat": 13.0445598,
+          "lon": 77.5256943
+        },
+        {
+          "lat": 13.0445938,
+          "lon": 77.5256736
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "name": "Basaveshwara Bus Station",
+        "name:kn": "\u0cac\u0cb8\u0cb5\u0cc7\u0cb6\u0ccd\u0cb5\u0cb0 \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3",
+        "operator": "KSRTC",
+        "website": "https://www.ksrtc.in/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 342673830,
+      "bounds": {
+        "minlat": 12.9664956,
+        "minlon": 77.6824558,
+        "maxlat": 12.9672863,
+        "maxlon": 77.6828364
+      },
+      "nodes": [
+        3496412549,
+        3496412550,
+        3496412551,
+        8365191975,
+        8365191972,
+        3496412553,
+        3496412549
+      ],
+      "geometry": [
+        {
+          "lat": 12.9672863,
+          "lon": 77.6824714
+        },
+        {
+          "lat": 12.9666163,
+          "lon": 77.6824558
+        },
+        {
+          "lat": 12.9664956,
+          "lon": 77.6828364
+        },
+        {
+          "lat": 12.9667323,
+          "lon": 77.6827289
+        },
+        {
+          "lat": 12.966923,
+          "lon": 77.6826319
+        },
+        {
+          "lat": 12.9672752,
+          "lon": 77.6825841
+        },
+        {
+          "lat": 12.9672863,
+          "lon": 77.6824714
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Basavanagar Bus Stand",
+        "name:kn": "\u0cac\u0cb8\u0cb5\u0ca8\u0c97\u0cb0 \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3",
+        "public_transport": "station",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 372031014,
+      "bounds": {
+        "minlat": 12.9762031,
+        "minlon": 77.5732948,
+        "maxlat": 12.9773109,
+        "maxlon": 77.5745667
+      },
+      "nodes": [
+        11235423703,
+        9505111404,
+        2007574659,
+        2007574654,
+        3755666724,
+        2476128037,
+        3755675135,
+        2476128068,
+        3755675136,
+        3755692245,
+        11235423703
+      ],
+      "geometry": [
+        {
+          "lat": 12.9773109,
+          "lon": 77.5732948
+        },
+        {
+          "lat": 12.9762332,
+          "lon": 77.5732988
+        },
+        {
+          "lat": 12.9762031,
+          "lon": 77.5736374
+        },
+        {
+          "lat": 12.9764072,
+          "lon": 77.5743694
+        },
+        {
+          "lat": 12.9764727,
+          "lon": 77.5745667
+        },
+        {
+          "lat": 12.977227,
+          "lon": 77.5742647
+        },
+        {
+          "lat": 12.9772473,
+          "lon": 77.5742398
+        },
+        {
+          "lat": 12.9772555,
+          "lon": 77.574219
+        },
+        {
+          "lat": 12.977306,
+          "lon": 77.5740777
+        },
+        {
+          "lat": 12.9773073,
+          "lon": 77.5738588
+        },
+        {
+          "lat": 12.9773109,
+          "lon": 77.5732948
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "KSRTC Bus Terminal 1",
+        "name:etymology:wikidata": "Q6387049",
+        "name:kn": "\u0c95 \u0cb0\u0cbe \u0cb0 \u0cb8\u0cbe \u0ca8\u0cbf \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3 \u0ce7",
+        "name:ml": "\u0d15\u0d46\u0d02\u0d2a\u0d46\u0d17\u0d57\u0d21 \u0d15\u0d46\u0d0e\u0d38\u0d4d\u0d06\u0d7c\u0d1f\u0d3f\u0d38\u0d3f \u0d2c\u0d38\u0d4d \u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d47\u0d37\u0d7b",
+        "operator": "KSRTC",
+        "public_transport": "station",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 393781676,
+      "bounds": {
+        "minlat": 13.0172816,
+        "minlon": 77.5559244,
+        "maxlat": 13.0189259,
+        "maxlon": 77.5571258
+      },
+      "nodes": [
+        2564452331,
+        9197307490,
+        2564452329,
+        9197307491,
+        463681133,
+        7777467133,
+        463681134,
+        463681137,
+        463681139,
+        3969023690,
+        11508069164,
+        4108367275,
+        2564452331
+      ],
+      "geometry": [
+        {
+          "lat": 13.0172816,
+          "lon": 77.5559781
+        },
+        {
+          "lat": 13.0173867,
+          "lon": 77.5563338
+        },
+        {
+          "lat": 13.0174781,
+          "lon": 77.5566476
+        },
+        {
+          "lat": 13.0174873,
+          "lon": 77.5566831
+        },
+        {
+          "lat": 13.0175163,
+          "lon": 77.5567954
+        },
+        {
+          "lat": 13.0175728,
+          "lon": 77.5568233
+        },
+        {
+          "lat": 13.0181696,
+          "lon": 77.5571258
+        },
+        {
+          "lat": 13.018286,
+          "lon": 77.5566066
+        },
+        {
+          "lat": 13.0187642,
+          "lon": 77.5566527
+        },
+        {
+          "lat": 13.0189259,
+          "lon": 77.5559244
+        },
+        {
+          "lat": 13.0184738,
+          "lon": 77.5559392
+        },
+        {
+          "lat": 13.0183744,
+          "lon": 77.5559424
+        },
+        {
+          "lat": 13.0172816,
+          "lon": 77.5559781
+        }
+      ],
+      "tags": {
+        "alt_name": "Yeshwantpur Bus Station",
+        "amenity": "bus_station",
+        "name": "Yeshwanthapura TTMC",
+        "name:en": "Yeshwanthapura TTMC",
+        "name:kn": "\u0caf\u0cb6\u0cb5\u0c82\u0ca4\u0caa\u0cc1\u0cb0 \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca8",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 393785885,
+      "bounds": {
+        "minlat": 13.0425569,
+        "minlon": 77.5913242,
+        "maxlat": 13.0430197,
+        "maxlon": 77.5927071
+      },
+      "nodes": [
+        3969029512,
+        3969029504,
+        3969029501,
+        3969029510,
+        3969029511,
+        3969029512
+      ],
+      "geometry": [
+        {
+          "lat": 13.0430197,
+          "lon": 77.5913475
+        },
+        {
+          "lat": 13.042635,
+          "lon": 77.5927071
+        },
+        {
+          "lat": 13.0425569,
+          "lon": 77.5926838
+        },
+        {
+          "lat": 13.0428879,
+          "lon": 77.5915141
+        },
+        {
+          "lat": 13.0429416,
+          "lon": 77.5913242
+        },
+        {
+          "lat": 13.0430197,
+          "lon": 77.5913475
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Hebbal Bus Station",
+        "name:kn": "\u0cb9\u0cc6\u0cac\u0ccd\u0cac\u0cbe\u0cb3 \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 393785886,
+      "bounds": {
+        "minlat": 13.0423739,
+        "minlon": 77.5893604,
+        "maxlat": 13.0426831,
+        "maxlon": 77.5906748
+      },
+      "nodes": [
+        3969029503,
+        3969029505,
+        3969029506,
+        3969029507,
+        3969029509,
+        3969029508,
+        9912823312,
+        2458999151,
+        11229733128,
+        3969029502,
+        3969029503
+      ],
+      "geometry": [
+        {
+          "lat": 13.0424436,
+          "lon": 77.589811
+        },
+        {
+          "lat": 13.0425596,
+          "lon": 77.5896178
+        },
+        {
+          "lat": 13.0426045,
+          "lon": 77.5895006
+        },
+        {
+          "lat": 13.0426307,
+          "lon": 77.5893662
+        },
+        {
+          "lat": 13.0426831,
+          "lon": 77.5893604
+        },
+        {
+          "lat": 13.0426591,
+          "lon": 77.5899701
+        },
+        {
+          "lat": 13.0426074,
+          "lon": 77.5906748
+        },
+        {
+          "lat": 13.0423739,
+          "lon": 77.5905914
+        },
+        {
+          "lat": 13.0423958,
+          "lon": 77.5903389
+        },
+        {
+          "lat": 13.0424294,
+          "lon": 77.5900944
+        },
+        {
+          "lat": 13.0424436,
+          "lon": 77.589811
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "check_date": "2025-06-14",
+        "name": "Hebbal Bus Station",
+        "name:kn": "\u0cb9\u0cc6\u0cac\u0ccd\u0cac\u0cbe\u0cb3\u0cc1 \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3",
+        "public_transport": "station",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 400455142,
+      "bounds": {
+        "minlat": 13.0829945,
+        "minlon": 77.5603946,
+        "maxlat": 13.0840544,
+        "maxlon": 77.5612132
+      },
+      "nodes": [
+        4030068928,
+        4030068929,
+        4030068927,
+        4030068926,
+        4030068928
+      ],
+      "geometry": [
+        {
+          "lat": 13.0839523,
+          "lon": 77.5603946
+        },
+        {
+          "lat": 13.0840544,
+          "lon": 77.5604695
+        },
+        {
+          "lat": 13.0835293,
+          "lon": 77.5612132
+        },
+        {
+          "lat": 13.0829945,
+          "lon": 77.5608239
+        },
+        {
+          "lat": 13.0839523,
+          "lon": 77.5603946
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "name": "Vidyaranyapura Bus Terminus",
+        "name:kn": "\u0cb5\u0cbf\u0ca6\u0ccd\u0caf\u0cbe\u0cb0\u0ca3\u0ccd\u0caf\u0caa\u0cc1\u0cb0 \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 401993921,
+      "bounds": {
+        "minlat": 12.9573955,
+        "minlon": 77.6139678,
+        "maxlat": 12.9578594,
+        "maxlon": 77.6143688
+      },
+      "nodes": [
+        4044110223,
+        4044110221,
+        4044110229,
+        4044110230,
+        14112945320,
+        4044110223
+      ],
+      "geometry": [
+        {
+          "lat": 12.9574255,
+          "lon": 77.6139678
+        },
+        {
+          "lat": 12.9573955,
+          "lon": 77.6143218
+        },
+        {
+          "lat": 12.9578241,
+          "lon": 77.6143688
+        },
+        {
+          "lat": 12.9578594,
+          "lon": 77.6140147
+        },
+        {
+          "lat": 12.9578058,
+          "lon": 77.6140089
+        },
+        {
+          "lat": 12.9574255,
+          "lon": 77.6139678
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "name": "Neelasandra",
+        "name:kn": "\u0ca8\u0cc0\u0cb2\u0cb8\u0c82\u0ca6\u0ccd\u0cb0"
+      }
+    },
+    {
+      "type": "way",
+      "id": 412909365,
+      "bounds": {
+        "minlat": 13.1053558,
+        "minlon": 77.5722017,
+        "maxlat": 13.1061029,
+        "maxlon": 77.5728535
+      },
+      "nodes": [
+        4142368244,
+        12956490212,
+        12956490213,
+        4142368236,
+        4142368238,
+        4142368246,
+        4142368244
+      ],
+      "geometry": [
+        {
+          "lat": 13.1060478,
+          "lon": 77.5728374
+        },
+        {
+          "lat": 13.1060331,
+          "lon": 77.5728377
+        },
+        {
+          "lat": 13.1053822,
+          "lon": 77.5728529
+        },
+        {
+          "lat": 13.1053558,
+          "lon": 77.5728535
+        },
+        {
+          "lat": 13.1053898,
+          "lon": 77.5722017
+        },
+        {
+          "lat": 13.1061029,
+          "lon": 77.572258
+        },
+        {
+          "lat": 13.1060478,
+          "lon": 77.5728374
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "name": "Yelahanka Satellite Town",
+        "name:kn": "\u0caf\u0cb2\u0cb9\u0c82\u0c95 \u0c89\u0caa\u0c97\u0ccd\u0cb0\u0cb9 \u0caa\u0c9f\u0ccd\u0c9f\u0ca3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 415124236,
+      "bounds": {
+        "minlat": 12.9725081,
+        "minlon": 77.6775153,
+        "maxlat": 12.9727468,
+        "maxlon": 77.6779518
+      },
+      "nodes": [
+        3298366408,
+        4161944693,
+        3298366410,
+        3298366409,
+        3298366408
+      ],
+      "geometry": [
+        {
+          "lat": 12.9725081,
+          "lon": 77.6779293
+        },
+        {
+          "lat": 12.9726816,
+          "lon": 77.6779518
+        },
+        {
+          "lat": 12.9727468,
+          "lon": 77.6775474
+        },
+        {
+          "lat": 12.9725792,
+          "lon": 77.6775153
+        },
+        {
+          "lat": 12.9725081,
+          "lon": 77.6779293
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "name": "Vignananagar Bus Station",
+        "name:kn": "\u0cb5\u0cbf\u0c9c\u0ccd\u0c9e\u0cbe\u0ca8\u0ca8\u0c97\u0cb0 \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 420181759,
+      "bounds": {
+        "minlat": 12.9337884,
+        "minlon": 77.5393808,
+        "maxlat": 12.9344812,
+        "maxlon": 77.539929
+      },
+      "nodes": [
+        4201516359,
+        11279447644,
+        4201516360,
+        4201516361,
+        4201516362,
+        4201516358,
+        4201516359
+      ],
+      "geometry": [
+        {
+          "lat": 12.9344446,
+          "lon": 77.5398271
+        },
+        {
+          "lat": 12.9340992,
+          "lon": 77.5398302
+        },
+        {
+          "lat": 12.9338852,
+          "lon": 77.539929
+        },
+        {
+          "lat": 12.9337884,
+          "lon": 77.5394892
+        },
+        {
+          "lat": 12.933843,
+          "lon": 77.5393808
+        },
+        {
+          "lat": 12.9344812,
+          "lon": 77.5395455
+        },
+        {
+          "lat": 12.9344446,
+          "lon": 77.5398271
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "name": "Shri Vidhyanagara BMTC Bus station",
+        "name:kn": "\u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca8"
+      }
+    },
+    {
+      "type": "way",
+      "id": 420436334,
+      "bounds": {
+        "minlat": 12.9855118,
+        "minlon": 77.6638985,
+        "maxlat": 12.9857731,
+        "maxlon": 77.6642646
+      },
+      "nodes": [
+        3451665630,
+        4203664800,
+        4203664790,
+        4203664793,
+        4203664795,
+        3451665630
+      ],
+      "geometry": [
+        {
+          "lat": 12.9857731,
+          "lon": 77.6639119
+        },
+        {
+          "lat": 12.9857404,
+          "lon": 77.6642646
+        },
+        {
+          "lat": 12.9855118,
+          "lon": 77.6642471
+        },
+        {
+          "lat": 12.9855431,
+          "lon": 77.6639333
+        },
+        {
+          "lat": 12.9855876,
+          "lon": 77.6638985
+        },
+        {
+          "lat": 12.9857731,
+          "lon": 77.6639119
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "name": "C V Raman Nagar Bus Stand",
+        "name:kn": "\u0cb8\u0cbf \u0cb5\u0cbf \u0cb0\u0cbe\u0cae\u0ca8\u0ccd \u0ca8\u0c97\u0cb0 \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3",
+        "operator": "BMTC"
+      }
+    },
+    {
+      "type": "way",
+      "id": 421956349,
+      "bounds": {
+        "minlat": 13.1005808,
+        "minlon": 77.5944433,
+        "maxlat": 13.1013297,
+        "maxlon": 77.5951181
+      },
+      "nodes": [
+        4216898357,
+        11649795245,
+        11782474306,
+        11782474308,
+        11782474307,
+        11782474309,
+        4216898356,
+        11782472131,
+        4216898360,
+        11782474304,
+        11782474305,
+        4216898357
+      ],
+      "geometry": [
+        {
+          "lat": 13.1009459,
+          "lon": 77.5944433
+        },
+        {
+          "lat": 13.1008756,
+          "lon": 77.5944689
+        },
+        {
+          "lat": 13.1008045,
+          "lon": 77.5945194
+        },
+        {
+          "lat": 13.1007503,
+          "lon": 77.5945714
+        },
+        {
+          "lat": 13.1007134,
+          "lon": 77.5946408
+        },
+        {
+          "lat": 13.1006804,
+          "lon": 77.5947149
+        },
+        {
+          "lat": 13.1005808,
+          "lon": 77.5949851
+        },
+        {
+          "lat": 13.1010667,
+          "lon": 77.5951181
+        },
+        {
+          "lat": 13.1013297,
+          "lon": 77.594611
+        },
+        {
+          "lat": 13.1011014,
+          "lon": 77.5945043
+        },
+        {
+          "lat": 13.1010877,
+          "lon": 77.5945271
+        },
+        {
+          "lat": 13.1009459,
+          "lon": 77.5944433
+        }
+      ],
+      "tags": {
+        "alt_name": "Yelahanka Bus Station",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Yelahanka Old Town",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 437563235,
+      "bounds": {
+        "minlat": 12.9133,
+        "minlon": 77.486363,
+        "maxlat": 12.9141132,
+        "maxlon": 77.4877181
+      },
+      "nodes": [
+        2586797629,
+        12507331052,
+        4353753951,
+        2586797617,
+        4353753961,
+        4353753944,
+        2586797629
+      ],
+      "geometry": [
+        {
+          "lat": 12.9133,
+          "lon": 77.4873796
+        },
+        {
+          "lat": 12.9135657,
+          "lon": 77.4864613
+        },
+        {
+          "lat": 12.9135942,
+          "lon": 77.486363
+        },
+        {
+          "lat": 12.9141132,
+          "lon": 77.4870269
+        },
+        {
+          "lat": 12.9139123,
+          "lon": 77.4877181
+        },
+        {
+          "lat": 12.9133236,
+          "lon": 77.4875352
+        },
+        {
+          "lat": 12.9133,
+          "lon": 77.4873796
+        }
+      ],
+      "tags": {
+        "alt_name": "Kengeri Transit and Traffic Management Center",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Kengeri TTMC",
+        "name:kn": "\u0c95\u0cc6\u0c82\u0c97\u0cc7\u0cb0\u0cbf",
+        "operator": "BMTC",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 437848260,
+      "bounds": {
+        "minlat": 12.9587613,
+        "minlon": 77.5266431,
+        "maxlat": 12.959565,
+        "maxlon": 77.5271407
+      },
+      "nodes": [
+        4356274634,
+        1778854008,
+        4356274625,
+        4356274624,
+        4356274634
+      ],
+      "geometry": [
+        {
+          "lat": 12.9594682,
+          "lon": 77.5271407
+        },
+        {
+          "lat": 12.959565,
+          "lon": 77.5268926
+        },
+        {
+          "lat": 12.9588789,
+          "lon": 77.5266431
+        },
+        {
+          "lat": 12.9587613,
+          "lon": 77.5268772
+        },
+        {
+          "lat": 12.9594682,
+          "lon": 77.5271407
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "check_date": "2024-04-04",
+        "name": "Chandra Layout Bus Station",
+        "name:kn": "\u0c9a\u0c82\u0ca6\u0ccd\u0cb0 \u0cac\u0ca1\u0cbe\u0cb5\u0ca3\u0cc6 \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3",
+        "operator": "BMTC"
+      }
+    },
+    {
+      "type": "way",
+      "id": 440327192,
+      "bounds": {
+        "minlat": 13.0974115,
+        "minlon": 77.5911754,
+        "maxlat": 13.0979884,
+        "maxlon": 77.5917991
+      },
+      "nodes": [
+        4380549678,
+        4380549679,
+        4380549681,
+        4380549680,
+        4380549678
+      ],
+      "geometry": [
+        {
+          "lat": 13.0974115,
+          "lon": 77.5917265
+        },
+        {
+          "lat": 13.0974886,
+          "lon": 77.5917991
+        },
+        {
+          "lat": 13.0979884,
+          "lon": 77.5912562
+        },
+        {
+          "lat": 13.0979,
+          "lon": 77.5911754
+        },
+        {
+          "lat": 13.0974115,
+          "lon": 77.5917265
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "NES Office",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 455958466,
+      "bounds": {
+        "minlat": 12.8655442,
+        "minlon": 77.5810112,
+        "maxlat": 12.8659379,
+        "maxlon": 77.5818503
+      },
+      "nodes": [
+        4523253066,
+        4523253067,
+        4523253072,
+        4523253073,
+        9919570177,
+        4523253074,
+        4523253075,
+        4523253066
+      ],
+      "geometry": [
+        {
+          "lat": 12.8659379,
+          "lon": 77.5815688
+        },
+        {
+          "lat": 12.8658898,
+          "lon": 77.5818503
+        },
+        {
+          "lat": 12.8655442,
+          "lon": 77.5817558
+        },
+        {
+          "lat": 12.86566,
+          "lon": 77.5813753
+        },
+        {
+          "lat": 12.8657022,
+          "lon": 77.5813535
+        },
+        {
+          "lat": 12.8657094,
+          "lon": 77.5810689
+        },
+        {
+          "lat": 12.8658217,
+          "lon": 77.5810112
+        },
+        {
+          "lat": 12.8659379,
+          "lon": 77.5815688
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "name": "Jambu Savari Dinne Bus Bay"
+      }
+    },
+    {
+      "type": "way",
+      "id": 490824219,
+      "bounds": {
+        "minlat": 12.9379823,
+        "minlon": 77.5688612,
+        "maxlat": 12.9381582,
+        "maxlon": 77.5691909
+      },
+      "nodes": [
+        4830101225,
+        4830101224,
+        4830101221,
+        4830093920,
+        4830101223,
+        7018735419,
+        4830101222,
+        4830093918,
+        4830093919,
+        4830101225
+      ],
+      "geometry": [
+        {
+          "lat": 12.9381521,
+          "lon": 77.5688612
+        },
+        {
+          "lat": 12.9381582,
+          "lon": 77.569182
+        },
+        {
+          "lat": 12.9381008,
+          "lon": 77.5691909
+        },
+        {
+          "lat": 12.9380641,
+          "lon": 77.5691655
+        },
+        {
+          "lat": 12.9379823,
+          "lon": 77.5691699
+        },
+        {
+          "lat": 12.9379838,
+          "lon": 77.5689293
+        },
+        {
+          "lat": 12.9380074,
+          "lon": 77.5689
+        },
+        {
+          "lat": 12.9380797,
+          "lon": 77.5689004
+        },
+        {
+          "lat": 12.9381042,
+          "lon": 77.5688622
+        },
+        {
+          "lat": 12.9381521,
+          "lon": 77.5688612
+        }
+      ],
+      "tags": {
+        "addr:city": "Bengaluru",
+        "addr:street": "Subbrama Chetty Road",
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "internet_access": "no",
+        "name": "N. R. Colony Bus Station",
+        "name:kn": "\u0c8e\u0ca8\u0ccd.  \u0c86\u0cb0\u0ccd.  \u0c95\u0cbe\u0cb2\u0ccb\u0ca8\u0cbf \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3",
+        "operator": "BMTC",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 687173199,
+      "bounds": {
+        "minlat": 13.0264547,
+        "minlon": 77.6380641,
+        "maxlat": 13.0266741,
+        "maxlon": 77.6386213
+      },
+      "nodes": [
+        6440960098,
+        6440960101,
+        6440960100,
+        6440960099,
+        6440960098
+      ],
+      "geometry": [
+        {
+          "lat": 13.0265483,
+          "lon": 77.6380641
+        },
+        {
+          "lat": 13.0264547,
+          "lon": 77.6385945
+        },
+        {
+          "lat": 13.0265748,
+          "lon": 77.6386213
+        },
+        {
+          "lat": 13.0266741,
+          "lon": 77.6380903
+        },
+        {
+          "lat": 13.0265483,
+          "lon": 77.6380641
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "name": "Kalyan Nagar BMTC Depot"
+      }
+    },
+    {
+      "type": "way",
+      "id": 726174388,
+      "bounds": {
+        "minlat": 13.0588452,
+        "minlon": 77.507563,
+        "maxlat": 13.0593029,
+        "maxlon": 77.5078232
+      },
+      "nodes": [
+        6808256113,
+        11907314982,
+        6808256115,
+        6808256116,
+        6808256113
+      ],
+      "geometry": [
+        {
+          "lat": 13.0593002,
+          "lon": 77.5078232
+        },
+        {
+          "lat": 13.0593029,
+          "lon": 77.5075682
+        },
+        {
+          "lat": 13.0588479,
+          "lon": 77.507563
+        },
+        {
+          "lat": 13.0588452,
+          "lon": 77.507818
+        },
+        {
+          "lat": 13.0593002,
+          "lon": 77.5078232
+        }
+      ],
+      "tags": {
+        "addr:street": "Hesaraghatta Main Road",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Mallasandra Bus Station",
+        "name:kn": "\u0cae\u0cb2\u0ccd\u0cb2\u0cb8\u0c82\u0ca6\u0ccd\u0cb0",
+        "operator": "BMTC",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 752917438,
+      "bounds": {
+        "minlat": 12.9279169,
+        "minlon": 77.5836709,
+        "maxlat": 12.9285804,
+        "maxlon": 77.5850103
+      },
+      "nodes": [
+        3676395314,
+        11124101063,
+        7035263689,
+        11124101064,
+        7035263691,
+        11124101061,
+        493514793,
+        699559604,
+        493514792,
+        493514791,
+        3676395314
+      ],
+      "geometry": [
+        {
+          "lat": 12.9285625,
+          "lon": 77.5850103
+        },
+        {
+          "lat": 12.9285649,
+          "lon": 77.5848497
+        },
+        {
+          "lat": 12.9285804,
+          "lon": 77.5840053
+        },
+        {
+          "lat": 12.9285362,
+          "lon": 77.5839492
+        },
+        {
+          "lat": 12.9283582,
+          "lon": 77.5838357
+        },
+        {
+          "lat": 12.9280849,
+          "lon": 77.5837319
+        },
+        {
+          "lat": 12.9279706,
+          "lon": 77.5836709
+        },
+        {
+          "lat": 12.9279169,
+          "lon": 77.5838783
+        },
+        {
+          "lat": 12.9284249,
+          "lon": 77.584066
+        },
+        {
+          "lat": 12.9282578,
+          "lon": 77.5849537
+        },
+        {
+          "lat": 12.9285625,
+          "lon": 77.5850103
+        }
+      ],
+      "tags": {
+        "addr:city": "Bengaluru",
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "level": "3",
+        "name": "Jayanagar TTMC",
+        "operator": "BMTC",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 781766935,
+      "bounds": {
+        "minlat": 12.9158392,
+        "minlon": 77.4821755,
+        "maxlat": 12.9166591,
+        "maxlon": 77.4828991
+      },
+      "nodes": [
+        7298934469,
+        7298934468,
+        7298934467,
+        7298934466,
+        7298934469
+      ],
+      "geometry": [
+        {
+          "lat": 12.9158392,
+          "lon": 77.4826726
+        },
+        {
+          "lat": 12.9160019,
+          "lon": 77.4821755
+        },
+        {
+          "lat": 12.9166591,
+          "lon": 77.4824019
+        },
+        {
+          "lat": 12.9164963,
+          "lon": 77.4828991
+        },
+        {
+          "lat": 12.9158392,
+          "lon": 77.4826726
+        }
+      ],
+      "tags": {
+        "addr:city": "Kengeri Satellite Town",
+        "addr:postcode": "560060",
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Kengeri Uppanagara Bus Stand",
+        "name:kn": "\u0c95\u0cc6\u0c82\u0c97\u0cc7\u0cb0\u0cbf \u0c89\u0caa\u0ca8\u0c97\u0cb0",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1066726710,
+      "bounds": {
+        "minlat": 12.917717,
+        "minlon": 77.6223441,
+        "maxlat": 12.9185454,
+        "maxlon": 77.623841
+      },
+      "nodes": [
+        9795166498,
+        9795166503,
+        9853869179,
+        9853869178,
+        11594258774,
+        9817309117,
+        9795166505,
+        9795166507,
+        9795166508,
+        9853869180,
+        9853869181,
+        9795166498
+      ],
+      "geometry": [
+        {
+          "lat": 12.9185454,
+          "lon": 77.6230715
+        },
+        {
+          "lat": 12.9183247,
+          "lon": 77.6238111
+        },
+        {
+          "lat": 12.9180242,
+          "lon": 77.623841
+        },
+        {
+          "lat": 12.9180216,
+          "lon": 77.623727
+        },
+        {
+          "lat": 12.9177563,
+          "lon": 77.6237351
+        },
+        {
+          "lat": 12.917717,
+          "lon": 77.6235661
+        },
+        {
+          "lat": 12.9178133,
+          "lon": 77.6235499
+        },
+        {
+          "lat": 12.917898,
+          "lon": 77.6230135
+        },
+        {
+          "lat": 12.918243,
+          "lon": 77.6227515
+        },
+        {
+          "lat": 12.9181787,
+          "lon": 77.6225202
+        },
+        {
+          "lat": 12.9184434,
+          "lon": 77.6223441
+        },
+        {
+          "lat": 12.9185454,
+          "lon": 77.6230715
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "network": "BMTC",
+        "operator": "BMTC",
+        "public_transport": "station",
+        "ref": "Silk Board TTMC"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1147692545,
+      "bounds": {
+        "minlat": 12.9766768,
+        "minlon": 77.7259619,
+        "maxlat": 12.9776538,
+        "maxlon": 77.7270446
+      },
+      "nodes": [
+        10678902376,
+        10678902377,
+        10678902378,
+        10678902379,
+        1631443355,
+        1631443257,
+        10678902380,
+        10678902376
+      ],
+      "geometry": [
+        {
+          "lat": 12.9767307,
+          "lon": 77.7259619
+        },
+        {
+          "lat": 12.9766768,
+          "lon": 77.7269477
+        },
+        {
+          "lat": 12.9774589,
+          "lon": 77.7270394
+        },
+        {
+          "lat": 12.9776321,
+          "lon": 77.7270446
+        },
+        {
+          "lat": 12.9776538,
+          "lon": 77.7265414
+        },
+        {
+          "lat": 12.9770262,
+          "lon": 77.7265073
+        },
+        {
+          "lat": 12.9770876,
+          "lon": 77.7259782
+        },
+        {
+          "lat": 12.9767307,
+          "lon": 77.7259619
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "check_date": "2025-06-09",
+        "name": "Vydehi TTMC",
+        "name:kn": "\u0cb5\u0cc8\u0ca6\u0cc7\u0cb9\u0cbf",
+        "network": "BMTC",
+        "official_name": "Whitefield TTMC",
+        "operator": "BMTC",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1212700499,
+      "bounds": {
+        "minlat": 12.976106,
+        "minlon": 77.5711189,
+        "maxlat": 12.9773301,
+        "maxlon": 77.5727208
+      },
+      "nodes": [
+        2007574660,
+        11390080332,
+        11390080333,
+        11235423704,
+        3755675139,
+        12479801139,
+        2476128055,
+        2007574702,
+        11522905725,
+        11235413291,
+        11522905724,
+        2007574660
+      ],
+      "geometry": [
+        {
+          "lat": 12.9762127,
+          "lon": 77.5727195
+        },
+        {
+          "lat": 12.9766593,
+          "lon": 77.5727208
+        },
+        {
+          "lat": 12.9766606,
+          "lon": 77.5726645
+        },
+        {
+          "lat": 12.9773158,
+          "lon": 77.5726739
+        },
+        {
+          "lat": 12.9773301,
+          "lon": 77.5711189
+        },
+        {
+          "lat": 12.9769781,
+          "lon": 77.5711235
+        },
+        {
+          "lat": 12.9762344,
+          "lon": 77.5711533
+        },
+        {
+          "lat": 12.976106,
+          "lon": 77.5725449
+        },
+        {
+          "lat": 12.9761451,
+          "lon": 77.5725841
+        },
+        {
+          "lat": 12.976177,
+          "lon": 77.5726296
+        },
+        {
+          "lat": 12.9761981,
+          "lon": 77.5726732
+        },
+        {
+          "lat": 12.9762127,
+          "lon": 77.5727195
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Bus Terminal 2, 2A",
+        "name:etymology:wikidata": "Q6387049",
+        "name:kn": "\u0c95 \u0cb0\u0cbe \u0cb0 \u0cb8\u0cbe \u0ca8\u0cbf \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3 \u0ce8",
+        "name:ml": "\u0d15\u0d46\u0d02\u0d2a\u0d46\u0d17\u0d57\u0d21 \u0d15\u0d46\u0d0e\u0d38\u0d4d\u0d06\u0d7c\u0d1f\u0d3f\u0d38\u0d3f \u0d2c\u0d38\u0d4d \u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d47\u0d37\u0d7b",
+        "official_name": "KSRTC Bus Terminal 2, 2A",
+        "operator": "KSRTC",
+        "public_transport": "station",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1231838392,
+      "bounds": {
+        "minlat": 13.0952726,
+        "minlon": 77.5786577,
+        "maxlat": 13.0960366,
+        "maxlon": 77.5794115
+      },
+      "nodes": [
+        960240975,
+        4142367869,
+        4142367870,
+        960240682,
+        960240975
+      ],
+      "geometry": [
+        {
+          "lat": 13.0952726,
+          "lon": 77.5792176
+        },
+        {
+          "lat": 13.0954709,
+          "lon": 77.5794115
+        },
+        {
+          "lat": 13.0960366,
+          "lon": 77.5788744
+        },
+        {
+          "lat": 13.0958303,
+          "lon": 77.5786577
+        },
+        {
+          "lat": 13.0952726,
+          "lon": 77.5792176
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Yelahanka New Town",
+        "name:kn": "\u0caf\u0cb2\u0cb9\u0c82\u0c95 \u0cb9\u0cca\u0cb8 \u0caa\u0c9f\u0ccd\u0c9f\u0ca3",
+        "network": "BMTC",
+        "operator": "BMTC",
+        "public_transport": "station",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1238821118,
+      "bounds": {
+        "minlat": 12.9521837,
+        "minlon": 77.5429944,
+        "maxlat": 12.9542249,
+        "maxlon": 77.5444509
+      },
+      "nodes": [
+        11508286555,
+        1780288302,
+        1780288299,
+        1780288298,
+        1780288301,
+        1780288304,
+        1780288309,
+        1780288316,
+        1780288320,
+        1780288326,
+        11508286556,
+        11508286557,
+        1780288363,
+        699684242,
+        699684228,
+        1780288336,
+        699684309,
+        699684274,
+        11508286555
+      ],
+      "geometry": [
+        {
+          "lat": 12.9522431,
+          "lon": 77.5444397
+        },
+        {
+          "lat": 12.9522402,
+          "lon": 77.5444311
+        },
+        {
+          "lat": 12.9521928,
+          "lon": 77.5441809
+        },
+        {
+          "lat": 12.9521837,
+          "lon": 77.5439422
+        },
+        {
+          "lat": 12.9522289,
+          "lon": 77.5437151
+        },
+        {
+          "lat": 12.9523034,
+          "lon": 77.5434973
+        },
+        {
+          "lat": 12.9524118,
+          "lon": 77.5433235
+        },
+        {
+          "lat": 12.9525518,
+          "lon": 77.5431636
+        },
+        {
+          "lat": 12.9526738,
+          "lon": 77.5430709
+        },
+        {
+          "lat": 12.952798,
+          "lon": 77.5429944
+        },
+        {
+          "lat": 12.9531923,
+          "lon": 77.5430569
+        },
+        {
+          "lat": 12.9536566,
+          "lon": 77.5430419
+        },
+        {
+          "lat": 12.9537542,
+          "lon": 77.54337
+        },
+        {
+          "lat": 12.9539562,
+          "lon": 77.5437666
+        },
+        {
+          "lat": 12.9542249,
+          "lon": 77.5440654
+        },
+        {
+          "lat": 12.9531006,
+          "lon": 77.5443044
+        },
+        {
+          "lat": 12.9526614,
+          "lon": 77.5443897
+        },
+        {
+          "lat": 12.9522718,
+          "lon": 77.5444509
+        },
+        {
+          "lat": 12.9522431,
+          "lon": 77.5444397
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "check_date": "2024-04-05",
+        "name": "KSRTC Mysore Road Satellite Bus Station",
+        "name:kn": "\u0c95. \u0cb0\u0cbe. \u0cb0. \u0cb8\u0cbe. \u0ca8\u0cbf. \u0cac\u0cb8\u0ccd \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3, \u0cae\u0cc8\u0cb8\u0cc2\u0cb0\u0cc1 \u0cb0\u0cb8\u0ccd\u0ca4\u0cc6"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1270568466,
+      "bounds": {
+        "minlat": 12.9027261,
+        "minlon": 77.5614917,
+        "maxlat": 12.9031444,
+        "maxlon": 77.5619397
+      },
+      "nodes": [
+        11799150316,
+        11799150315,
+        11799150314,
+        11799150313,
+        11799150316
+      ],
+      "geometry": [
+        {
+          "lat": 12.9031444,
+          "lon": 77.5616942
+        },
+        {
+          "lat": 12.9030424,
+          "lon": 77.5619397
+        },
+        {
+          "lat": 12.9027261,
+          "lon": 77.5617935
+        },
+        {
+          "lat": 12.9027509,
+          "lon": 77.5614917
+        },
+        {
+          "lat": 12.9031444,
+          "lon": 77.5616942
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "name": "Kumaraswamy Layout",
+        "name:kn": "\u0c95\u0cc1\u0cae\u0cbe\u0cb0\u0cb8\u0ccd\u0cb5\u0cbe\u0cae\u0cbf \u0cac\u0ca1\u0cbe\u0cb5\u0ca3\u0cc6"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1271969090,
+      "bounds": {
+        "minlat": 13.0110376,
+        "minlon": 77.5356049,
+        "maxlat": 13.0121274,
+        "maxlon": 77.5360832
+      },
+      "nodes": [
+        1097028711,
+        11811681405,
+        11811681404,
+        11811681402,
+        11811681401,
+        11811681400,
+        11811681399,
+        11811681398,
+        11811681403,
+        11811681397,
+        11811681396,
+        11811681395,
+        11811681394,
+        11811681393,
+        11811681392,
+        1097028711
+      ],
+      "geometry": [
+        {
+          "lat": 13.0121274,
+          "lon": 77.5358713
+        },
+        {
+          "lat": 13.0112441,
+          "lon": 77.5360832
+        },
+        {
+          "lat": 13.0110376,
+          "lon": 77.5356902
+        },
+        {
+          "lat": 13.0111205,
+          "lon": 77.535658
+        },
+        {
+          "lat": 13.0112057,
+          "lon": 77.5356332
+        },
+        {
+          "lat": 13.0112927,
+          "lon": 77.535616
+        },
+        {
+          "lat": 13.0113807,
+          "lon": 77.5356066
+        },
+        {
+          "lat": 13.0114693,
+          "lon": 77.5356049
+        },
+        {
+          "lat": 13.0115577,
+          "lon": 77.5356111
+        },
+        {
+          "lat": 13.0116471,
+          "lon": 77.5356254
+        },
+        {
+          "lat": 13.0117349,
+          "lon": 77.5356478
+        },
+        {
+          "lat": 13.0118205,
+          "lon": 77.5356779
+        },
+        {
+          "lat": 13.0119031,
+          "lon": 77.5357157
+        },
+        {
+          "lat": 13.0119822,
+          "lon": 77.5357607
+        },
+        {
+          "lat": 13.0120572,
+          "lon": 77.5358127
+        },
+        {
+          "lat": 13.0121274,
+          "lon": 77.5358713
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "name": "Nandini Layout",
+        "name:kn": "\u0ca8\u0c82\u0ca6\u0cbf\u0ca8\u0cbf \u0cb2\u0cc7\u0c94\u0c9f\u0ccd",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1329553372,
+      "bounds": {
+        "minlat": 12.9064517,
+        "minlon": 77.5211473,
+        "maxlat": 12.9069357,
+        "maxlon": 77.5223006
+      },
+      "nodes": [
+        12300983251,
+        12300983249,
+        12300983248,
+        12300983247,
+        12300983246,
+        12300983251
+      ],
+      "geometry": [
+        {
+          "lat": 12.9064517,
+          "lon": 77.5218701
+        },
+        {
+          "lat": 12.9066334,
+          "lon": 77.5214276
+        },
+        {
+          "lat": 12.9066752,
+          "lon": 77.52115
+        },
+        {
+          "lat": 12.9068242,
+          "lon": 77.5211473
+        },
+        {
+          "lat": 12.9069357,
+          "lon": 77.5223006
+        },
+        {
+          "lat": 12.9064517,
+          "lon": 77.5218701
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "landuse": "garages"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1419884037,
+      "bounds": {
+        "minlat": 12.9664525,
+        "minlon": 77.5157922,
+        "maxlat": 12.9671204,
+        "maxlon": 77.5163435
+      },
+      "nodes": [
+        11184862692,
+        13047575202,
+        13047580927,
+        13047580926,
+        13047580925,
+        11184862692
+      ],
+      "geometry": [
+        {
+          "lat": 12.9666041,
+          "lon": 77.5163435
+        },
+        {
+          "lat": 12.9665096,
+          "lon": 77.5159993
+        },
+        {
+          "lat": 12.9664525,
+          "lon": 77.5157922
+        },
+        {
+          "lat": 12.9671204,
+          "lon": 77.5158942
+        },
+        {
+          "lat": 12.9670707,
+          "lon": 77.5163126
+        },
+        {
+          "lat": 12.9666041,
+          "lon": 77.5163435
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "name": "Bande Maramma",
+        "name:kn": "\u0cac\u0c82\u0ca6\u0cc6 \u0cae\u0cbe\u0cb0\u0cae\u0ccd\u0cae"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1419894208,
+      "bounds": {
+        "minlat": 12.9633479,
+        "minlon": 77.5119849,
+        "maxlat": 12.9635048,
+        "maxlon": 77.512188
+      },
+      "nodes": [
+        13047614148,
+        13047614147,
+        13047614146,
+        13047614145,
+        13047614148
+      ],
+      "geometry": [
+        {
+          "lat": 12.9633479,
+          "lon": 77.5119922
+        },
+        {
+          "lat": 12.9634852,
+          "lon": 77.5119849
+        },
+        {
+          "lat": 12.9635048,
+          "lon": 77.5121847
+        },
+        {
+          "lat": 12.9633924,
+          "lon": 77.512188
+        },
+        {
+          "lat": 12.9633479,
+          "lon": 77.5119922
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1426810495,
+      "bounds": {
+        "minlat": 12.9407795,
+        "minlon": 77.6899738,
+        "maxlat": 12.9408245,
+        "maxlon": 77.6900555
+      },
+      "nodes": [
+        13116047239,
+        13116047240,
+        13116047241,
+        13116047242,
+        13116047239
+      ],
+      "geometry": [
+        {
+          "lat": 12.9408017,
+          "lon": 77.6899738
+        },
+        {
+          "lat": 12.9408245,
+          "lon": 77.6900483
+        },
+        {
+          "lat": 12.9408023,
+          "lon": 77.6900555
+        },
+        {
+          "lat": 12.9407795,
+          "lon": 77.6899809
+        },
+        {
+          "lat": 12.9408017,
+          "lon": 77.6899738
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "name": "Terminal 2",
+        "public_transport": "station",
+        "trolleybus": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1428321423,
+      "bounds": {
+        "minlat": 12.967975,
+        "minlon": 77.4806862,
+        "maxlat": 12.968023,
+        "maxlon": 77.4807728
+      },
+      "nodes": [
+        13131270670,
+        13131270671,
+        13131270672,
+        13131270673,
+        13131270670
+      ],
+      "geometry": [
+        {
+          "lat": 12.968023,
+          "lon": 77.4806916
+        },
+        {
+          "lat": 12.9679863,
+          "lon": 77.4806862
+        },
+        {
+          "lat": 12.967975,
+          "lon": 77.4807674
+        },
+        {
+          "lat": 12.9680117,
+          "lon": 77.4807728
+        },
+        {
+          "lat": 12.968023,
+          "lon": 77.4806916
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1548526921,
+      "bounds": {
+        "minlat": 12.9624102,
+        "minlon": 77.4749717,
+        "maxlat": 12.9629369,
+        "maxlon": 77.4752499
+      },
+      "nodes": [
+        11536133384,
+        14084879210,
+        14084879209,
+        14084879208,
+        11536133384
+      ],
+      "geometry": [
+        {
+          "lat": 12.9624131,
+          "lon": 77.4751846
+        },
+        {
+          "lat": 12.9624102,
+          "lon": 77.4749717
+        },
+        {
+          "lat": 12.9629369,
+          "lon": 77.4749891
+        },
+        {
+          "lat": 12.9629248,
+          "lon": 77.4752499
+        },
+        {
+          "lat": 12.9624131,
+          "lon": 77.4751846
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "name": "Ullala Satelite Town"
+      }
+    }
+  ]
+}

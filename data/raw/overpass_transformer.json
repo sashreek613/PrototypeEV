@@ -1,0 +1,1886 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-08-23T15:59:20Z",
+    "timestamp_areas_base": "2026-08-23T04:21:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1466488430,
+      "lat": 12.9587037,
+      "lon": 77.6660013,
+      "tags": {
+        "name": "HAL electricity grid",
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2198260996,
+      "lat": 12.9785487,
+      "lon": 77.6411517,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3389118176,
+      "lat": 12.9828453,
+      "lon": 77.6385244,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3450233793,
+      "lat": 12.9455203,
+      "lon": 77.6239648,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3450276063,
+      "lat": 12.9427858,
+      "lon": 77.6259126,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3450276067,
+      "lat": 12.9441585,
+      "lon": 77.6241095,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3450276079,
+      "lat": 12.9431695,
+      "lon": 77.6239711,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3450276081,
+      "lat": 12.9435503,
+      "lon": 77.625785,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3600156305,
+      "lat": 12.9964981,
+      "lon": 77.7277189,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3600156312,
+      "lat": 12.9965295,
+      "lon": 77.727912,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3725675728,
+      "lat": 12.9680306,
+      "lon": 77.6415298,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3836981991,
+      "lat": 12.9800272,
+      "lon": 77.638364,
+      "tags": {
+        "operator": "BESCOM",
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3836983939,
+      "lat": 12.9804086,
+      "lon": 77.6378024,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3836988206,
+      "lat": 12.9787252,
+      "lon": 77.6360663,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3836988209,
+      "lat": 12.9787706,
+      "lon": 77.6354081,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3836988212,
+      "lat": 12.979542,
+      "lon": 77.6355981,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3837000797,
+      "lat": 12.9820318,
+      "lon": 77.638655,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3837007826,
+      "lat": 12.9804768,
+      "lon": 77.6372565,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3837012433,
+      "lat": 12.9793631,
+      "lon": 77.6373342,
+      "tags": {
+        "operator": "BESCOM",
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4030637034,
+      "lat": 12.9431206,
+      "lon": 77.6238964,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4052928027,
+      "lat": 12.9188534,
+      "lon": 77.5962143,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4101505929,
+      "lat": 12.97923,
+      "lon": 77.6463241,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4101529698,
+      "lat": 12.9791596,
+      "lon": 77.6456955,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4101543797,
+      "lat": 12.9799585,
+      "lon": 77.6393368,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4101548839,
+      "lat": 12.9791758,
+      "lon": 77.6429244,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4102123004,
+      "lat": 12.9789279,
+      "lon": 77.6427095,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4294829490,
+      "lat": 12.9814512,
+      "lon": 77.6014486,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4315639140,
+      "lat": 12.9698015,
+      "lon": 77.6361709,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4315639149,
+      "lat": 12.9699087,
+      "lon": 77.6370153,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4315639155,
+      "lat": 12.9699386,
+      "lon": 77.6376025,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4315639169,
+      "lat": 12.9700038,
+      "lon": 77.6380106,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4315639871,
+      "lat": 12.9729978,
+      "lon": 77.6359537,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5164845186,
+      "lat": 12.9815351,
+      "lon": 77.6490833,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5164855023,
+      "lat": 12.9817177,
+      "lon": 77.6479437,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5164905823,
+      "lat": 12.9812384,
+      "lon": 77.6484168,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5164905830,
+      "lat": 12.9816044,
+      "lon": 77.6478347,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5164905834,
+      "lat": 12.9814194,
+      "lon": 77.6469724,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5164915352,
+      "lat": 12.9801642,
+      "lon": 77.6458231,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5164915358,
+      "lat": 12.9801668,
+      "lon": 77.6445879,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5191669792,
+      "lat": 12.972559,
+      "lon": 77.6484603,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5234789128,
+      "lat": 12.9287075,
+      "lon": 77.5869569,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5234797388,
+      "lat": 12.9416641,
+      "lon": 77.5869498,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5307974844,
+      "lat": 12.9603196,
+      "lon": 77.53519,
+      "tags": {
+        "operator": "BESCOM",
+        "power": "transformer",
+        "transformer": "distribution",
+        "voltage:primary": "440"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7291611530,
+      "lat": 12.9984266,
+      "lon": 77.5489859,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9798012403,
+      "lat": 12.9312991,
+      "lon": 77.6973043,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9811397076,
+      "lat": 13.0048335,
+      "lon": 77.5537227,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9844475392,
+      "lat": 12.9381506,
+      "lon": 77.697323,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9844475393,
+      "lat": 12.9382842,
+      "lon": 77.6973706,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9929991500,
+      "lat": 12.9825583,
+      "lon": 77.5978625,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9930197209,
+      "lat": 12.9657324,
+      "lon": 77.6116477,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9936581273,
+      "lat": 13.0066602,
+      "lon": 77.5518479,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9936582861,
+      "lat": 13.0050099,
+      "lon": 77.5498509,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9936582873,
+      "lat": 13.0020253,
+      "lon": 77.5516621,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9936631188,
+      "lat": 12.9880306,
+      "lon": 77.5508145,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9936668823,
+      "lat": 12.987485,
+      "lon": 77.5506422,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9936668839,
+      "lat": 12.9807628,
+      "lon": 77.5507763,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9936668848,
+      "lat": 12.9840984,
+      "lon": 77.5519203,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9936668876,
+      "lat": 12.9844741,
+      "lon": 77.5520376,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9953960422,
+      "lat": 12.9992171,
+      "lon": 77.5497608,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9967147519,
+      "lat": 13.0035418,
+      "lon": 77.5536629,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9981910274,
+      "lat": 12.9736936,
+      "lon": 77.6094647,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9981910306,
+      "lat": 12.9737678,
+      "lon": 77.6069713,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9981919765,
+      "lat": 12.9655383,
+      "lon": 77.6363187,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9981919771,
+      "lat": 12.9637224,
+      "lon": 77.6396419,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9981998135,
+      "lat": 12.9753249,
+      "lon": 77.604151,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9981998136,
+      "lat": 12.9754478,
+      "lon": 77.6041838,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9996923727,
+      "lat": 12.9861729,
+      "lon": 77.5964715,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9996923728,
+      "lat": 12.9867072,
+      "lon": 77.5961487,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10006930145,
+      "lat": 12.9670707,
+      "lon": 77.594503,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10006930147,
+      "lat": 12.9677954,
+      "lon": 77.5932776,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10006930180,
+      "lat": 12.9664287,
+      "lon": 77.6129563,
+      "tags": {
+        "power": "transformer",
+        "survey:date": "2023-09-14"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10006972495,
+      "lat": 12.9911011,
+      "lon": 77.5462562,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10032174018,
+      "lat": 12.9581751,
+      "lon": 77.6045231,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10032174028,
+      "lat": 12.9581326,
+      "lon": 77.6036715,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10183966026,
+      "lat": 12.9825178,
+      "lon": 77.5965267,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10183966027,
+      "lat": 12.9824982,
+      "lon": 77.5965844,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10290817565,
+      "lat": 12.9722969,
+      "lon": 77.596736,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10295411741,
+      "lat": 12.9762332,
+      "lon": 77.5995315,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10608574578,
+      "lat": 13.1266147,
+      "lon": 77.5917283,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10608574579,
+      "lat": 13.1266107,
+      "lon": 77.5916478,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10892672964,
+      "lat": 12.9873675,
+      "lon": 77.6895767,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11178154123,
+      "lat": 12.9483139,
+      "lon": 77.5681327,
+      "tags": {
+        "location": "outdoor",
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11197082945,
+      "lat": 12.9572491,
+      "lon": 77.7290748,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11197082947,
+      "lat": 12.9573053,
+      "lon": 77.7287409,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11220149724,
+      "lat": 13.063616,
+      "lon": 77.5907034,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11245012924,
+      "lat": 12.9823357,
+      "lon": 77.6379805,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11303774166,
+      "lat": 12.9122558,
+      "lon": 77.5851478,
+      "tags": {
+        "location": "outdoor",
+        "operator": "Bescom",
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11445715650,
+      "lat": 13.0944631,
+      "lon": 77.5806203,
+      "tags": {
+        "location": "outdoor",
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11445750955,
+      "lat": 13.0947696,
+      "lon": 77.5829568,
+      "tags": {
+        "location": "outdoor",
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11445768679,
+      "lat": 13.0975998,
+      "lon": 77.5843795,
+      "tags": {
+        "location": "outdoor",
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11445777790,
+      "lat": 13.098281,
+      "lon": 77.5846218,
+      "tags": {
+        "location": "outdoor",
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11445777795,
+      "lat": 13.0989883,
+      "lon": 77.5849651,
+      "tags": {
+        "location": "pole",
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11484568837,
+      "lat": 13.1059708,
+      "lon": 77.5995436,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11484568838,
+      "lat": 13.1061557,
+      "lon": 77.6002885,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11487063341,
+      "lat": 13.1070167,
+      "lon": 77.5987755,
+      "tags": {
+        "location": "outdoor",
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11487089073,
+      "lat": 13.1072438,
+      "lon": 77.5995542,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11513175536,
+      "lat": 13.009262,
+      "lon": 77.5800145,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11609505400,
+      "lat": 12.9961838,
+      "lon": 77.5663437,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11622004016,
+      "lat": 13.0354542,
+      "lon": 77.6292336,
+      "tags": {
+        "location": "overground",
+        "operator": "BESCOM",
+        "power": "transformer",
+        "rating": "250 kVA",
+        "ref": "HBR-5BLK-1CR-T1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11659029005,
+      "lat": 12.9929743,
+      "lon": 77.5929093,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11681984884,
+      "lat": 12.9781088,
+      "lon": 77.5754335,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11801603054,
+      "lat": 12.9052895,
+      "lon": 77.5596678,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11801603068,
+      "lat": 12.9065801,
+      "lon": 77.5597869,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11801603071,
+      "lat": 12.9072275,
+      "lon": 77.5601882,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11832800760,
+      "lat": 12.9638505,
+      "lon": 77.7223438,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11832800761,
+      "lat": 12.9639302,
+      "lon": 77.7223331,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11853269038,
+      "lat": 12.9977571,
+      "lon": 77.6149321,
+      "tags": {
+        "location": "outdoor",
+        "power": "transformer",
+        "rating": "100kVA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11853336776,
+      "lat": 12.998346,
+      "lon": 77.6153538,
+      "tags": {
+        "location": "outdoor",
+        "power": "transformer",
+        "rating": "11"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11897988324,
+      "lat": 12.9975989,
+      "lon": 77.5712925,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11915156835,
+      "lat": 12.9831802,
+      "lon": 77.6101026,
+      "tags": {
+        "location": "outdoor",
+        "power": "transformer",
+        "rating": "250kVA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11932161142,
+      "lat": 12.9714229,
+      "lon": 77.7075715,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11932161143,
+      "lat": 12.9713624,
+      "lon": 77.7075725,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11932321822,
+      "lat": 13.0169165,
+      "lon": 77.5563865,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11932321831,
+      "lat": 13.0281879,
+      "lon": 77.5618755,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11932321834,
+      "lat": 13.0346176,
+      "lon": 77.5572914,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11932321840,
+      "lat": 13.0586083,
+      "lon": 77.559112,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11949323326,
+      "lat": 13.0633973,
+      "lon": 77.5896302,
+      "tags": {
+        "power": "transformer",
+        "rating": "250kVA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11949323645,
+      "lat": 13.0603054,
+      "lon": 77.5888074,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11951350406,
+      "lat": 12.995456,
+      "lon": 77.5664463,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11951350407,
+      "lat": 12.9940087,
+      "lon": 77.5679135,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11951381256,
+      "lat": 12.9815979,
+      "lon": 77.5971882,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11951640274,
+      "lat": 13.0076795,
+      "lon": 77.5599342,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11982363543,
+      "lat": 13.006275,
+      "lon": 77.5543529,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11982363547,
+      "lat": 12.9994549,
+      "lon": 77.5501279,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11982693075,
+      "lat": 12.9947669,
+      "lon": 77.6080748,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11984582257,
+      "lat": 13.0052347,
+      "lon": 77.5528019,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11989557922,
+      "lat": 13.0058701,
+      "lon": 77.5484297,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11989557924,
+      "lat": 13.0059137,
+      "lon": 77.54854,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11989557932,
+      "lat": 13.0075477,
+      "lon": 77.5485606,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12016136800,
+      "lat": 13.0221446,
+      "lon": 77.5511063,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12022085413,
+      "lat": 13.0101223,
+      "lon": 77.5580547,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12050480195,
+      "lat": 12.9641018,
+      "lon": 77.71255,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12050492321,
+      "lat": 12.9651224,
+      "lon": 77.7136367,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12050492322,
+      "lat": 12.9651903,
+      "lon": 77.7135263,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12077999245,
+      "lat": 12.9678406,
+      "lon": 77.6144111,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12101697377,
+      "lat": 12.9623361,
+      "lon": 77.6028812,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12101697380,
+      "lat": 12.9621051,
+      "lon": 77.6027964,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12101701667,
+      "lat": 12.9618482,
+      "lon": 77.6030117,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12101701670,
+      "lat": 12.9616946,
+      "lon": 77.6031264,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12118862841,
+      "lat": 12.9727746,
+      "lon": 77.6032665,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12124137657,
+      "lat": 12.9618485,
+      "lon": 77.602025,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12124137659,
+      "lat": 12.961823,
+      "lon": 77.6018639,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12151542437,
+      "lat": 12.951476,
+      "lon": 77.7343703,
+      "tags": {
+        "location": "outdoor",
+        "power": "transformer",
+        "rating": "250kVA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12366605064,
+      "lat": 12.9730585,
+      "lon": 77.65202,
+      "tags": {
+        "power": "transformer",
+        "transformer": "main"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12379039830,
+      "lat": 12.9986313,
+      "lon": 77.5718542,
+      "tags": {
+        "power": "transformer",
+        "voltage:primary": "11000"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12412564740,
+      "lat": 13.0996398,
+      "lon": 77.5706546,
+      "tags": {
+        "location": "outdoor",
+        "operator": "BESCOM",
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12425957505,
+      "lat": 12.9736636,
+      "lon": 77.6094644,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12450996662,
+      "lat": 13.0439346,
+      "lon": 77.6008385,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12491734658,
+      "lat": 12.9245694,
+      "lon": 77.5818505,
+      "tags": {
+        "location": "outdoor",
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12491736748,
+      "lat": 12.9264065,
+      "lon": 77.5833782,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12491766604,
+      "lat": 12.9258363,
+      "lon": 77.5836644,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12491796642,
+      "lat": 12.9233804,
+      "lon": 77.5857284,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12642184417,
+      "lat": 13.1040417,
+      "lon": 77.5717224,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12642184421,
+      "lat": 13.1041696,
+      "lon": 77.5716493,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12676261397,
+      "lat": 13.0334622,
+      "lon": 77.5582676,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12676265208,
+      "lat": 13.0425705,
+      "lon": 77.5571595,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12701945347,
+      "lat": 12.9756777,
+      "lon": 77.6024514,
+      "tags": {
+        "operator": "BESCOM",
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12722667380,
+      "lat": 12.9853928,
+      "lon": 77.5974326,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12788681457,
+      "lat": 12.9856601,
+      "lon": 77.6163516,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12788682214,
+      "lat": 12.9862684,
+      "lon": 77.6168244,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12799038585,
+      "lat": 12.9731865,
+      "lon": 77.615041,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12941864573,
+      "lat": 13.0259773,
+      "lon": 77.6353545,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12941892987,
+      "lat": 13.0249124,
+      "lon": 77.6414275,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12961515843,
+      "lat": 13.0100929,
+      "lon": 77.6443747,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12995318307,
+      "lat": 12.9435927,
+      "lon": 77.5832313,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12995318328,
+      "lat": 12.9393914,
+      "lon": 77.584808,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12995318329,
+      "lat": 12.9393921,
+      "lon": 77.5847781,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13015006912,
+      "lat": 12.9324115,
+      "lon": 77.7374712,
+      "tags": {
+        "frequency": "50",
+        "location": "outdoor",
+        "phases": "3",
+        "power": "transformer",
+        "transformer": "minor_distribution"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13015006914,
+      "lat": 12.9310093,
+      "lon": 77.7351885,
+      "tags": {
+        "frequency": "50",
+        "location": "outdoor",
+        "phases": "3",
+        "power": "transformer",
+        "transformer": "minor_distribution"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13015006915,
+      "lat": 12.935292,
+      "lon": 77.735349,
+      "tags": {
+        "frequency": "50",
+        "location": "outdoor",
+        "phases": "3",
+        "power": "transformer",
+        "transformer": "minor_distribution"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13015006916,
+      "lat": 12.9354441,
+      "lon": 77.7341355,
+      "tags": {
+        "frequency": "50",
+        "location": "outdoor",
+        "phases": "3",
+        "power": "transformer",
+        "transformer": "minor_distribution"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13015006917,
+      "lat": 12.932818,
+      "lon": 77.7348189,
+      "tags": {
+        "frequency": "50",
+        "location": "outdoor",
+        "phases": "3",
+        "power": "transformer",
+        "transformer": "minor_distribution"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13016539055,
+      "lat": 12.9280444,
+      "lon": 77.7329117,
+      "tags": {
+        "frequency": "50",
+        "location": "outdoor",
+        "phases": "3",
+        "power": "transformer",
+        "transformer": "minor_distribution"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13033401695,
+      "lat": 13.083537,
+      "lon": 77.6083271,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13046073278,
+      "lat": 12.9216823,
+      "lon": 77.5855961,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13089232586,
+      "lat": 13.004314,
+      "lon": 77.6602706,
+      "tags": {
+        "location": "outdoor",
+        "operator": "Bescom",
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13407014168,
+      "lat": 12.989064,
+      "lon": 77.7159329,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13407014187,
+      "lat": 12.9889962,
+      "lon": 77.7158444,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13784191838,
+      "lat": 12.9085357,
+      "lon": 77.682741,
+      "tags": {
+        "frequency": "50",
+        "location": "overground",
+        "phases": "3",
+        "power": "transformer",
+        "transformer": "converter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13895637612,
+      "lat": 12.9745212,
+      "lon": 77.6171489,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13913720757,
+      "lat": 12.9602516,
+      "lon": 77.6388215,
+      "tags": {
+        "operator": "BESCOM",
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13913730352,
+      "lat": 12.9601661,
+      "lon": 77.6390099,
+      "tags": {
+        "operator": "BESCOM",
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13913736965,
+      "lat": 12.9599719,
+      "lon": 77.6411562,
+      "tags": {
+        "location": "outdoor",
+        "operator": "BESCOM",
+        "phases": "3",
+        "power": "transformer",
+        "transformer": "distribution"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13913736966,
+      "lat": 12.9600027,
+      "lon": 77.6406709,
+      "tags": {
+        "location": "outdoor",
+        "operator": "BESCOM",
+        "phases": "3",
+        "power": "transformer",
+        "rating": "250kVA",
+        "transformer": "distribution"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13913747492,
+      "lat": 12.9601259,
+      "lon": 77.6393055,
+      "tags": {
+        "location": "outdoor",
+        "operator": "BESCOM",
+        "phases": "3",
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13913768060,
+      "lat": 12.9587713,
+      "lon": 77.6396572,
+      "tags": {
+        "location": "outdoor",
+        "operator": "BESCOM",
+        "phases": "3",
+        "power": "transformer",
+        "rating": "250kVA",
+        "transformer": "distribution"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13913779214,
+      "lat": 12.9586821,
+      "lon": 77.6403529,
+      "tags": {
+        "operator": "BESCOM",
+        "power": "transformer",
+        "transformer": "distribution"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13913779215,
+      "lat": 12.95967,
+      "lon": 77.641116,
+      "tags": {
+        "operator": "BESCOM",
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13927775195,
+      "lat": 12.920151,
+      "lon": 77.6890361,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13927775196,
+      "lat": 12.920185,
+      "lon": 77.6890361,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13927775197,
+      "lat": 12.9202177,
+      "lon": 77.6890381,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13927775198,
+      "lat": 12.9202497,
+      "lon": 77.6890402,
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14053250781,
+      "lat": 12.9632604,
+      "lon": 77.7249264,
+      "tags": {
+        "frequency": "50",
+        "location": "outdoor",
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14053250782,
+      "lat": 12.9632532,
+      "lon": 77.7249861,
+      "tags": {
+        "frequency": "50",
+        "location": "outdoor",
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14053250783,
+      "lat": 12.9632561,
+      "lon": 77.7249569,
+      "tags": {
+        "frequency": "50",
+        "location": "outdoor",
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "way",
+      "id": 360101070,
+      "center": {
+        "lat": 12.9795442,
+        "lon": 77.6355999
+      },
+      "tags": {
+        "power": "transformer"
+      }
+    },
+    {
+      "type": "way",
+      "id": 613381974,
+      "center": {
+        "lat": 12.9493262,
+        "lon": 77.6216664
+      },
+      "tags": {
+        "devices": "1",
+        "frequency": "50",
+        "location": "overground",
+        "phases": "3",
+        "power": "transformer",
+        "transformer": "converter"
+      }
+    }
+  ]
+}

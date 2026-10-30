@@ -1,0 +1,89 @@
+# Render Blueprint for the VidyutOne monorepo.
+# https://render.com/docs/blueprint-spec
+#
+# NOTE ON SCHEMA CONFIDENCE: `rootDir`, `preDeployCommand`, `fromDatabase`,
+# and the static-site `staticPublishPath` + `routes` rewrite block are ones
+# I'm confident about. The service-type key (`runtime:` here) has changed
+# name across Render schema versions (older docs used `env:`) -- if this
+# blueprint fails to parse on import, that key is the first thing to check
+# against Render's current docs.
+#
+# Two URLs below (CORS_ORIGINS on the backend, VITE_API_BASE_URL and
+# VITE_SITE_URL on the frontend) are set as plain literal values using
+# Render's default service domain (https://<name>.onrender.com), not via
+# fromService -- I wasn't confident fromService's `host` property returns a
+# scheme-included URL, and a bare hostname would silently break axios's
+# baseURL. If you rename either service below, update the matching literal
+# URL(s) too. If you attach a custom domain later, update them again.
+
+databases:
+  - name: vidyutone-db
+    plan: free
+    region: singapore
+    databaseName: vidyutone
+    user: vidyutone
+
+services:
+  - type: web
+    name: vidyutone-backend
+    runtime: python
+    plan: free # not specified in the request -- assumed to match the free Postgres; change if you want a paid instance
+    region: singapore
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/health # public, no auth -- see backend/app/api/routes/health.py
+    envVars:
+      # Must be the same Supabase Postgres URI used locally (Dashboard → Environment).
+      # Do not use Render Postgres: that database has no planner sites, so Overview
+      # is empty even though GET /api/sites returns 200. Never put the URI in git.
+      - key: DATABASE_URL
+        sync: false
+      - key: CORS_ORIGINS
+        value: https://vidyutone-frontend.onrender.com
+      - key: SECRET_KEY
+        sync: false
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_JWT_ISSUER
+        sync: false
+      - key: SUPABASE_JWKS_URL
+        sync: false
+      - key: SUPABASE_JWT_SECRET
+        sync: false
+      - key: SUPABASE_PUBLISHABLE_KEY
+        sync: false
+      - key: OCM_API_KEY
+        sync: false
+      - key: LYZR_API_KEY
+        sync: false
+      - key: LYZR_AGENT_ID
+        sync: false
+      - key: LYZR_DRIVER_AGENT_ID
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: RAZORPAY_KEY_ID
+        sync: false
+      - key: RAZORPAY_KEY_SECRET
+        sync: false
+
+  - type: web
+    name: vidyutone-frontend
+    runtime: static
+    rootDir: frontend
+    buildCommand: npm install && npm run build
+    staticPublishPath: dist
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+    envVars:
+      - key: VITE_API_BASE_URL
+        value: https://vidyutone-backend.onrender.com
+      - key: VITE_SITE_URL
+        value: https://vidyutone-frontend.onrender.com
+      - key: VITE_SUPABASE_URL
+        sync: false
+      - key: VITE_SUPABASE_PUBLISHABLE_KEY
+        sync: false

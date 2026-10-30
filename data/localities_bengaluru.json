@@ -1,0 +1,7859 @@
+[
+  {
+    "id": "osm-n308715244",
+    "osm_id": 308715244,
+    "name": "Vidyaranyapura",
+    "place_type": "suburb",
+    "latitude": 13.076641,
+    "longitude": 77.557732,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n377219489",
+    "osm_id": 377219489,
+    "name": "Whitefield",
+    "place_type": "suburb",
+    "latitude": 12.969637,
+    "longitude": 77.749745,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n391881071",
+    "osm_id": 391881071,
+    "name": "Srirampura",
+    "place_type": "neighbourhood",
+    "latitude": 13.066029,
+    "longitude": 77.619681,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n410861196",
+    "osm_id": 410861196,
+    "name": "Shabarinagara",
+    "place_type": "neighbourhood",
+    "latitude": 13.071362,
+    "longitude": 77.63794,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n420087906",
+    "osm_id": 420087906,
+    "name": "Chikkabyrathi",
+    "place_type": "neighbourhood",
+    "latitude": 13.055321,
+    "longitude": 77.649503,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n420088225",
+    "osm_id": 420088225,
+    "name": "Byrathi",
+    "place_type": "neighbourhood",
+    "latitude": 13.056353,
+    "longitude": 77.652099,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n427595936",
+    "osm_id": 427595936,
+    "name": "Malleswaram",
+    "place_type": "suburb",
+    "latitude": 13.002735,
+    "longitude": 77.570325,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n428464052",
+    "osm_id": 428464052,
+    "name": "Sampangirama Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.966456,
+    "longitude": 77.592261,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n428464054",
+    "osm_id": 428464054,
+    "name": "Shanti Nagar",
+    "place_type": "suburb",
+    "latitude": 12.955537,
+    "longitude": 77.592428,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n429303186",
+    "osm_id": 429303186,
+    "name": "Shivajinagar",
+    "place_type": "suburb",
+    "latitude": 12.985529,
+    "longitude": 77.60545,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n429697299",
+    "osm_id": 429697299,
+    "name": "Gandhinagar",
+    "place_type": "suburb",
+    "latitude": 12.977153,
+    "longitude": 77.580031,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n429853334",
+    "osm_id": 429853334,
+    "name": "Jayanagar",
+    "place_type": "suburb",
+    "latitude": 12.929273,
+    "longitude": 77.582423,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n429853335",
+    "osm_id": 429853335,
+    "name": "JP Nagar",
+    "place_type": "suburb",
+    "latitude": 12.909694,
+    "longitude": 77.586607,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n429853694",
+    "osm_id": 429853694,
+    "name": "Chamarajapete",
+    "place_type": "suburb",
+    "latitude": 12.958418,
+    "longitude": 77.562916,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n429857523",
+    "osm_id": 429857523,
+    "name": "Rajajinagar",
+    "place_type": "suburb",
+    "latitude": 12.988234,
+    "longitude": 77.554883,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n429857524",
+    "osm_id": 429857524,
+    "name": "Vijaya Nagar",
+    "place_type": "suburb",
+    "latitude": 12.966399,
+    "longitude": 77.535409,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n429876575",
+    "osm_id": 429876575,
+    "name": "Mavalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.952848,
+    "longitude": 77.581964,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n429918282",
+    "osm_id": 429918282,
+    "name": "Koramangala",
+    "place_type": "suburb",
+    "latitude": 12.935737,
+    "longitude": 77.624081,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n429921852",
+    "osm_id": 429921852,
+    "name": "Austin Town",
+    "place_type": "suburb",
+    "latitude": 12.961274,
+    "longitude": 77.615294,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n429921854",
+    "osm_id": 429921854,
+    "name": "Viveknagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.952925,
+    "longitude": 77.623137,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n429921856",
+    "osm_id": 429921856,
+    "name": "Cubbonpet",
+    "place_type": "neighbourhood",
+    "latitude": 12.968499,
+    "longitude": 77.585229,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n429921857",
+    "osm_id": 429921857,
+    "name": "Old Tharagupete",
+    "place_type": "neighbourhood",
+    "latitude": 12.967815,
+    "longitude": 77.576627,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n429921859",
+    "osm_id": 429921859,
+    "name": "Sultanpete",
+    "place_type": "neighbourhood",
+    "latitude": 12.969938,
+    "longitude": 77.573875,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n429921860",
+    "osm_id": 429921860,
+    "name": "Ranasingpete",
+    "place_type": "neighbourhood",
+    "latitude": 12.967544,
+    "longitude": 77.572459,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n429921862",
+    "osm_id": 429921862,
+    "name": "Chikkapete",
+    "place_type": "suburb",
+    "latitude": 12.969784,
+    "longitude": 77.57569,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n429921863",
+    "osm_id": 429921863,
+    "name": "Balepet",
+    "place_type": "neighbourhood",
+    "latitude": 12.973118,
+    "longitude": 77.575932,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n429937956",
+    "osm_id": 429937956,
+    "name": "Basavanagudi",
+    "place_type": "suburb",
+    "latitude": 12.941726,
+    "longitude": 77.575502,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n430043651",
+    "osm_id": 430043651,
+    "name": "RT Nagar",
+    "place_type": "suburb",
+    "latitude": 13.02272,
+    "longitude": 77.595715,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n430051517",
+    "osm_id": 430051517,
+    "name": "Frazer Town",
+    "place_type": "suburb",
+    "latitude": 12.997585,
+    "longitude": 77.613674,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n430143744",
+    "osm_id": 430143744,
+    "name": "Yelahanka",
+    "place_type": "suburb",
+    "latitude": 13.100698,
+    "longitude": 77.596345,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n431530915",
+    "osm_id": 431530915,
+    "name": "Mathikere",
+    "place_type": "suburb",
+    "latitude": 13.033359,
+    "longitude": 77.558179,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n433747869",
+    "osm_id": 433747869,
+    "name": "BEL Colony",
+    "place_type": "neighbourhood",
+    "latitude": 13.04707,
+    "longitude": 77.553905,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n433748247",
+    "osm_id": 433748247,
+    "name": "Jalahalli",
+    "place_type": "suburb",
+    "latitude": 13.046453,
+    "longitude": 77.54838,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n440680091",
+    "osm_id": 440680091,
+    "name": "Kalkere",
+    "place_type": "neighbourhood",
+    "latitude": 13.03509,
+    "longitude": 77.673808,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n440684547",
+    "osm_id": 440684547,
+    "name": "Jayantinagara",
+    "place_type": "neighbourhood",
+    "latitude": 13.027639,
+    "longitude": 77.665937,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n442068273",
+    "osm_id": 442068273,
+    "name": "Marathahalli",
+    "place_type": "suburb",
+    "latitude": 12.955257,
+    "longitude": 77.698416,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n442068820",
+    "osm_id": 442068820,
+    "name": "Ashwath Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.958255,
+    "longitude": 77.703124,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n442068826",
+    "osm_id": 442068826,
+    "name": "Ananda Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 12.961037,
+    "longitude": 77.700531,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n442134548",
+    "osm_id": 442134548,
+    "name": "KR Puram",
+    "place_type": "suburb",
+    "latitude": 13.007516,
+    "longitude": 77.695935,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n442438417",
+    "osm_id": 442438417,
+    "name": "Ramamurthy Nagar",
+    "place_type": "suburb",
+    "latitude": 13.012022,
+    "longitude": 77.677782,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n443615519",
+    "osm_id": 443615519,
+    "name": "Poojappa Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.034789,
+    "longitude": 77.643524,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n443634185",
+    "osm_id": 443634185,
+    "name": "Babusabpalya",
+    "place_type": "neighbourhood",
+    "latitude": 13.028352,
+    "longitude": 77.650469,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n443634193",
+    "osm_id": 443634193,
+    "name": "GNR Gardens",
+    "place_type": "neighbourhood",
+    "latitude": 13.029946,
+    "longitude": 77.646366,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n443807286",
+    "osm_id": 443807286,
+    "name": "Baiyyappanahalli",
+    "place_type": "suburb",
+    "latitude": 12.996341,
+    "longitude": 77.65332,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n443807287",
+    "osm_id": 443807287,
+    "name": "Banaswadi",
+    "place_type": "suburb",
+    "latitude": 13.014162,
+    "longitude": 77.651854,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n445363393",
+    "osm_id": 445363393,
+    "name": "Yeswanthpur",
+    "place_type": "suburb",
+    "latitude": 13.022184,
+    "longitude": 77.553082,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n447032046",
+    "osm_id": 447032046,
+    "name": "BTM Layout",
+    "place_type": "suburb",
+    "latitude": 12.914001,
+    "longitude": 77.610282,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n447063719",
+    "osm_id": 447063719,
+    "name": "Rajarajeshwari Nagar",
+    "place_type": "suburb",
+    "latitude": 12.927441,
+    "longitude": 77.515522,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n447063720",
+    "osm_id": 447063720,
+    "name": "Jnana Bharathi",
+    "place_type": "suburb",
+    "latitude": 12.943349,
+    "longitude": 77.511233,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n448991617",
+    "osm_id": 448991617,
+    "name": "Indiranagar",
+    "place_type": "suburb",
+    "latitude": 12.973291,
+    "longitude": 77.640467,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n456016705",
+    "osm_id": 456016705,
+    "name": "Bellanduru",
+    "place_type": "suburb",
+    "latitude": 12.929211,
+    "longitude": 77.677042,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n456016994",
+    "osm_id": 456016994,
+    "name": "HSR Layout",
+    "place_type": "suburb",
+    "latitude": 12.911623,
+    "longitude": 77.638862,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n456025400",
+    "osm_id": 456025400,
+    "name": "Anjanapura",
+    "place_type": "suburb",
+    "latitude": 12.860131,
+    "longitude": 77.554059,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n456112035",
+    "osm_id": 456112035,
+    "name": "Ramachandra Pura",
+    "place_type": "neighbourhood",
+    "latitude": 12.985184,
+    "longitude": 77.562222,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n458104498",
+    "osm_id": 458104498,
+    "name": "Kengeri",
+    "place_type": "suburb",
+    "latitude": 12.922973,
+    "longitude": 77.484293,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n458272897",
+    "osm_id": 458272897,
+    "name": "Jayamahal Extension",
+    "place_type": "neighbourhood",
+    "latitude": 13.001106,
+    "longitude": 77.596958,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n459782030",
+    "osm_id": 459782030,
+    "name": "Rajendranagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.946637,
+    "longitude": 77.617496,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n459811879",
+    "osm_id": 459811879,
+    "name": "Austin Town BDA Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.956672,
+    "longitude": 77.615386,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n461539035",
+    "osm_id": 461539035,
+    "name": "Sadashivanagar",
+    "place_type": "suburb",
+    "latitude": 13.011019,
+    "longitude": 77.580864,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n461755226",
+    "osm_id": 461755226,
+    "name": "Vasanth Nagar",
+    "place_type": "suburb",
+    "latitude": 12.992174,
+    "longitude": 77.591459,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n493530617",
+    "osm_id": 493530617,
+    "name": "Bismillah Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.926338,
+    "longitude": 77.603385,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n493530639",
+    "osm_id": 493530639,
+    "name": "NAL Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.925391,
+    "longitude": 77.598892,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n493538970",
+    "osm_id": 493538970,
+    "name": "Canara Bank Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.93119,
+    "longitude": 77.590894,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n493538976",
+    "osm_id": 493538976,
+    "name": "Tilak Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.927588,
+    "longitude": 77.594712,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n494013080",
+    "osm_id": 494013080,
+    "name": "IAS Officers Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.911592,
+    "longitude": 77.611496,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n503050594",
+    "osm_id": 503050594,
+    "name": "Koramangala 2nd Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.924369,
+    "longitude": 77.624243,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n503573878",
+    "osm_id": 503573878,
+    "name": "BEL Colony",
+    "place_type": "neighbourhood",
+    "latitude": 13.056658,
+    "longitude": 77.560126,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n513600978",
+    "osm_id": 513600978,
+    "name": "Indiranagar 1st Stage",
+    "place_type": "neighbourhood",
+    "latitude": 12.979342,
+    "longitude": 77.639153,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n513600979",
+    "osm_id": 513600979,
+    "name": "Indiranagar 2nd Stage",
+    "place_type": "neighbourhood",
+    "latitude": 12.977086,
+    "longitude": 77.63869,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n513600980",
+    "osm_id": 513600980,
+    "name": "Motappanapalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.973165,
+    "longitude": 77.638873,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n513652499",
+    "osm_id": 513652499,
+    "name": "Domlur 1st Stage",
+    "place_type": "neighbourhood",
+    "latitude": 12.959142,
+    "longitude": 77.637791,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n513652501",
+    "osm_id": 513652501,
+    "name": "New Thippasandra",
+    "place_type": "neighbourhood",
+    "latitude": 12.973696,
+    "longitude": 77.653693,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n513660186",
+    "osm_id": 513660186,
+    "name": "NR Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.961777,
+    "longitude": 77.65675,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n513660192",
+    "osm_id": 513660192,
+    "name": "Konena Agrahara",
+    "place_type": "neighbourhood",
+    "latitude": 12.958606,
+    "longitude": 77.662337,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n529003770",
+    "osm_id": 529003770,
+    "name": "RMV 2nd Stage",
+    "place_type": "suburb",
+    "latitude": 13.036011,
+    "longitude": 77.569529,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n529277252",
+    "osm_id": 529277252,
+    "name": "Hebbal",
+    "place_type": "suburb",
+    "latitude": 13.038218,
+    "longitude": 77.5919,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n529291184",
+    "osm_id": 529291184,
+    "name": "RMV 2nd Stage 2nd Block",
+    "place_type": "neighbourhood",
+    "latitude": 13.028743,
+    "longitude": 77.575027,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n529372193",
+    "osm_id": 529372193,
+    "name": "Sundar Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.040538,
+    "longitude": 77.558832,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n533558712",
+    "osm_id": 533558712,
+    "name": "Sahakaranagara",
+    "place_type": "suburb",
+    "latitude": 13.062907,
+    "longitude": 77.585882,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n533581425",
+    "osm_id": 533581425,
+    "name": "Arkavathy Layout",
+    "place_type": "suburb",
+    "latitude": 13.067129,
+    "longitude": 77.621897,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n533583774",
+    "osm_id": 533583774,
+    "name": "Arkavathy Layout 7th Block",
+    "place_type": "neighbourhood",
+    "latitude": 13.074716,
+    "longitude": 77.609823,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n533583971",
+    "osm_id": 533583971,
+    "name": "Arkavathy Layout 1st Block",
+    "place_type": "neighbourhood",
+    "latitude": 13.084039,
+    "longitude": 77.608321,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n533588736",
+    "osm_id": 533588736,
+    "name": "Jakkur",
+    "place_type": "suburb",
+    "latitude": 13.078474,
+    "longitude": 77.606894,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n533592521",
+    "osm_id": 533592521,
+    "name": "Arkavathy Layout 3rd Block",
+    "place_type": "neighbourhood",
+    "latitude": 13.075755,
+    "longitude": 77.620343,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n533595969",
+    "osm_id": 533595969,
+    "name": "MCECHS Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.07258,
+    "longitude": 77.615245,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n533596428",
+    "osm_id": 533596428,
+    "name": "Telecom Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.069178,
+    "longitude": 77.615477,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n565301088",
+    "osm_id": 565301088,
+    "name": "Hanumanthanagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.060615,
+    "longitude": 77.669273,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n567770959",
+    "osm_id": 567770959,
+    "name": "Agara",
+    "place_type": "neighbourhood",
+    "latitude": 13.038673,
+    "longitude": 77.646809,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n567771160",
+    "osm_id": 567771160,
+    "name": "Chelekere",
+    "place_type": "neighbourhood",
+    "latitude": 13.028656,
+    "longitude": 77.6425,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n567772575",
+    "osm_id": 567772575,
+    "name": "Kalyan Nagar",
+    "place_type": "suburb",
+    "latitude": 13.022142,
+    "longitude": 77.640337,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n567773467",
+    "osm_id": 567773467,
+    "name": "Shree Vinayaka Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.011543,
+    "longitude": 77.700424,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n568282200",
+    "osm_id": 568282200,
+    "name": "Lower Palace Orchard",
+    "place_type": "neighbourhood",
+    "latitude": 13.004315,
+    "longitude": 77.579751,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n573534505",
+    "osm_id": 573534505,
+    "name": "Uttarahalli",
+    "place_type": "suburb",
+    "latitude": 12.905568,
+    "longitude": 77.545544,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n574853138",
+    "osm_id": 574853138,
+    "name": "Mahadevapura",
+    "place_type": "suburb",
+    "latitude": 12.99124,
+    "longitude": 77.689733,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n582576115",
+    "osm_id": 582576115,
+    "name": "Kanaka Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.037411,
+    "longitude": 77.608206,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n589789927",
+    "osm_id": 589789927,
+    "name": "HMT Watch Factory Colony",
+    "place_type": "neighbourhood",
+    "latitude": 13.046697,
+    "longitude": 77.532467,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n595167032",
+    "osm_id": 595167032,
+    "name": "Vinayaka Nagar B Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.954521,
+    "longitude": 77.658947,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n595301768",
+    "osm_id": 595301768,
+    "name": "CNR Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.025223,
+    "longitude": 77.652494,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n595302508",
+    "osm_id": 595302508,
+    "name": "Malappa Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.027073,
+    "longitude": 77.651152,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n595304404",
+    "osm_id": 595304404,
+    "name": "Bank Avenue Colony",
+    "place_type": "neighbourhood",
+    "latitude": 13.022568,
+    "longitude": 77.652799,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n595688375",
+    "osm_id": 595688375,
+    "name": "Hennur Gardens",
+    "place_type": "neighbourhood",
+    "latitude": 13.037691,
+    "longitude": 77.64329,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n597066208",
+    "osm_id": 597066208,
+    "name": "Sri Krishna Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.077584,
+    "longitude": 77.653547,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n597694337",
+    "osm_id": 597694337,
+    "name": "Post & Telegraph Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.024731,
+    "longitude": 77.65804,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n598947872",
+    "osm_id": 598947872,
+    "name": "Mohan Kumar Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.031024,
+    "longitude": 77.551138,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n598948010",
+    "osm_id": 598948010,
+    "name": "MSR Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.03331,
+    "longitude": 77.56682,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n599212727",
+    "osm_id": 599212727,
+    "name": "Peenya 2nd Stage",
+    "place_type": "neighbourhood",
+    "latitude": 13.028317,
+    "longitude": 77.512963,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n628634429",
+    "osm_id": 628634429,
+    "name": "C V Raman Nagar",
+    "place_type": "suburb",
+    "latitude": 12.985648,
+    "longitude": 77.664977,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n646342132",
+    "osm_id": 646342132,
+    "name": "Raghavendra Colony",
+    "place_type": "neighbourhood",
+    "latitude": 13.06455,
+    "longitude": 77.527522,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n648975553",
+    "osm_id": 648975553,
+    "name": "Cottonpete",
+    "place_type": "neighbourhood",
+    "latitude": 12.965633,
+    "longitude": 77.565886,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n652356552",
+    "osm_id": 652356552,
+    "name": "Prakruthi Township",
+    "place_type": "neighbourhood",
+    "latitude": 13.030877,
+    "longitude": 77.652153,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n666849453",
+    "osm_id": 666849453,
+    "name": "L.R. Nagar 1st Stage",
+    "place_type": "neighbourhood",
+    "latitude": 12.949846,
+    "longitude": 77.615669,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n666849455",
+    "osm_id": 666849455,
+    "name": "L.R. Nagar 2nd Stage",
+    "place_type": "neighbourhood",
+    "latitude": 12.949694,
+    "longitude": 77.617455,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n666849457",
+    "osm_id": 666849457,
+    "name": "Ambedkar Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.949085,
+    "longitude": 77.618487,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n679886682",
+    "osm_id": 679886682,
+    "name": "Goripalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.962944,
+    "longitude": 77.5495,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n683061164",
+    "osm_id": 683061164,
+    "name": "Hosahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.969069,
+    "longitude": 77.54278,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n699684267",
+    "osm_id": 699684267,
+    "name": "Kasturibai Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.954105,
+    "longitude": 77.551273,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n710722699",
+    "osm_id": 710722699,
+    "name": "Domlur 2nd Stage",
+    "place_type": "neighbourhood",
+    "latitude": 12.964066,
+    "longitude": 77.638368,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n718385669",
+    "osm_id": 718385669,
+    "name": "Vannarapete",
+    "place_type": "neighbourhood",
+    "latitude": 12.959993,
+    "longitude": 77.617638,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n733519847",
+    "osm_id": 733519847,
+    "name": "Ganapathy Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.946341,
+    "longitude": 77.539626,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n733519862",
+    "osm_id": 733519862,
+    "name": "KHR Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.946687,
+    "longitude": 77.535452,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n736207253",
+    "osm_id": 736207253,
+    "name": "Defence Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.976171,
+    "longitude": 77.643531,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n769260893",
+    "osm_id": 769260893,
+    "name": "Someshwaranagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.942092,
+    "longitude": 77.592135,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n821795981",
+    "osm_id": 821795981,
+    "name": "Nanjappa Garden",
+    "place_type": "neighbourhood",
+    "latitude": 13.023408,
+    "longitude": 77.650412,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n833667755",
+    "osm_id": 833667755,
+    "name": "Gunjur",
+    "place_type": "suburb",
+    "latitude": 12.920977,
+    "longitude": 77.736102,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n833667966",
+    "osm_id": 833667966,
+    "name": "Balagere",
+    "place_type": "suburb",
+    "latitude": 12.937724,
+    "longitude": 77.728071,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n833667967",
+    "osm_id": 833667967,
+    "name": "Varthur",
+    "place_type": "suburb",
+    "latitude": 12.940651,
+    "longitude": 77.746988,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n841805570",
+    "osm_id": 841805570,
+    "name": "Bhuvaneshwari Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.92325,
+    "longitude": 77.549379,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n841805600",
+    "osm_id": 841805600,
+    "name": "Ittamadu",
+    "place_type": "neighbourhood",
+    "latitude": 12.925005,
+    "longitude": 77.544457,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n841805641",
+    "osm_id": 841805641,
+    "name": "AGS Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.912765,
+    "longitude": 77.53405,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n841805674",
+    "osm_id": 841805674,
+    "name": "Katriguppe",
+    "place_type": "neighbourhood",
+    "latitude": 12.928095,
+    "longitude": 77.548884,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n850751602",
+    "osm_id": 850751602,
+    "name": "HMT Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.027652,
+    "longitude": 77.592125,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n850751624",
+    "osm_id": 850751624,
+    "name": "VV Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.027947,
+    "longitude": 77.595071,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n857189302",
+    "osm_id": 857189302,
+    "name": "St. Thomas Town",
+    "place_type": "neighbourhood",
+    "latitude": 13.006557,
+    "longitude": 77.622407,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n959499304",
+    "osm_id": 959499304,
+    "name": "Sector A",
+    "place_type": "neighbourhood",
+    "latitude": 13.096843,
+    "longitude": 77.586453,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n959499462",
+    "osm_id": 959499462,
+    "name": "Sector B",
+    "place_type": "neighbourhood",
+    "latitude": 13.098281,
+    "longitude": 77.581801,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n959502436",
+    "osm_id": 959502436,
+    "name": "4th Phase",
+    "place_type": "neighbourhood",
+    "latitude": 13.104838,
+    "longitude": 77.575315,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n959502438",
+    "osm_id": 959502438,
+    "name": "5th Phase",
+    "place_type": "neighbourhood",
+    "latitude": 13.105147,
+    "longitude": 77.571478,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n960168729",
+    "osm_id": 960168729,
+    "name": "Gandhinagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.098755,
+    "longitude": 77.595283,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n961374022",
+    "osm_id": 961374022,
+    "name": "Jagadish Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.968255,
+    "longitude": 77.664822,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n986269817",
+    "osm_id": 986269817,
+    "name": "Immadihalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.966399,
+    "longitude": 77.762046,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1007655139",
+    "osm_id": 1007655139,
+    "name": "Valmiki Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.956727,
+    "longitude": 77.55459,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1099038300",
+    "osm_id": 1099038300,
+    "name": "Vakil Marina Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.901588,
+    "longitude": 77.617627,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1232740569",
+    "osm_id": 1232740569,
+    "name": "Eshwara Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.974382,
+    "longitude": 77.633767,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1232740599",
+    "osm_id": 1232740599,
+    "name": "LBS Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.976475,
+    "longitude": 77.632272,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1232839896",
+    "osm_id": 1232839896,
+    "name": "Dollars Colony",
+    "place_type": "neighbourhood",
+    "latitude": 13.041367,
+    "longitude": 77.567815,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1278162245",
+    "osm_id": 1278162245,
+    "name": "Venkatpura",
+    "place_type": "neighbourhood",
+    "latitude": 12.922558,
+    "longitude": 77.634474,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1278162259",
+    "osm_id": 1278162259,
+    "name": "ST Bed Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.93477,
+    "longitude": 77.632431,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1285911548",
+    "osm_id": 1285911548,
+    "name": "Nagarabhavi",
+    "place_type": "suburb",
+    "latitude": 12.966418,
+    "longitude": 77.513078,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1285970570",
+    "osm_id": 1285970570,
+    "name": "NGEF Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.959269,
+    "longitude": 77.509389,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1370044733",
+    "osm_id": 1370044733,
+    "name": "Green Domain Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.972847,
+    "longitude": 77.714894,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1405583404",
+    "osm_id": 1405583404,
+    "name": "Akshaynagar Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.873196,
+    "longitude": 77.614589,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1420058875",
+    "osm_id": 1420058875,
+    "name": "Domlur Village",
+    "place_type": "neighbourhood",
+    "latitude": 12.962434,
+    "longitude": 77.635802,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1420066610",
+    "osm_id": 1420066610,
+    "name": "Doopanahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.967458,
+    "longitude": 77.639638,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1433644252",
+    "osm_id": 1433644252,
+    "name": "Dattatreya Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 12.926579,
+    "longitude": 77.539261,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1440229422",
+    "osm_id": 1440229422,
+    "name": "Basaveshwaranagar 2nd Stage",
+    "place_type": "neighbourhood",
+    "latitude": 12.986475,
+    "longitude": 77.538571,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1453825863",
+    "osm_id": 1453825863,
+    "name": "Halasuru",
+    "place_type": "suburb",
+    "latitude": 12.977879,
+    "longitude": 77.62467,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1456740144",
+    "osm_id": 1456740144,
+    "name": "Ashwath Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.025441,
+    "longitude": 77.579403,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1456749191",
+    "osm_id": 1456749191,
+    "name": "Rajpalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.990803,
+    "longitude": 77.721439,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1457440304",
+    "osm_id": 1457440304,
+    "name": "Hoodi",
+    "place_type": "suburb",
+    "latitude": 12.991903,
+    "longitude": 77.716201,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1457440309",
+    "osm_id": 1457440309,
+    "name": "Garudacharpalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.993425,
+    "longitude": 77.700516,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1457470051",
+    "osm_id": 1457470051,
+    "name": "Prashanth Extension",
+    "place_type": "neighbourhood",
+    "latitude": 12.983525,
+    "longitude": 77.748924,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1457470082",
+    "osm_id": 1457470082,
+    "name": "Carmelaram",
+    "place_type": "suburb",
+    "latitude": 12.9112,
+    "longitude": 77.706513,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1459472864",
+    "osm_id": 1459472864,
+    "name": "Thubarahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.954787,
+    "longitude": 77.721315,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1459472876",
+    "osm_id": 1459472876,
+    "name": "Siddapura",
+    "place_type": "neighbourhood",
+    "latitude": 12.95426,
+    "longitude": 77.730974,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1459473105",
+    "osm_id": 1459473105,
+    "name": "Kadugodi",
+    "place_type": "suburb",
+    "latitude": 12.998577,
+    "longitude": 77.760972,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1459772969",
+    "osm_id": 1459772969,
+    "name": "Pattanduru Agrahara",
+    "place_type": "suburb",
+    "latitude": 12.978475,
+    "longitude": 77.733422,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1460725252",
+    "osm_id": 1460725252,
+    "name": "Manjunath Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.953633,
+    "longitude": 77.65436,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1471872391",
+    "osm_id": 1471872391,
+    "name": "R. Narayanapura",
+    "place_type": "neighbourhood",
+    "latitude": 12.964329,
+    "longitude": 77.741559,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1472934965",
+    "osm_id": 1472934965,
+    "name": "Yelenahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.866907,
+    "longitude": 77.615902,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1473221118",
+    "osm_id": 1473221118,
+    "name": "Cambridge Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.970123,
+    "longitude": 77.627776,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1483255832",
+    "osm_id": 1483255832,
+    "name": "Udaya Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.996362,
+    "longitude": 77.67245,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1485730749",
+    "osm_id": 1485730749,
+    "name": "Sai Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.972892,
+    "longitude": 77.752234,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1489288914",
+    "osm_id": 1489288914,
+    "name": "Tigalarapalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.993328,
+    "longitude": 77.722059,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1497218663",
+    "osm_id": 1497218663,
+    "name": "Kadugodi Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.99212,
+    "longitude": 77.749762,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1497326585",
+    "osm_id": 1497326585,
+    "name": "Maithri Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.984862,
+    "longitude": 77.755919,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1584511575",
+    "osm_id": 1584511575,
+    "name": "Vinayaka Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.968809,
+    "longitude": 77.752121,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1588150107",
+    "osm_id": 1588150107,
+    "name": "Pantarapalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.940702,
+    "longitude": 77.528592,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1588150119",
+    "osm_id": 1588150119,
+    "name": "Laggere",
+    "place_type": "suburb",
+    "latitude": 13.010868,
+    "longitude": 77.52073,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1588150122",
+    "osm_id": 1588150122,
+    "name": "Pushpagiri Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.929762,
+    "longitude": 77.533327,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1588432381",
+    "osm_id": 1588432381,
+    "name": "Kottigepalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.984549,
+    "longitude": 77.511805,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1615767014",
+    "osm_id": 1615767014,
+    "name": "Panathur",
+    "place_type": "suburb",
+    "latitude": 12.935146,
+    "longitude": 77.704754,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1616772424",
+    "osm_id": 1616772424,
+    "name": "Rajajinagar 1st Block",
+    "place_type": "neighbourhood",
+    "latitude": 13.003129,
+    "longitude": 77.551153,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1616772428",
+    "osm_id": 1616772428,
+    "name": "Rajajinagar 5th Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.983327,
+    "longitude": 77.551898,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1616772430",
+    "osm_id": 1616772430,
+    "name": "Rajajinagar 3rd Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.988179,
+    "longitude": 77.552687,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1619884911",
+    "osm_id": 1619884911,
+    "name": "Postal Colony",
+    "place_type": "neighbourhood",
+    "latitude": 13.035192,
+    "longitude": 77.577122,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1619884912",
+    "osm_id": 1619884912,
+    "name": "KEB Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.030928,
+    "longitude": 77.580476,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1619884913",
+    "osm_id": 1619884913,
+    "name": "RMV 2nd Stage 1st Block",
+    "place_type": "neighbourhood",
+    "latitude": 13.022213,
+    "longitude": 77.57811,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1633870850",
+    "osm_id": 1633870850,
+    "name": "Kaithota",
+    "place_type": "neighbourhood",
+    "latitude": 12.967277,
+    "longitude": 77.765051,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1634130640",
+    "osm_id": 1634130640,
+    "name": "Hagaduru",
+    "place_type": "neighbourhood",
+    "latitude": 12.966207,
+    "longitude": 77.757209,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1660031421",
+    "osm_id": 1660031421,
+    "name": "Kaveri Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 12.997789,
+    "longitude": 77.705209,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1681877266",
+    "osm_id": 1681877266,
+    "name": "Benniganahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.994919,
+    "longitude": 77.662603,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1684218036",
+    "osm_id": 1684218036,
+    "name": "Prithvi Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.977178,
+    "longitude": 77.743645,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1693175446",
+    "osm_id": 1693175446,
+    "name": "Darga Mohalla",
+    "place_type": "neighbourhood",
+    "latitude": 12.999786,
+    "longitude": 77.673158,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1717891654",
+    "osm_id": 1717891654,
+    "name": "Maheshwari Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.99178,
+    "longitude": 77.69075,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1717892732",
+    "osm_id": 1717892732,
+    "name": "B Chikkanna Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.992496,
+    "longitude": 77.691112,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1717893278",
+    "osm_id": 1717893278,
+    "name": "Saraswathi Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.991282,
+    "longitude": 77.688917,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1717894443",
+    "osm_id": 1717894443,
+    "name": "Shivaganga Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.989512,
+    "longitude": 77.690012,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1757013241",
+    "osm_id": 1757013241,
+    "name": "BTM 2nd Stage",
+    "place_type": "neighbourhood",
+    "latitude": 12.914079,
+    "longitude": 77.618886,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1773577331",
+    "osm_id": 1773577331,
+    "name": "Annasandra Palya",
+    "place_type": "neighbourhood",
+    "latitude": 12.963659,
+    "longitude": 77.672986,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1773577354",
+    "osm_id": 1773577354,
+    "name": "Lal Bahadur Shastri Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.96781,
+    "longitude": 77.671548,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1778942637",
+    "osm_id": 1778942637,
+    "name": "Marenahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.968774,
+    "longitude": 77.530639,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1778942893",
+    "osm_id": 1778942893,
+    "name": "Saraswathi Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 12.971607,
+    "longitude": 77.529003,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1778943773",
+    "osm_id": 1778943773,
+    "name": "Prashanth Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.977619,
+    "longitude": 77.531325,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1778944439",
+    "osm_id": 1778944439,
+    "name": "Malagala",
+    "place_type": "neighbourhood",
+    "latitude": 12.97787,
+    "longitude": 77.516101,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1778956732",
+    "osm_id": 1778956732,
+    "name": "Dasarahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.978413,
+    "longitude": 77.542719,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1808809378",
+    "osm_id": 1808809378,
+    "name": "Kaveri Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.973102,
+    "longitude": 77.526857,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1809694369",
+    "osm_id": 1809694369,
+    "name": "GKW Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.968105,
+    "longitude": 77.528445,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1809694382",
+    "osm_id": 1809694382,
+    "name": "Vinayaka Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.967507,
+    "longitude": 77.530193,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1809717632",
+    "osm_id": 1809717632,
+    "name": "M C Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.973096,
+    "longitude": 77.535394,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1809717633",
+    "osm_id": 1809717633,
+    "name": "Binny Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.971909,
+    "longitude": 77.534246,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1809760725",
+    "osm_id": 1809760725,
+    "name": "Telecom Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.965528,
+    "longitude": 77.546705,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1811327702",
+    "osm_id": 1811327702,
+    "name": "ITI Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.966573,
+    "longitude": 77.501671,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1813491559",
+    "osm_id": 1813491559,
+    "name": "NHCS Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.972517,
+    "longitude": 77.531084,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1813491561",
+    "osm_id": 1813491561,
+    "name": "Central Excise Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.973854,
+    "longitude": 77.53298,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1813501240",
+    "osm_id": 1813501240,
+    "name": "Rajajinagar 6th Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.978335,
+    "longitude": 77.553749,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1828581707",
+    "osm_id": 1828581707,
+    "name": "Poojary Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.026848,
+    "longitude": 77.576465,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1837595256",
+    "osm_id": 1837595256,
+    "name": "Sulthanpalya",
+    "place_type": "suburb",
+    "latitude": 13.029412,
+    "longitude": 77.604695,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1837948053",
+    "osm_id": 1837948053,
+    "name": "Kothandram Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.985268,
+    "longitude": 77.617877,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1843653195",
+    "osm_id": 1843653195,
+    "name": "Sampige Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.97647,
+    "longitude": 77.528243,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1843653226",
+    "osm_id": 1843653226,
+    "name": "Amarjyothi Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.973924,
+    "longitude": 77.52912,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1843665966",
+    "osm_id": 1843665966,
+    "name": "Kaveri Pura",
+    "place_type": "neighbourhood",
+    "latitude": 12.976986,
+    "longitude": 77.525504,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1844365244",
+    "osm_id": 1844365244,
+    "name": "Lakshmipuram",
+    "place_type": "neighbourhood",
+    "latitude": 12.977547,
+    "longitude": 77.630678,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1857028749",
+    "osm_id": 1857028749,
+    "name": "HAL 2nd Stage",
+    "place_type": "neighbourhood",
+    "latitude": 12.968941,
+    "longitude": 77.643711,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1872804083",
+    "osm_id": 1872804083,
+    "name": "Doddakannalli",
+    "place_type": "suburb",
+    "latitude": 12.908241,
+    "longitude": 77.694885,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1877836586",
+    "osm_id": 1877836586,
+    "name": "Thalaghattapura",
+    "place_type": "neighbourhood",
+    "latitude": 12.869817,
+    "longitude": 77.535669,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n1966567908",
+    "osm_id": 1966567908,
+    "name": "Binnamangala",
+    "place_type": "neighbourhood",
+    "latitude": 12.983988,
+    "longitude": 77.641677,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2019307544",
+    "osm_id": 2019307544,
+    "name": "RBI Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.88844,
+    "longitude": 77.580509,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2020102551",
+    "osm_id": 2020102551,
+    "name": "Navodaya Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.882329,
+    "longitude": 77.582876,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2020104723",
+    "osm_id": 2020104723,
+    "name": "Shreyas Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.883175,
+    "longitude": 77.582483,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2021561645",
+    "osm_id": 2021561645,
+    "name": "Sri Rama Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.892952,
+    "longitude": 77.581091,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2021572119",
+    "osm_id": 2021572119,
+    "name": "Jagruthi Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.8947,
+    "longitude": 77.582536,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2026076829",
+    "osm_id": 2026076829,
+    "name": "Maruthi Extension",
+    "place_type": "neighbourhood",
+    "latitude": 12.997642,
+    "longitude": 77.563101,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2026076832",
+    "osm_id": 2026076832,
+    "name": "Gayatri Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.000037,
+    "longitude": 77.559011,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2026433130",
+    "osm_id": 2026433130,
+    "name": "Sri Guru Raghavendra Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.891854,
+    "longitude": 77.577736,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2026433977",
+    "osm_id": 2026433977,
+    "name": "Lakshmi Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.89256,
+    "longitude": 77.578665,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2026453731",
+    "osm_id": 2026453731,
+    "name": "Eshwara Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.891716,
+    "longitude": 77.57593,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2026489565",
+    "osm_id": 2026489565,
+    "name": "Yadava Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.890563,
+    "longitude": 77.575996,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2030156020",
+    "osm_id": 2030156020,
+    "name": "Bank of Baroda Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.893481,
+    "longitude": 77.58374,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2034326521",
+    "osm_id": 2034326521,
+    "name": "Sun City Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.885362,
+    "longitude": 77.585409,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2041904658",
+    "osm_id": 2041904658,
+    "name": "AECS Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.031188,
+    "longitude": 77.575353,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2046148406",
+    "osm_id": 2046148406,
+    "name": "Ramappa Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.897172,
+    "longitude": 77.580042,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2063164108",
+    "osm_id": 2063164108,
+    "name": "Nataraja Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.890017,
+    "longitude": 77.583699,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2066481132",
+    "osm_id": 2066481132,
+    "name": "M S Ramaiah City",
+    "place_type": "neighbourhood",
+    "latitude": 12.883313,
+    "longitude": 77.588126,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2066488017",
+    "osm_id": 2066488017,
+    "name": "Nrupathunga Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.882997,
+    "longitude": 77.58378,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2084115337",
+    "osm_id": 2084115337,
+    "name": "Jaladarshini Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.0308,
+    "longitude": 77.569642,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2119786182",
+    "osm_id": 2119786182,
+    "name": "Maruthi Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.974606,
+    "longitude": 77.67563,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2126383125",
+    "osm_id": 2126383125,
+    "name": "Madhuranagara",
+    "place_type": "neighbourhood",
+    "latitude": 12.94093,
+    "longitude": 77.759297,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2126383133",
+    "osm_id": 2126383133,
+    "name": "Bhattarahalli",
+    "place_type": "neighbourhood",
+    "latitude": 13.0258,
+    "longitude": 77.714279,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2127078558",
+    "osm_id": 2127078558,
+    "name": "Gunjur Hosahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.91988,
+    "longitude": 77.742355,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2180747096",
+    "osm_id": 2180747096,
+    "name": "K R Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.903422,
+    "longitude": 77.582815,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2181320617",
+    "osm_id": 2181320617,
+    "name": "Srinidhi Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.883086,
+    "longitude": 77.570895,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2194305511",
+    "osm_id": 2194305511,
+    "name": "Govinda Reddy Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.891756,
+    "longitude": 77.594617,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2194305512",
+    "osm_id": 2194305512,
+    "name": "Mico Arekere Layout 1st Stage",
+    "place_type": "neighbourhood",
+    "latitude": 12.890554,
+    "longitude": 77.594191,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2268546047",
+    "osm_id": 2268546047,
+    "name": "Rustum Bagh",
+    "place_type": "neighbourhood",
+    "latitude": 12.954841,
+    "longitude": 77.649104,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2287630829",
+    "osm_id": 2287630829,
+    "name": "Kamdhenu Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.996026,
+    "longitude": 77.686457,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2324491538",
+    "osm_id": 2324491538,
+    "name": "Deewanarapalya",
+    "place_type": "neighbourhood",
+    "latitude": 13.023374,
+    "longitude": 77.561116,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2456873095",
+    "osm_id": 2456873095,
+    "name": "Anantapura",
+    "place_type": "neighbourhood",
+    "latitude": 13.115089,
+    "longitude": 77.567997,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2460375183",
+    "osm_id": 2460375183,
+    "name": "Amarjyothi Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 13.035711,
+    "longitude": 77.596691,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2460400524",
+    "osm_id": 2460400524,
+    "name": "Coffee Board Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.050325,
+    "longitude": 77.60608,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2460558609",
+    "osm_id": 2460558609,
+    "name": "Dasarahalli",
+    "place_type": "neighbourhood",
+    "latitude": 13.056245,
+    "longitude": 77.611528,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2463032631",
+    "osm_id": 2463032631,
+    "name": "Shampura",
+    "place_type": "neighbourhood",
+    "latitude": 13.027204,
+    "longitude": 77.614068,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2463849020",
+    "osm_id": 2463849020,
+    "name": "Nagavara",
+    "place_type": "suburb",
+    "latitude": 13.037465,
+    "longitude": 77.623602,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2473283550",
+    "osm_id": 2473283550,
+    "name": "Ayyappanagara",
+    "place_type": "neighbourhood",
+    "latitude": 13.00279,
+    "longitude": 77.70943,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2474931873",
+    "osm_id": 2474931873,
+    "name": "Horamavu",
+    "place_type": "suburb",
+    "latitude": 13.027331,
+    "longitude": 77.660151,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2477505097",
+    "osm_id": 2477505097,
+    "name": "Varanasi",
+    "place_type": "neighbourhood",
+    "latitude": 13.030496,
+    "longitude": 77.686066,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2485942194",
+    "osm_id": 2485942194,
+    "name": "Devasandra",
+    "place_type": "neighbourhood",
+    "latitude": 13.003932,
+    "longitude": 77.705676,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2516173087",
+    "osm_id": 2516173087,
+    "name": "Ramesh Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.963347,
+    "longitude": 77.680033,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2578488037",
+    "osm_id": 2578488037,
+    "name": "Vinayakanagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.964558,
+    "longitude": 77.754106,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2633822842",
+    "osm_id": 2633822842,
+    "name": "Kowdenahalli",
+    "place_type": "neighbourhood",
+    "latitude": 13.019415,
+    "longitude": 77.679281,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2651559397",
+    "osm_id": 2651559397,
+    "name": "Sampigehalli",
+    "place_type": "neighbourhood",
+    "latitude": 13.081635,
+    "longitude": 77.618267,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2850425009",
+    "osm_id": 2850425009,
+    "name": "Vijaya Bank Colony",
+    "place_type": "neighbourhood",
+    "latitude": 13.015575,
+    "longitude": 77.659222,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2909040800",
+    "osm_id": 2909040800,
+    "name": "Ferns Habitat",
+    "place_type": "neighbourhood",
+    "latitude": 12.978666,
+    "longitude": 77.690793,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2909527109",
+    "osm_id": 2909527109,
+    "name": "Somasundarapalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.899436,
+    "longitude": 77.652457,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2917077003",
+    "osm_id": 2917077003,
+    "name": "Brookes Haven Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.871726,
+    "longitude": 77.574927,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2937449063",
+    "osm_id": 2937449063,
+    "name": "Islampur",
+    "place_type": "neighbourhood",
+    "latitude": 12.963033,
+    "longitude": 77.669231,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2937449067",
+    "osm_id": 2937449067,
+    "name": "Chinnappanahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.961278,
+    "longitude": 77.70441,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2937449068",
+    "osm_id": 2937449068,
+    "name": "Kareem Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.963786,
+    "longitude": 77.671227,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2937449074",
+    "osm_id": 2937449074,
+    "name": "AECS Layout D Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.962813,
+    "longitude": 77.710396,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2937449079",
+    "osm_id": 2937449079,
+    "name": "AECS Layout B Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.965109,
+    "longitude": 77.715823,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2937449082",
+    "osm_id": 2937449082,
+    "name": "AECS Layout A Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.964534,
+    "longitude": 77.711188,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2937449083",
+    "osm_id": 2937449083,
+    "name": "Nellurupuram",
+    "place_type": "neighbourhood",
+    "latitude": 12.967022,
+    "longitude": 77.664968,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2941487973",
+    "osm_id": 2941487973,
+    "name": "MICO Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.912986,
+    "longitude": 77.60378,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2941487974",
+    "osm_id": 2941487974,
+    "name": "Mahadeshwara Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 12.907669,
+    "longitude": 77.612372,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2941488876",
+    "osm_id": 2941488876,
+    "name": "DK Naik Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.918095,
+    "longitude": 77.588476,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n2941546952",
+    "osm_id": 2941546952,
+    "name": "Yediyuru",
+    "place_type": "neighbourhood",
+    "latitude": 12.932598,
+    "longitude": 77.57505,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3198681423",
+    "osm_id": 3198681423,
+    "name": "Domlur BDA Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.964425,
+    "longitude": 77.634968,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3220081437",
+    "osm_id": 3220081437,
+    "name": "Sanjay Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.957866,
+    "longitude": 77.695875,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3221362711",
+    "osm_id": 3221362711,
+    "name": "Jakkasandra",
+    "place_type": "neighbourhood",
+    "latitude": 12.92435,
+    "longitude": 77.637603,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3221362712",
+    "osm_id": 3221362712,
+    "name": "Teacher's Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.918826,
+    "longitude": 77.634118,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3222889690",
+    "osm_id": 3222889690,
+    "name": "P R Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.953051,
+    "longitude": 77.7033,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3223411557",
+    "osm_id": 3223411557,
+    "name": "Nagadevanahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.936162,
+    "longitude": 77.494034,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3292215334",
+    "osm_id": 3292215334,
+    "name": "Doddabidarakallu",
+    "place_type": "neighbourhood",
+    "latitude": 13.035217,
+    "longitude": 77.494,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3298072118",
+    "osm_id": 3298072118,
+    "name": "Kaveri Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 12.957427,
+    "longitude": 77.655397,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3298072119",
+    "osm_id": 3298072119,
+    "name": "Thimmah Reddy Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.958467,
+    "longitude": 77.654819,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3298345986",
+    "osm_id": 3298345986,
+    "name": "BDA Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.961987,
+    "longitude": 77.65854,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3298366363",
+    "osm_id": 3298366363,
+    "name": "BEML Township",
+    "place_type": "neighbourhood",
+    "latitude": 12.972194,
+    "longitude": 77.668472,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3298366364",
+    "osm_id": 3298366364,
+    "name": "Bhoomi Reddy Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.975233,
+    "longitude": 77.652126,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3298378274",
+    "osm_id": 3298378274,
+    "name": "HAL 3rd Stage",
+    "place_type": "neighbourhood",
+    "latitude": 12.971534,
+    "longitude": 77.649782,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3298494103",
+    "osm_id": 3298494103,
+    "name": "Sudgunte Palya",
+    "place_type": "neighbourhood",
+    "latitude": 12.983202,
+    "longitude": 77.656622,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3298916255",
+    "osm_id": 3298916255,
+    "name": "KR Garden",
+    "place_type": "neighbourhood",
+    "latitude": 12.954921,
+    "longitude": 77.656597,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3298916259",
+    "osm_id": 3298916259,
+    "name": "Sri Ram Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.958199,
+    "longitude": 77.657139,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3299018377",
+    "osm_id": 3299018377,
+    "name": "NR Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.955934,
+    "longitude": 77.651109,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3299018378",
+    "osm_id": 3299018378,
+    "name": "SR Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.954706,
+    "longitude": 77.650672,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3300149441",
+    "osm_id": 3300149441,
+    "name": "Mangamannapalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.905811,
+    "longitude": 77.632374,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3304315699",
+    "osm_id": 3304315699,
+    "name": "Varthur Kodi",
+    "place_type": "neighbourhood",
+    "latitude": 12.956388,
+    "longitude": 77.745631,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3304756734",
+    "osm_id": 3304756734,
+    "name": "Maruthi Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 12.92245,
+    "longitude": 77.613893,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3305256982",
+    "osm_id": 3305256982,
+    "name": "Air View Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.954741,
+    "longitude": 77.661264,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3305446529",
+    "osm_id": 3305446529,
+    "name": "Kudlu",
+    "place_type": "suburb",
+    "latitude": 12.888913,
+    "longitude": 77.655572,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3305446531",
+    "osm_id": 3305446531,
+    "name": "Vaikuntam Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.959535,
+    "longitude": 77.713218,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3305850521",
+    "osm_id": 3305850521,
+    "name": "Peenya",
+    "place_type": "suburb",
+    "latitude": 13.032942,
+    "longitude": 77.527325,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3307159546",
+    "osm_id": 3307159546,
+    "name": "Annaniappa Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.956677,
+    "longitude": 77.660725,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3307159547",
+    "osm_id": 3307159547,
+    "name": "Vinayaka Nagar A Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.956969,
+    "longitude": 77.659192,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3307191849",
+    "osm_id": 3307191849,
+    "name": "Muniyappa Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.953064,
+    "longitude": 77.653202,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3311193161",
+    "osm_id": 3311193161,
+    "name": "Jogupalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.974688,
+    "longitude": 77.628026,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3311194760",
+    "osm_id": 3311194760,
+    "name": "Saraswathipuram",
+    "place_type": "neighbourhood",
+    "latitude": 12.974806,
+    "longitude": 77.631636,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3311194761",
+    "osm_id": 3311194761,
+    "name": "Gowthamapura",
+    "place_type": "neighbourhood",
+    "latitude": 12.96898,
+    "longitude": 77.625344,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3323252233",
+    "osm_id": 3323252233,
+    "name": "A Narayanapura",
+    "place_type": "neighbourhood",
+    "latitude": 12.99308,
+    "longitude": 77.675359,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3336377110",
+    "osm_id": 3336377110,
+    "name": "Beguru",
+    "place_type": "suburb",
+    "latitude": 12.874747,
+    "longitude": 77.622729,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3352043893",
+    "osm_id": 3352043893,
+    "name": "Lingarajapuram",
+    "place_type": "suburb",
+    "latitude": 13.009395,
+    "longitude": 77.626788,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3384271515",
+    "osm_id": 3384271515,
+    "name": "Appareddipalaya",
+    "place_type": "neighbourhood",
+    "latitude": 12.974188,
+    "longitude": 77.637243,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3384271516",
+    "osm_id": 3384271516,
+    "name": "Kadiranpalaya",
+    "place_type": "neighbourhood",
+    "latitude": 12.986755,
+    "longitude": 77.635328,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3384271517",
+    "osm_id": 3384271517,
+    "name": "LIC Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.969071,
+    "longitude": 77.654209,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3384271518",
+    "osm_id": 3384271518,
+    "name": "Old Thippasandra",
+    "place_type": "neighbourhood",
+    "latitude": 12.972082,
+    "longitude": 77.646499,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3384284801",
+    "osm_id": 3384284801,
+    "name": "BM Kaval",
+    "place_type": "neighbourhood",
+    "latitude": 12.981694,
+    "longitude": 77.648371,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3384284802",
+    "osm_id": 3384284802,
+    "name": "Michaelpalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.981094,
+    "longitude": 77.646595,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3406880172",
+    "osm_id": 3406880172,
+    "name": "Eramma Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.945645,
+    "longitude": 77.602755,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3414616703",
+    "osm_id": 3414616703,
+    "name": "Seven Hills Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.914039,
+    "longitude": 77.55212,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3415500221",
+    "osm_id": 3415500221,
+    "name": "Sadgunte Palya",
+    "place_type": "neighbourhood",
+    "latitude": 12.931546,
+    "longitude": 77.609625,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3416332352",
+    "osm_id": 3416332352,
+    "name": "MEI Colony",
+    "place_type": "neighbourhood",
+    "latitude": 13.019474,
+    "longitude": 77.520225,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3417085495",
+    "osm_id": 3417085495,
+    "name": "Rajotsava Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.904366,
+    "longitude": 77.565375,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3417090911",
+    "osm_id": 3417090911,
+    "name": "Kalyani Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 12.896275,
+    "longitude": 77.553719,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3417139770",
+    "osm_id": 3417139770,
+    "name": "Lake City",
+    "place_type": "neighbourhood",
+    "latitude": 12.899738,
+    "longitude": 77.617337,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3422921187",
+    "osm_id": 3422921187,
+    "name": "Vyalikaval",
+    "place_type": "neighbourhood",
+    "latitude": 13.004264,
+    "longitude": 77.57517,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3422943096",
+    "osm_id": 3422943096,
+    "name": "Chakravarty Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.996812,
+    "longitude": 77.585728,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3440756328",
+    "osm_id": 3440756328,
+    "name": "Vittal Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.901218,
+    "longitude": 77.555081,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3451666071",
+    "osm_id": 3451666071,
+    "name": "Putanna Garden",
+    "place_type": "neighbourhood",
+    "latitude": 12.992251,
+    "longitude": 77.663356,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3474697231",
+    "osm_id": 3474697231,
+    "name": "Puttappa Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.97096,
+    "longitude": 77.652738,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3481707802",
+    "osm_id": 3481707802,
+    "name": "Palm Grove",
+    "place_type": "neighbourhood",
+    "latitude": 13.029504,
+    "longitude": 77.637972,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3496616935",
+    "osm_id": 3496616935,
+    "name": "Ashokanagara",
+    "place_type": "neighbourhood",
+    "latitude": 12.935948,
+    "longitude": 77.564172,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3497378217",
+    "osm_id": 3497378217,
+    "name": "Amarjyothi Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.956628,
+    "longitude": 77.642743,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3532995084",
+    "osm_id": 3532995084,
+    "name": "MV Garden",
+    "place_type": "neighbourhood",
+    "latitude": 12.979234,
+    "longitude": 77.622894,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3643239014",
+    "osm_id": 3643239014,
+    "name": "Gupta Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.979689,
+    "longitude": 77.624782,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3648204414",
+    "osm_id": 3648204414,
+    "name": "Old Binnamangala",
+    "place_type": "neighbourhood",
+    "latitude": 12.979579,
+    "longitude": 77.641551,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3677885587",
+    "osm_id": 3677885587,
+    "name": "Commercial Street Market",
+    "place_type": "neighbourhood",
+    "latitude": 12.9825,
+    "longitude": 77.608639,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3713012264",
+    "osm_id": 3713012264,
+    "name": "Narayanappa Gardens",
+    "place_type": "neighbourhood",
+    "latitude": 12.965749,
+    "longitude": 77.750623,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3740872036",
+    "osm_id": 3740872036,
+    "name": "Green Glen Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.926904,
+    "longitude": 77.670188,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3741070642",
+    "osm_id": 3741070642,
+    "name": "Tasker Town",
+    "place_type": "neighbourhood",
+    "latitude": 12.980162,
+    "longitude": 77.605818,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3750759553",
+    "osm_id": 3750759553,
+    "name": "Anandapuram",
+    "place_type": "neighbourhood",
+    "latitude": 12.964594,
+    "longitude": 77.659472,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3771990411",
+    "osm_id": 3771990411,
+    "name": "Belure Ambedkar Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.946089,
+    "longitude": 77.660929,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3771990412",
+    "osm_id": 3771990412,
+    "name": "Kaverappa Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.936766,
+    "longitude": 77.700846,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3772206672",
+    "osm_id": 3772206672,
+    "name": "Belur Nagasandra",
+    "place_type": "neighbourhood",
+    "latitude": 12.943102,
+    "longitude": 77.655627,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3772206673",
+    "osm_id": 3772206673,
+    "name": "Challaghatta",
+    "place_type": "neighbourhood",
+    "latitude": 12.945101,
+    "longitude": 77.651534,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3772206674",
+    "osm_id": 3772206674,
+    "name": "Kariyammana Agrahara",
+    "place_type": "neighbourhood",
+    "latitude": 12.93715,
+    "longitude": 77.687303,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3887129211",
+    "osm_id": 3887129211,
+    "name": "ITC Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.998173,
+    "longitude": 77.630124,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3897575412",
+    "osm_id": 3897575412,
+    "name": "MSO Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.999553,
+    "longitude": 77.628189,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3930393428",
+    "osm_id": 3930393428,
+    "name": "Kirloskar Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.066964,
+    "longitude": 77.500931,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3983485478",
+    "osm_id": 3983485478,
+    "name": "Nagegowdanapalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.86833,
+    "longitude": 77.514297,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3983628502",
+    "osm_id": 3983628502,
+    "name": "Gattigerepalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.88199,
+    "longitude": 77.501959,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n3983628624",
+    "osm_id": 3983628624,
+    "name": "Chikkegowdanpalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.880198,
+    "longitude": 77.514461,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4044099875",
+    "osm_id": 4044099875,
+    "name": "Gajendra Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 12.950801,
+    "longitude": 77.608547,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4076612346",
+    "osm_id": 4076612346,
+    "name": "MES Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.957693,
+    "longitude": 77.66213,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4118295030",
+    "osm_id": 4118295030,
+    "name": "Gandhi Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.954156,
+    "longitude": 77.706949,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4162555217",
+    "osm_id": 4162555217,
+    "name": "Babasaheb Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.965924,
+    "longitude": 77.643362,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4203653089",
+    "osm_id": 4203653089,
+    "name": "Gitanjali Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.975876,
+    "longitude": 77.653789,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4209390935",
+    "osm_id": 4209390935,
+    "name": "Ganigarpet",
+    "place_type": "neighbourhood",
+    "latitude": 12.966784,
+    "longitude": 77.583316,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4209420893",
+    "osm_id": 4209420893,
+    "name": "Mamulpete",
+    "place_type": "neighbourhood",
+    "latitude": 12.968728,
+    "longitude": 77.577802,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4233041619",
+    "osm_id": 4233041619,
+    "name": "Kothnur",
+    "place_type": "suburb",
+    "latitude": 12.874255,
+    "longitude": 77.583725,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4233041620",
+    "osm_id": 4233041620,
+    "name": "Krishna Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.877502,
+    "longitude": 77.584549,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4267702329",
+    "osm_id": 4267702329,
+    "name": "Maistripalaya",
+    "place_type": "neighbourhood",
+    "latitude": 12.933021,
+    "longitude": 77.624949,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4284782849",
+    "osm_id": 4284782849,
+    "name": "Jothinagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.966127,
+    "longitude": 77.667132,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4304331149",
+    "osm_id": 4304331149,
+    "name": "AECS Layout, A block",
+    "place_type": "neighbourhood",
+    "latitude": 12.884342,
+    "longitude": 77.649492,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4353477843",
+    "osm_id": 4353477843,
+    "name": "Abshot Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.993073,
+    "longitude": 77.586643,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4397421776",
+    "osm_id": 4397421776,
+    "name": "Gurappana Palya",
+    "place_type": "neighbourhood",
+    "latitude": 12.920758,
+    "longitude": 77.603333,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4401556759",
+    "osm_id": 4401556759,
+    "name": "Byadarahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.983145,
+    "longitude": 77.481801,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4401556766",
+    "osm_id": 4401556766,
+    "name": "Herohalli",
+    "place_type": "suburb",
+    "latitude": 12.991234,
+    "longitude": 77.487012,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4506781903",
+    "osm_id": 4506781903,
+    "name": "Hutting Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.98149,
+    "longitude": 77.643142,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4531677090",
+    "osm_id": 4531677090,
+    "name": "HBR Layout",
+    "place_type": "suburb",
+    "latitude": 13.031992,
+    "longitude": 77.628079,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4532594194",
+    "osm_id": 4532594194,
+    "name": "Akshaya Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.019543,
+    "longitude": 77.683127,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4533367168",
+    "osm_id": 4533367168,
+    "name": "Someshwarapura",
+    "place_type": "neighbourhood",
+    "latitude": 12.969332,
+    "longitude": 77.631417,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4558992323",
+    "osm_id": 4558992323,
+    "name": "Corporation Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.958343,
+    "longitude": 77.646836,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4564854862",
+    "osm_id": 4564854862,
+    "name": "Sivanchetti Gardens",
+    "place_type": "neighbourhood",
+    "latitude": 12.984577,
+    "longitude": 77.613198,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4688312807",
+    "osm_id": 4688312807,
+    "name": "Chokkanahalli",
+    "place_type": "neighbourhood",
+    "latitude": 13.085079,
+    "longitude": 77.626354,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4692685699",
+    "osm_id": 4692685699,
+    "name": "Keshavaraj Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.970898,
+    "longitude": 77.626927,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4803391616",
+    "osm_id": 4803391616,
+    "name": "Officers Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.963253,
+    "longitude": 77.615086,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4803391617",
+    "osm_id": 4803391617,
+    "name": "Yellagondanpalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.962919,
+    "longitude": 77.612699,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4803391619",
+    "osm_id": 4803391619,
+    "name": "Xavier Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.964957,
+    "longitude": 77.612079,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n4908513642",
+    "osm_id": 4908513642,
+    "name": "Yelachenahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.897971,
+    "longitude": 77.570085,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n5005237328",
+    "osm_id": 5005237328,
+    "name": "Gottigere",
+    "place_type": "suburb",
+    "latitude": 12.856532,
+    "longitude": 77.587724,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n5112283538",
+    "osm_id": 5112283538,
+    "name": "Justice Bheemiah Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.002916,
+    "longitude": 77.694562,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n5164714917",
+    "osm_id": 5164714917,
+    "name": "Richmond Town",
+    "place_type": "suburb",
+    "latitude": 12.963555,
+    "longitude": 77.601586,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n5250142956",
+    "osm_id": 5250142956,
+    "name": "Gavipuram",
+    "place_type": "neighbourhood",
+    "latitude": 12.947934,
+    "longitude": 77.562393,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n5277512119",
+    "osm_id": 5277512119,
+    "name": "Concept City",
+    "place_type": "neighbourhood",
+    "latitude": 12.90623,
+    "longitude": 77.49177,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n5339097995",
+    "osm_id": 5339097995,
+    "name": "Sudhama Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.962747,
+    "longitude": 77.661034,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n5339114465",
+    "osm_id": 5339114465,
+    "name": "Shivalingaiah Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.963795,
+    "longitude": 77.656623,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n5339118338",
+    "osm_id": 5339118338,
+    "name": "HAL Township",
+    "place_type": "neighbourhood",
+    "latitude": 12.960959,
+    "longitude": 77.663113,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n5469373810",
+    "osm_id": 5469373810,
+    "name": "Krishna Reddy Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.956222,
+    "longitude": 77.63719,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n5490015858",
+    "osm_id": 5490015858,
+    "name": "Indiranagar 3rd Stage",
+    "place_type": "neighbourhood",
+    "latitude": 12.975255,
+    "longitude": 77.638813,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n5519076249",
+    "osm_id": 5519076249,
+    "name": "New Baiyyappanahalli Extension",
+    "place_type": "neighbourhood",
+    "latitude": 12.987084,
+    "longitude": 77.645735,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n5519077333",
+    "osm_id": 5519077333,
+    "name": "Sadananda Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.995999,
+    "longitude": 77.657876,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n5519077334",
+    "osm_id": 5519077334,
+    "name": "Ramaswamy Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.988793,
+    "longitude": 77.647108,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n5537275042",
+    "osm_id": 5537275042,
+    "name": "Koramangala 7th Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.936485,
+    "longitude": 77.613478,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n5644388848",
+    "osm_id": 5644388848,
+    "name": "Ashwath Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.046754,
+    "longitude": 77.632187,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n5726430220",
+    "osm_id": 5726430220,
+    "name": "Jayaraj Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.981064,
+    "longitude": 77.625675,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n5726430821",
+    "osm_id": 5726430821,
+    "name": "Dodakattappa",
+    "place_type": "neighbourhood",
+    "latitude": 12.977581,
+    "longitude": 77.625579,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n5726430822",
+    "osm_id": 5726430822,
+    "name": "Hoysala Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.980209,
+    "longitude": 77.627377,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n5726455320",
+    "osm_id": 5726455320,
+    "name": "Someshwarpura",
+    "place_type": "neighbourhood",
+    "latitude": 12.975769,
+    "longitude": 77.622818,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n5726457424",
+    "osm_id": 5726457424,
+    "name": "Hanumanthappa Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.976384,
+    "longitude": 77.616836,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n5726457434",
+    "osm_id": 5726457434,
+    "name": "Yellappa Chetty Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.977573,
+    "longitude": 77.618269,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n5810244718",
+    "osm_id": 5810244718,
+    "name": "Karishma Hills",
+    "place_type": "neighbourhood",
+    "latitude": 12.888614,
+    "longitude": 77.533818,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n6017945714",
+    "osm_id": 6017945714,
+    "name": "Ambalipura",
+    "place_type": "neighbourhood",
+    "latitude": 12.91733,
+    "longitude": 77.667161,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n6058180910",
+    "osm_id": 6058180910,
+    "name": "Ambedkar Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.979853,
+    "longitude": 77.754105,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n6255561099",
+    "osm_id": 6255561099,
+    "name": "ITI Industrial Estate",
+    "place_type": "neighbourhood",
+    "latitude": 12.996587,
+    "longitude": 77.698343,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n6255561100",
+    "osm_id": 6255561100,
+    "name": "Devasandra Industrial Estate",
+    "place_type": "neighbourhood",
+    "latitude": 12.997036,
+    "longitude": 77.700414,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n6310532126",
+    "osm_id": 6310532126,
+    "name": "Kalahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.986937,
+    "longitude": 77.623225,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n6318681379",
+    "osm_id": 6318681379,
+    "name": "Papanna Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.048224,
+    "longitude": 77.579307,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n6319011634",
+    "osm_id": 6319011634,
+    "name": "Vishweshwaraiah Enclave",
+    "place_type": "neighbourhood",
+    "latitude": 13.067078,
+    "longitude": 77.532776,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n6330202097",
+    "osm_id": 6330202097,
+    "name": "Kammanahalli",
+    "place_type": "suburb",
+    "latitude": 13.014854,
+    "longitude": 77.638203,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n6333611177",
+    "osm_id": 6333611177,
+    "name": "EPIP Zone",
+    "place_type": "suburb",
+    "latitude": 12.978192,
+    "longitude": 77.724645,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n6359847295",
+    "osm_id": 6359847295,
+    "name": "Anandapura",
+    "place_type": "neighbourhood",
+    "latitude": 13.023928,
+    "longitude": 77.692362,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n6441441982",
+    "osm_id": 6441441982,
+    "name": "Govindapura",
+    "place_type": "neighbourhood",
+    "latitude": 13.034109,
+    "longitude": 77.619803,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n6566428930",
+    "osm_id": 6566428930,
+    "name": "Panduranga Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.893076,
+    "longitude": 77.596135,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7065395268",
+    "osm_id": 7065395268,
+    "name": "Shivapura",
+    "place_type": "neighbourhood",
+    "latitude": 13.026599,
+    "longitude": 77.506658,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7079707869",
+    "osm_id": 7079707869,
+    "name": "PF Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.967685,
+    "longitude": 77.533047,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7206360658",
+    "osm_id": 7206360658,
+    "name": "Meghanapalya",
+    "place_type": "neighbourhood",
+    "latitude": 13.031289,
+    "longitude": 77.639375,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7208904019",
+    "osm_id": 7208904019,
+    "name": "Grace Town",
+    "place_type": "neighbourhood",
+    "latitude": 13.029002,
+    "longitude": 77.632871,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7219295763",
+    "osm_id": 7219295763,
+    "name": "West of Chord Road 2nd Stage",
+    "place_type": "neighbourhood",
+    "latitude": 12.998826,
+    "longitude": 77.547536,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7220757407",
+    "osm_id": 7220757407,
+    "name": "Attur Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.099454,
+    "longitude": 77.568034,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7236242195",
+    "osm_id": 7236242195,
+    "name": "Konanakunte",
+    "place_type": "suburb",
+    "latitude": 12.879286,
+    "longitude": 77.569753,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7257126381",
+    "osm_id": 7257126381,
+    "name": "Mahalakshmi Layout",
+    "place_type": "suburb",
+    "latitude": 13.011315,
+    "longitude": 77.544697,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7257126382",
+    "osm_id": 7257126382,
+    "name": "Basaveshwaranagar",
+    "place_type": "suburb",
+    "latitude": 12.993757,
+    "longitude": 77.539132,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7257126383",
+    "osm_id": 7257126383,
+    "name": "Manjunath Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.993951,
+    "longitude": 77.548053,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7274156791",
+    "osm_id": 7274156791,
+    "name": "Shirdi Sai Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 13.067951,
+    "longitude": 77.636604,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7276562007",
+    "osm_id": 7276562007,
+    "name": "NTY Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.949937,
+    "longitude": 77.542663,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7289130016",
+    "osm_id": 7289130016,
+    "name": "Kengeri Satelite Town",
+    "place_type": "neighbourhood",
+    "latitude": 12.923649,
+    "longitude": 77.486964,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7289170281",
+    "osm_id": 7289170281,
+    "name": "Sir MV Layout",
+    "place_type": "suburb",
+    "latitude": 12.943794,
+    "longitude": 77.477946,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7289176012",
+    "osm_id": 7289176012,
+    "name": "Maruthi Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 12.938163,
+    "longitude": 77.48146,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7289176014",
+    "osm_id": 7289176014,
+    "name": "Bhuvaneshwari Nagara 2nd Stage",
+    "place_type": "neighbourhood",
+    "latitude": 12.94326,
+    "longitude": 77.49073,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7289176015",
+    "osm_id": 7289176015,
+    "name": "Bhuvaneshwari Nagara 1st Stage",
+    "place_type": "neighbourhood",
+    "latitude": 12.943987,
+    "longitude": 77.487634,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7289176019",
+    "osm_id": 7289176019,
+    "name": "Vinayaka Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.963142,
+    "longitude": 77.508647,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7291611547",
+    "osm_id": 7291611547,
+    "name": "Rajajinagara 1st R Block",
+    "place_type": "neighbourhood",
+    "latitude": 13.007806,
+    "longitude": 77.549642,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7293708126",
+    "osm_id": 7293708126,
+    "name": "Anepalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.951017,
+    "longitude": 77.610919,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7293721308",
+    "osm_id": 7293721308,
+    "name": "Craig Park Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.971383,
+    "longitude": 77.615839,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7299773880",
+    "osm_id": 7299773880,
+    "name": "Jakkur Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.070188,
+    "longitude": 77.601188,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7299778032",
+    "osm_id": 7299778032,
+    "name": "Rachenahalli",
+    "place_type": "neighbourhood",
+    "latitude": 13.058859,
+    "longitude": 77.623258,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7299778050",
+    "osm_id": 7299778050,
+    "name": "Buvaneswari Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 13.05641,
+    "longitude": 77.60243,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7299778051",
+    "osm_id": 7299778051,
+    "name": "Amruthnagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.05699,
+    "longitude": 77.598109,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7301358178",
+    "osm_id": 7301358178,
+    "name": "Fair Field Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.985388,
+    "longitude": 77.586289,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7304848948",
+    "osm_id": 7304848948,
+    "name": "Dollars Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.90401,
+    "longitude": 77.595556,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7304873402",
+    "osm_id": 7304873402,
+    "name": "LR Bande",
+    "place_type": "neighbourhood",
+    "latitude": 13.028527,
+    "longitude": 77.60916,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7304873405",
+    "osm_id": 7304873405,
+    "name": "Kaval Byrasandra",
+    "place_type": "suburb",
+    "latitude": 13.020024,
+    "longitude": 77.609289,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7304873406",
+    "osm_id": 7304873406,
+    "name": "Postal and Telecom Colony",
+    "place_type": "neighbourhood",
+    "latitude": 13.012427,
+    "longitude": 77.617826,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7304873407",
+    "osm_id": 7304873407,
+    "name": "Kushal Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.018785,
+    "longitude": 77.615114,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7304953087",
+    "osm_id": 7304953087,
+    "name": "Anand Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.034699,
+    "longitude": 77.594456,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7339673040",
+    "osm_id": 7339673040,
+    "name": "MEI Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.061189,
+    "longitude": 77.503899,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7391586672",
+    "osm_id": 7391586672,
+    "name": "Nagamma Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.969449,
+    "longitude": 77.562527,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7391586673",
+    "osm_id": 7391586673,
+    "name": "Shamana Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.960209,
+    "longitude": 77.542748,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7391586674",
+    "osm_id": 7391586674,
+    "name": "RPC Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.96896,
+    "longitude": 77.545613,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7391586675",
+    "osm_id": 7391586675,
+    "name": "Cholourpalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.970842,
+    "longitude": 77.549712,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7391606105",
+    "osm_id": 7391606105,
+    "name": "Kempapura Agrahara",
+    "place_type": "suburb",
+    "latitude": 12.970623,
+    "longitude": 77.555376,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7391606106",
+    "osm_id": 7391606106,
+    "name": "K H Ranganath Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.964141,
+    "longitude": 77.558155,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7413376559",
+    "osm_id": 7413376559,
+    "name": "Indiranagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.996298,
+    "longitude": 77.545278,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7447968437",
+    "osm_id": 7447968437,
+    "name": "Lakshmi Devi Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.016119,
+    "longitude": 77.527197,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7448029534",
+    "osm_id": 7448029534,
+    "name": "Pottery Town",
+    "place_type": "neighbourhood",
+    "latitude": 13.001385,
+    "longitude": 77.607948,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7448029535",
+    "osm_id": 7448029535,
+    "name": "ITI Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.004908,
+    "longitude": 77.604667,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7448713682",
+    "osm_id": 7448713682,
+    "name": "Langford Town",
+    "place_type": "neighbourhood",
+    "latitude": 12.957998,
+    "longitude": 77.603731,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7617355938",
+    "osm_id": 7617355938,
+    "name": "Kodichikkanahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.8967,
+    "longitude": 77.612427,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7658290106",
+    "osm_id": 7658290106,
+    "name": "Madhav Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.985143,
+    "longitude": 77.577302,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7658290169",
+    "osm_id": 7658290169,
+    "name": "Kacharakanahalli",
+    "place_type": "neighbourhood",
+    "latitude": 13.021568,
+    "longitude": 77.630956,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7658457889",
+    "osm_id": 7658457889,
+    "name": "Sharadhanagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.094239,
+    "longitude": 77.576394,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7890840023",
+    "osm_id": 7890840023,
+    "name": "Ketamaranahalli",
+    "place_type": "neighbourhood",
+    "latitude": 13.000972,
+    "longitude": 77.551954,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7944583325",
+    "osm_id": 7944583325,
+    "name": "Rajajinagar 4th Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.987418,
+    "longitude": 77.557128,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7944583327",
+    "osm_id": 7944583327,
+    "name": "Rajajinagar 2nd Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.994661,
+    "longitude": 77.553299,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7944634960",
+    "osm_id": 7944634960,
+    "name": "JC Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.004041,
+    "longitude": 77.538804,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7944634961",
+    "osm_id": 7944634961,
+    "name": "Saneguruvanahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.990429,
+    "longitude": 77.542244,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7944634962",
+    "osm_id": 7944634962,
+    "name": "Shivanahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.987922,
+    "longitude": 77.546791,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7978094280",
+    "osm_id": 7978094280,
+    "name": "Puttenahalli",
+    "place_type": "neighbourhood",
+    "latitude": 13.110425,
+    "longitude": 77.580759,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n7984684415",
+    "osm_id": 7984684415,
+    "name": "Sudhama Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 12.957551,
+    "longitude": 77.588148,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8240244513",
+    "osm_id": 8240244513,
+    "name": "Kempegowda Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.000789,
+    "longitude": 77.526473,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8240257841",
+    "osm_id": 8240257841,
+    "name": "Dubasi Palya",
+    "place_type": "neighbourhood",
+    "latitude": 12.929513,
+    "longitude": 77.49669,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8302741281",
+    "osm_id": 8302741281,
+    "name": "Maruthi Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 13.057474,
+    "longitude": 77.581131,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8302741288",
+    "osm_id": 8302741288,
+    "name": "Rajiv Gandhi Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.070256,
+    "longitude": 77.583845,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8320252560",
+    "osm_id": 8320252560,
+    "name": "Roopena Agrahara",
+    "place_type": "neighbourhood",
+    "latitude": 12.91064,
+    "longitude": 77.623826,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8377203851",
+    "osm_id": 8377203851,
+    "name": "Canara Bank Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.068572,
+    "longitude": 77.578355,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8442191514",
+    "osm_id": 8442191514,
+    "name": "Jooganahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.992753,
+    "longitude": 77.555997,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8526697566",
+    "osm_id": 8526697566,
+    "name": "Nagayana Palya",
+    "place_type": "neighbourhood",
+    "latitude": 13.001772,
+    "longitude": 77.637334,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8526697567",
+    "osm_id": 8526697567,
+    "name": "Sathyanagara",
+    "place_type": "neighbourhood",
+    "latitude": 12.999637,
+    "longitude": 77.639603,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8699676979",
+    "osm_id": 8699676979,
+    "name": "Gattigere Extension",
+    "place_type": "neighbourhood",
+    "latitude": 12.920208,
+    "longitude": 77.525501,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8699676980",
+    "osm_id": 8699676980,
+    "name": "Giridhama Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.918612,
+    "longitude": 77.528167,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8699676981",
+    "osm_id": 8699676981,
+    "name": "Aditya Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.926677,
+    "longitude": 77.524928,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8699676982",
+    "osm_id": 8699676982,
+    "name": "Marappa Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.929263,
+    "longitude": 77.523291,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8699676983",
+    "osm_id": 8699676983,
+    "name": "Javaranadoddi",
+    "place_type": "neighbourhood",
+    "latitude": 12.930995,
+    "longitude": 77.523329,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8699676984",
+    "osm_id": 8699676984,
+    "name": "Ideal Homes Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.927333,
+    "longitude": 77.51825,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8699676985",
+    "osm_id": 8699676985,
+    "name": "BEML Layout 3rd Stage",
+    "place_type": "neighbourhood",
+    "latitude": 12.919653,
+    "longitude": 77.52022,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8699676986",
+    "osm_id": 8699676986,
+    "name": "BEML Layout 5th Stage",
+    "place_type": "neighbourhood",
+    "latitude": 12.908359,
+    "longitude": 77.520906,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8699676987",
+    "osm_id": 8699676987,
+    "name": "Krishna Garden Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.913285,
+    "longitude": 77.506908,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8699676988",
+    "osm_id": 8699676988,
+    "name": "Concorde Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.907138,
+    "longitude": 77.509373,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8700678298",
+    "osm_id": 8700678298,
+    "name": "BHEL Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.918437,
+    "longitude": 77.50925,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8700678299",
+    "osm_id": 8700678299,
+    "name": "BEML Layout 7th Phase",
+    "place_type": "neighbourhood",
+    "latitude": 12.914391,
+    "longitude": 77.498251,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8700678300",
+    "osm_id": 8700678300,
+    "name": "Kodipalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.900422,
+    "longitude": 77.487129,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8711415095",
+    "osm_id": 8711415095,
+    "name": "Halagevaderahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.921642,
+    "longitude": 77.514219,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8711415096",
+    "osm_id": 8711415096,
+    "name": "Nobo Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.867923,
+    "longitude": 77.596236,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8711415097",
+    "osm_id": 8711415097,
+    "name": "Reflex Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.905366,
+    "longitude": 77.506693,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8711415098",
+    "osm_id": 8711415098,
+    "name": "Banashankari 6th Stage, 11th Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.901464,
+    "longitude": 77.509671,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n8989627050",
+    "osm_id": 8989627050,
+    "name": "Arab Lines",
+    "place_type": "neighbourhood",
+    "latitude": 12.965374,
+    "longitude": 77.606086,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9161008292",
+    "osm_id": 9161008292,
+    "name": "KHB Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.984449,
+    "longitude": 77.534262,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9482743546",
+    "osm_id": 9482743546,
+    "name": "Langford Gardens",
+    "place_type": "neighbourhood",
+    "latitude": 12.963171,
+    "longitude": 77.598018,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9532859000",
+    "osm_id": 9532859000,
+    "name": "Akkithimmanahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.959885,
+    "longitude": 77.595449,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9666477529",
+    "osm_id": 9666477529,
+    "name": "Sindhi Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.994632,
+    "longitude": 77.616582,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9688306946",
+    "osm_id": 9688306946,
+    "name": "Teacher's Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.956111,
+    "longitude": 77.515165,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9690178283",
+    "osm_id": 9690178283,
+    "name": "Nrupatunga Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.957094,
+    "longitude": 77.509849,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9779286668",
+    "osm_id": 9779286668,
+    "name": "Kaverappa Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.990765,
+    "longitude": 77.594592,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9780918392",
+    "osm_id": 9780918392,
+    "name": "Nagapura",
+    "place_type": "neighbourhood",
+    "latitude": 13.002347,
+    "longitude": 77.546267,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9790284732",
+    "osm_id": 9790284732,
+    "name": "Koramangala 8th Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.940869,
+    "longitude": 77.617338,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9790284747",
+    "osm_id": 9790284747,
+    "name": "Koramangala 5th Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.934843,
+    "longitude": 77.618977,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9790284766",
+    "osm_id": 9790284766,
+    "name": "Koramangala 6th Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.939025,
+    "longitude": 77.623848,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9790284767",
+    "osm_id": 9790284767,
+    "name": "Koramangala 4th Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.932778,
+    "longitude": 77.629405,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9790284768",
+    "osm_id": 9790284768,
+    "name": "Koramangala 3rd Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.928292,
+    "longitude": 77.625403,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9790284784",
+    "osm_id": 9790284784,
+    "name": "Koramangala 1st Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.927725,
+    "longitude": 77.632782,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9804317172",
+    "osm_id": 9804317172,
+    "name": "Rudrappa Garden",
+    "place_type": "neighbourhood",
+    "latitude": 12.956945,
+    "longitude": 77.618325,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9804317186",
+    "osm_id": 9804317186,
+    "name": "Anglo-Indian Quarters",
+    "place_type": "neighbourhood",
+    "latitude": 12.963388,
+    "longitude": 77.613958,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9811371625",
+    "osm_id": 9811371625,
+    "name": "Corporation Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.982257,
+    "longitude": 77.62958,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9828605791",
+    "osm_id": 9828605791,
+    "name": "SBI Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.925918,
+    "longitude": 77.632535,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9836494348",
+    "osm_id": 9836494348,
+    "name": "JCR Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.933134,
+    "longitude": 77.704328,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9851002442",
+    "osm_id": 9851002442,
+    "name": "Williams Town",
+    "place_type": "neighbourhood",
+    "latitude": 12.999157,
+    "longitude": 77.606756,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9851225180",
+    "osm_id": 9851225180,
+    "name": "Vijaya Bank Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.892943,
+    "longitude": 77.607763,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9851292486",
+    "osm_id": 9851292486,
+    "name": "Byatarayanapura",
+    "place_type": "neighbourhood",
+    "latitude": 13.066653,
+    "longitude": 77.591967,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9876035840",
+    "osm_id": 9876035840,
+    "name": "Meenakshi Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.954626,
+    "longitude": 77.724448,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9922810978",
+    "osm_id": 9922810978,
+    "name": "Raja Ram Mohan Roy Extension",
+    "place_type": "neighbourhood",
+    "latitude": 12.961028,
+    "longitude": 77.592769,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9940037948",
+    "osm_id": 9940037948,
+    "name": "Jakkur Plantation",
+    "place_type": "neighbourhood",
+    "latitude": 13.08346,
+    "longitude": 77.598002,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9967147418",
+    "osm_id": 9967147418,
+    "name": "HMT Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.03553,
+    "longitude": 77.502708,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9967192673",
+    "osm_id": 9967192673,
+    "name": "Sapthagiri Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.036805,
+    "longitude": 77.496041,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9967192674",
+    "osm_id": 9967192674,
+    "name": "Rukmini Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 13.042669,
+    "longitude": 77.502601,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n9993208661",
+    "osm_id": 9993208661,
+    "name": "ISRO Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.967716,
+    "longitude": 77.633611,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10012687825",
+    "osm_id": 10012687825,
+    "name": "Corporation Quarters",
+    "place_type": "neighbourhood",
+    "latitude": 12.966979,
+    "longitude": 77.614511,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10032117234",
+    "osm_id": 10032117234,
+    "name": "Bethel Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.956843,
+    "longitude": 77.602366,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10032974928",
+    "osm_id": 10032974928,
+    "name": "Milk Colony",
+    "place_type": "neighbourhood",
+    "latitude": 13.009332,
+    "longitude": 77.558303,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10172010095",
+    "osm_id": 10172010095,
+    "name": "Central Excise Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.040281,
+    "longitude": 77.581257,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10212418966",
+    "osm_id": 10212418966,
+    "name": "Geddalahalli",
+    "place_type": "neighbourhood",
+    "latitude": 13.029873,
+    "longitude": 77.576901,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10220948578",
+    "osm_id": 10220948578,
+    "name": "ITI Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.9015,
+    "longitude": 77.640944,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10220948588",
+    "osm_id": 10220948588,
+    "name": "Haralur",
+    "place_type": "suburb",
+    "latitude": 12.904486,
+    "longitude": 77.665443,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10233407655",
+    "osm_id": 10233407655,
+    "name": "Banashankari 6th Stage",
+    "place_type": "suburb",
+    "latitude": 12.884924,
+    "longitude": 77.515485,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10235940568",
+    "osm_id": 10235940568,
+    "name": "Arkavathy Layout 20th Block",
+    "place_type": "neighbourhood",
+    "latitude": 13.034192,
+    "longitude": 77.643465,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10235940569",
+    "osm_id": 10235940569,
+    "name": "Arkavathy Layout 19th Block",
+    "place_type": "neighbourhood",
+    "latitude": 13.032697,
+    "longitude": 77.646384,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10235940570",
+    "osm_id": 10235940570,
+    "name": "Venkateshapura",
+    "place_type": "neighbourhood",
+    "latitude": 13.074232,
+    "longitude": 77.619256,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10235940572",
+    "osm_id": 10235940572,
+    "name": "Byrathikhane",
+    "place_type": "neighbourhood",
+    "latitude": 13.041247,
+    "longitude": 77.649801,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10237447835",
+    "osm_id": 10237447835,
+    "name": "Pillana Garden",
+    "place_type": "neighbourhood",
+    "latitude": 13.010454,
+    "longitude": 77.617353,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10237447836",
+    "osm_id": 10237447836,
+    "name": "New Bagalur Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.007992,
+    "longitude": 77.618473,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10237496428",
+    "osm_id": 10237496428,
+    "name": "Arkavathy Layout 16th Block",
+    "place_type": "neighbourhood",
+    "latitude": 13.046128,
+    "longitude": 77.6367,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10237496429",
+    "osm_id": 10237496429,
+    "name": "Arkavathy Layout 20th Block",
+    "place_type": "neighbourhood",
+    "latitude": 13.044101,
+    "longitude": 77.639008,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10237496430",
+    "osm_id": 10237496430,
+    "name": "Arkavathy Layout 18th Block",
+    "place_type": "neighbourhood",
+    "latitude": 13.043693,
+    "longitude": 77.648143,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10237496438",
+    "osm_id": 10237496438,
+    "name": "Arkavathy Layout 8th Block",
+    "place_type": "neighbourhood",
+    "latitude": 13.069738,
+    "longitude": 77.618601,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10237496439",
+    "osm_id": 10237496439,
+    "name": "Arkavathy Layout 4th Block",
+    "place_type": "neighbourhood",
+    "latitude": 13.073971,
+    "longitude": 77.623762,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10237496488",
+    "osm_id": 10237496488,
+    "name": "Arkavathy Layout 8th Block",
+    "place_type": "neighbourhood",
+    "latitude": 13.071541,
+    "longitude": 77.609455,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10245038176",
+    "osm_id": 10245038176,
+    "name": "Srinivasapura",
+    "place_type": "neighbourhood",
+    "latitude": 12.908376,
+    "longitude": 77.512241,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10245038177",
+    "osm_id": 10245038177,
+    "name": "Channasandra",
+    "place_type": "neighbourhood",
+    "latitude": 12.902943,
+    "longitude": 77.519837,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10253179995",
+    "osm_id": 10253179995,
+    "name": "Kumara Park West",
+    "place_type": "neighbourhood",
+    "latitude": 12.991027,
+    "longitude": 77.577928,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10253179996",
+    "osm_id": 10253179996,
+    "name": "Kumara Park East",
+    "place_type": "neighbourhood",
+    "latitude": 12.988627,
+    "longitude": 77.579628,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10272681254",
+    "osm_id": 10272681254,
+    "name": "Vidyamanyanagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.007132,
+    "longitude": 77.489635,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10272681263",
+    "osm_id": 10272681263,
+    "name": "Chandana Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.986383,
+    "longitude": 77.506753,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10272690518",
+    "osm_id": 10272690518,
+    "name": "Syndicate Bank Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.997256,
+    "longitude": 77.487135,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10272690519",
+    "osm_id": 10272690519,
+    "name": "Vigneshwara Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 12.994122,
+    "longitude": 77.504857,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10272690520",
+    "osm_id": 10272690520,
+    "name": "Madeshwara Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 12.992065,
+    "longitude": 77.494474,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10272690521",
+    "osm_id": 10272690521,
+    "name": "Prasanna Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.997465,
+    "longitude": 77.497084,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10272690522",
+    "osm_id": 10272690522,
+    "name": "Hosahalli Golarapalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.993675,
+    "longitude": 77.477973,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10272690555",
+    "osm_id": 10272690555,
+    "name": "Kareemsab Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.998359,
+    "longitude": 77.512348,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10272690597",
+    "osm_id": 10272690597,
+    "name": "GKW Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.008232,
+    "longitude": 77.513008,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10272871664",
+    "osm_id": 10272871664,
+    "name": "Jogappa Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.040068,
+    "longitude": 77.610002,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10293686956",
+    "osm_id": 10293686956,
+    "name": "Gandhi Bazaar",
+    "place_type": "neighbourhood",
+    "latitude": 12.945787,
+    "longitude": 77.570674,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10293831865",
+    "osm_id": 10293831865,
+    "name": "Maruthi Seva Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.00317,
+    "longitude": 77.632612,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10293831866",
+    "osm_id": 10293831866,
+    "name": "Vivekananda Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.004425,
+    "longitude": 77.628045,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10293831867",
+    "osm_id": 10293831867,
+    "name": "Doddigunta",
+    "place_type": "neighbourhood",
+    "latitude": 12.992612,
+    "longitude": 77.62259,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10293831873",
+    "osm_id": 10293831873,
+    "name": "Heerachand Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.995931,
+    "longitude": 77.626685,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10293847376",
+    "osm_id": 10293847376,
+    "name": "Income Tax Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.997292,
+    "longitude": 77.656327,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10293847385",
+    "osm_id": 10293847385,
+    "name": "Krishnaiahnapalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.997274,
+    "longitude": 77.652762,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10293847386",
+    "osm_id": 10293847386,
+    "name": "Old Baiyappanahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.99435,
+    "longitude": 77.640933,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10293847397",
+    "osm_id": 10293847397,
+    "name": "Jeevanahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.996409,
+    "longitude": 77.628923,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10293847431",
+    "osm_id": 10293847431,
+    "name": "Kathalipalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.992263,
+    "longitude": 77.638176,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10295524807",
+    "osm_id": 10295524807,
+    "name": "Jakkasandra Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.928825,
+    "longitude": 77.630301,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10295532281",
+    "osm_id": 10295532281,
+    "name": "Sidhartha Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.9231,
+    "longitude": 77.620393,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10296378588",
+    "osm_id": 10296378588,
+    "name": "Agara",
+    "place_type": "neighbourhood",
+    "latitude": 12.92214,
+    "longitude": 77.647937,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10296444933",
+    "osm_id": 10296444933,
+    "name": "RV Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.998644,
+    "longitude": 77.583443,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10298313288",
+    "osm_id": 10298313288,
+    "name": "D'Souza Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.96963,
+    "longitude": 77.5968,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10302647654",
+    "osm_id": 10302647654,
+    "name": "ITI Colony",
+    "place_type": "neighbourhood",
+    "latitude": 13.033873,
+    "longitude": 77.567846,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10310634652",
+    "osm_id": 10310634652,
+    "name": "Kuvempu Nagar 1st Stage",
+    "place_type": "neighbourhood",
+    "latitude": 13.069414,
+    "longitude": 77.540125,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10310634699",
+    "osm_id": 10310634699,
+    "name": "Doddabettahalli",
+    "place_type": "neighbourhood",
+    "latitude": 13.094589,
+    "longitude": 77.554448,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10310636349",
+    "osm_id": 10310636349,
+    "name": "Kuvempu Nagar 2nd Stage",
+    "place_type": "neighbourhood",
+    "latitude": 13.072915,
+    "longitude": 77.540243,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10310636358",
+    "osm_id": 10310636358,
+    "name": "Kanshiram Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.089589,
+    "longitude": 77.538972,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10310636365",
+    "osm_id": 10310636365,
+    "name": "Adithyanagara",
+    "place_type": "neighbourhood",
+    "latitude": 13.085733,
+    "longitude": 77.551171,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10310636385",
+    "osm_id": 10310636385,
+    "name": "Vinayaka Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 13.083146,
+    "longitude": 77.544631,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10314103445",
+    "osm_id": 10314103445,
+    "name": "Manjunath Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.054022,
+    "longitude": 77.493916,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10572417851",
+    "osm_id": 10572417851,
+    "name": "Prakash Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.994898,
+    "longitude": 77.563541,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10573135961",
+    "osm_id": 10573135961,
+    "name": "Mount Joy",
+    "place_type": "neighbourhood",
+    "latitude": 12.93974,
+    "longitude": 77.561682,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10604644054",
+    "osm_id": 10604644054,
+    "name": "Lottegollahalli",
+    "place_type": "neighbourhood",
+    "latitude": 13.044135,
+    "longitude": 77.56515,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10607453283",
+    "osm_id": 10607453283,
+    "name": "Maruthi Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 13.10762,
+    "longitude": 77.607052,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10607453284",
+    "osm_id": 10607453284,
+    "name": "Venkatala",
+    "place_type": "neighbourhood",
+    "latitude": 13.112207,
+    "longitude": 77.602648,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10632956835",
+    "osm_id": 10632956835,
+    "name": "Yellukunte",
+    "place_type": "neighbourhood",
+    "latitude": 12.904496,
+    "longitude": 77.641582,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10667163084",
+    "osm_id": 10667163084,
+    "name": "Siddhartha Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.957423,
+    "longitude": 77.636602,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10667163085",
+    "osm_id": 10667163085,
+    "name": "Gowtham Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.957475,
+    "longitude": 77.639841,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10676129241",
+    "osm_id": 10676129241,
+    "name": "Royal Placid Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.900768,
+    "longitude": 77.657762,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10702267161",
+    "osm_id": 10702267161,
+    "name": "Bhoganahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.926514,
+    "longitude": 77.700913,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10729766608",
+    "osm_id": 10729766608,
+    "name": "Munniswamy Garden",
+    "place_type": "neighbourhood",
+    "latitude": 12.949769,
+    "longitude": 77.623145,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10739618731",
+    "osm_id": 10739618731,
+    "name": "Virannapalya",
+    "place_type": "neighbourhood",
+    "latitude": 13.040677,
+    "longitude": 77.613329,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10753151414",
+    "osm_id": 10753151414,
+    "name": "Judicial Officer's Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.03426,
+    "longitude": 77.574479,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10753151513",
+    "osm_id": 10753151513,
+    "name": "Ramakrishna Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.027232,
+    "longitude": 77.580649,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10760556149",
+    "osm_id": 10760556149,
+    "name": "Indira Gandhi Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.946005,
+    "longitude": 77.62476,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10761806275",
+    "osm_id": 10761806275,
+    "name": "BDA Jnanabharathi Residential Enclave",
+    "place_type": "neighbourhood",
+    "latitude": 12.91979,
+    "longitude": 77.489431,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10761808764",
+    "osm_id": 10761808764,
+    "name": "Vijayashree Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.91395,
+    "longitude": 77.491711,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10763445357",
+    "osm_id": 10763445357,
+    "name": "Krishnappa Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.923388,
+    "longitude": 77.530142,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10763445378",
+    "osm_id": 10763445378,
+    "name": "Veerabhadra Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 12.938294,
+    "longitude": 77.534959,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10795162705",
+    "osm_id": 10795162705,
+    "name": "Ashokapuram",
+    "place_type": "neighbourhood",
+    "latitude": 13.014805,
+    "longitude": 77.547609,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10795162722",
+    "osm_id": 10795162722,
+    "name": "Shankar Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.015913,
+    "longitude": 77.54373,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10796263247",
+    "osm_id": 10796263247,
+    "name": "Ramaswamypalya",
+    "place_type": "neighbourhood",
+    "latitude": 13.009743,
+    "longitude": 77.636889,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10831664286",
+    "osm_id": 10831664286,
+    "name": "Swimming Pool Extension",
+    "place_type": "neighbourhood",
+    "latitude": 12.999576,
+    "longitude": 77.574699,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10833830941",
+    "osm_id": 10833830941,
+    "name": "Valluvarpuram",
+    "place_type": "neighbourhood",
+    "latitude": 12.995105,
+    "longitude": 77.568377,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10853169837",
+    "osm_id": 10853169837,
+    "name": "Shakambari Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.913578,
+    "longitude": 77.575943,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10895959920",
+    "osm_id": 10895959920,
+    "name": "M Nanjappa Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.064338,
+    "longitude": 77.639657,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10924790341",
+    "osm_id": 10924790341,
+    "name": "Kuvempu Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.914447,
+    "longitude": 77.613753,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10931504796",
+    "osm_id": 10931504796,
+    "name": "JP Nagar 9th Phase",
+    "place_type": "neighbourhood",
+    "latitude": 12.868142,
+    "longitude": 77.562822,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10931504797",
+    "osm_id": 10931504797,
+    "name": "BOOHBCS Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.872075,
+    "longitude": 77.553885,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10931529974",
+    "osm_id": 10931529974,
+    "name": "Narayana Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 12.881885,
+    "longitude": 77.555398,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10931529975",
+    "osm_id": 10931529975,
+    "name": "PNB Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.878951,
+    "longitude": 77.563697,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10931529976",
+    "osm_id": 10931529976,
+    "name": "MKS Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.876677,
+    "longitude": 77.560317,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10937785408",
+    "osm_id": 10937785408,
+    "name": "Vinayaka Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 12.949889,
+    "longitude": 77.599252,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10978335945",
+    "osm_id": 10978335945,
+    "name": "Parangipalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.907479,
+    "longitude": 77.651067,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10979388393",
+    "osm_id": 10979388393,
+    "name": "Sapthagiri Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.921981,
+    "longitude": 77.535855,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10979969456",
+    "osm_id": 10979969456,
+    "name": "Mariappanapalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.997264,
+    "longitude": 77.554486,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10983994555",
+    "osm_id": 10983994555,
+    "name": "Isaac Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.115747,
+    "longitude": 77.57722,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10983994602",
+    "osm_id": 10983994602,
+    "name": "KEB Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.125289,
+    "longitude": 77.581801,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10983994603",
+    "osm_id": 10983994603,
+    "name": "Kenchenahalli",
+    "place_type": "neighbourhood",
+    "latitude": 13.120012,
+    "longitude": 77.584934,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10984067985",
+    "osm_id": 10984067985,
+    "name": "Vinayaka Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.113665,
+    "longitude": 77.578019,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10984582462",
+    "osm_id": 10984582462,
+    "name": "Surabhi Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.093037,
+    "longitude": 77.600244,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n10984720097",
+    "osm_id": 10984720097,
+    "name": "GKVK Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.082707,
+    "longitude": 77.603463,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11051170145",
+    "osm_id": 11051170145,
+    "name": "Silver Springs Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.958232,
+    "longitude": 77.709878,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11061935339",
+    "osm_id": 11061935339,
+    "name": "Arkavathy Layout 6th Block",
+    "place_type": "neighbourhood",
+    "latitude": 13.060746,
+    "longitude": 77.640507,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11096503499",
+    "osm_id": 11096503499,
+    "name": "Ramiah Reddy Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.994274,
+    "longitude": 77.7212,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11096574641",
+    "osm_id": 11096574641,
+    "name": "Hoody Garden",
+    "place_type": "neighbourhood",
+    "latitude": 12.994363,
+    "longitude": 77.72037,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11096782368",
+    "osm_id": 11096782368,
+    "name": "Basappa Garden",
+    "place_type": "neighbourhood",
+    "latitude": 12.995935,
+    "longitude": 77.576897,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11111178668",
+    "osm_id": 11111178668,
+    "name": "Kempapura",
+    "place_type": "neighbourhood",
+    "latitude": 12.946476,
+    "longitude": 77.672516,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11119054566",
+    "osm_id": 11119054566,
+    "name": "Adarsh Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.030545,
+    "longitude": 77.609433,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11119054567",
+    "osm_id": 11119054567,
+    "name": "Kaveri Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.032613,
+    "longitude": 77.609617,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11146697522",
+    "osm_id": 11146697522,
+    "name": "Gruhalaxmi Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.028846,
+    "longitude": 77.498589,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11148749657",
+    "osm_id": 11148749657,
+    "name": "Rashad Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.028151,
+    "longitude": 77.617759,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11148749699",
+    "osm_id": 11148749699,
+    "name": "Munirangappa Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.018615,
+    "longitude": 77.605713,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11148749743",
+    "osm_id": 11148749743,
+    "name": "Modi Garden",
+    "place_type": "neighbourhood",
+    "latitude": 13.016524,
+    "longitude": 77.602403,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11148749755",
+    "osm_id": 11148749755,
+    "name": "Periyar Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.00997,
+    "longitude": 77.612107,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11148749850",
+    "osm_id": 11148749850,
+    "name": "Sagayapura",
+    "place_type": "neighbourhood",
+    "latitude": 13.00541,
+    "longitude": 77.613241,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11182347131",
+    "osm_id": 11182347131,
+    "name": "Shankarapuram",
+    "place_type": "neighbourhood",
+    "latitude": 12.952854,
+    "longitude": 77.570331,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11211419484",
+    "osm_id": 11211419484,
+    "name": "Saraipalya",
+    "place_type": "neighbourhood",
+    "latitude": 13.050429,
+    "longitude": 77.627839,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11212690216",
+    "osm_id": 11212690216,
+    "name": "Rehamathnagara",
+    "place_type": "neighbourhood",
+    "latitude": 13.017489,
+    "longitude": 77.591903,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11218370403",
+    "osm_id": 11218370403,
+    "name": "Vinayaka Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.987218,
+    "longitude": 77.523096,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11218370404",
+    "osm_id": 11218370404,
+    "name": "Sharada Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.990056,
+    "longitude": 77.535914,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11218370405",
+    "osm_id": 11218370405,
+    "name": "NGOs Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.996032,
+    "longitude": 77.525799,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11218370406",
+    "osm_id": 11218370406,
+    "name": "Kirloskar Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.997179,
+    "longitude": 77.529404,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11218370407",
+    "osm_id": 11218370407,
+    "name": "Vrishabha Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.990882,
+    "longitude": 77.522331,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11218370408",
+    "osm_id": 11218370408,
+    "name": "Meenakshi Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.988186,
+    "longitude": 77.532333,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11218370409",
+    "osm_id": 11218370409,
+    "name": "Teacher's Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.996106,
+    "longitude": 77.53726,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11218370410",
+    "osm_id": 11218370410,
+    "name": "Syndicate Bank Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.979877,
+    "longitude": 77.528643,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11218370411",
+    "osm_id": 11218370411,
+    "name": "Prem Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.996409,
+    "longitude": 77.522964,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11218370412",
+    "osm_id": 11218370412,
+    "name": "Shakthi Ganapathi Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.993783,
+    "longitude": 77.536036,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11278785760",
+    "osm_id": 11278785760,
+    "name": "Annapoorneshwari Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 12.980718,
+    "longitude": 77.506887,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11279791943",
+    "osm_id": 11279791943,
+    "name": "Teacher's Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.91515,
+    "longitude": 77.567567,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11293087531",
+    "osm_id": 11293087531,
+    "name": "KSRTC Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.912839,
+    "longitude": 77.593493,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11293105794",
+    "osm_id": 11293105794,
+    "name": "BHBCS Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.915181,
+    "longitude": 77.600636,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11304473527",
+    "osm_id": 11304473527,
+    "name": "Sarakki",
+    "place_type": "neighbourhood",
+    "latitude": 12.908751,
+    "longitude": 77.579864,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11423253044",
+    "osm_id": 11423253044,
+    "name": "Mathru Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.097061,
+    "longitude": 77.574844,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11448931999",
+    "osm_id": 11448931999,
+    "name": "LIG 3rd Stage",
+    "place_type": "neighbourhood",
+    "latitude": 13.096158,
+    "longitude": 77.577668,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11472015231",
+    "osm_id": 11472015231,
+    "name": "Ashraya Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.985824,
+    "longitude": 77.705454,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11518167879",
+    "osm_id": 11518167879,
+    "name": "AKG Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.981945,
+    "longitude": 77.761987,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11518167880",
+    "osm_id": 11518167880,
+    "name": "VS Reddy Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.991151,
+    "longitude": 77.764063,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11584482261",
+    "osm_id": 11584482261,
+    "name": "N Thyagaraju Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.000835,
+    "longitude": 77.631592,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11594317104",
+    "osm_id": 11594317104,
+    "name": "Further Extension",
+    "place_type": "neighbourhood",
+    "latitude": 12.966002,
+    "longitude": 77.490692,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11594317105",
+    "osm_id": 11594317105,
+    "name": "6th Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.960147,
+    "longitude": 77.475843,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11594317106",
+    "osm_id": 11594317106,
+    "name": "5th Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.959979,
+    "longitude": 77.482195,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11594317107",
+    "osm_id": 11594317107,
+    "name": "4th Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.944421,
+    "longitude": 77.475242,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11594317108",
+    "osm_id": 11594317108,
+    "name": "3rd Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.944588,
+    "longitude": 77.482281,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11613188572",
+    "osm_id": 11613188572,
+    "name": "Anand Nagar Colony",
+    "place_type": "neighbourhood",
+    "latitude": 13.031339,
+    "longitude": 77.590631,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11652617756",
+    "osm_id": 11652617756,
+    "name": "D'Costa Square",
+    "place_type": "neighbourhood",
+    "latitude": 13.004077,
+    "longitude": 77.623655,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11652617757",
+    "osm_id": 11652617757,
+    "name": "Balaji Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.001463,
+    "longitude": 77.623644,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11652617758",
+    "osm_id": 11652617758,
+    "name": "Lazar Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.001599,
+    "longitude": 77.619846,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11652617759",
+    "osm_id": 11652617759,
+    "name": "Chinnappa Garden",
+    "place_type": "neighbourhood",
+    "latitude": 13.004903,
+    "longitude": 77.598699,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11652617761",
+    "osm_id": 11652617761,
+    "name": "SK Garden",
+    "place_type": "neighbourhood",
+    "latitude": 13.004568,
+    "longitude": 77.606993,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11652617762",
+    "osm_id": 11652617762,
+    "name": "Marappa Garden",
+    "place_type": "neighbourhood",
+    "latitude": 13.006701,
+    "longitude": 77.603538,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11652617763",
+    "osm_id": 11652617763,
+    "name": "Anjanappa Garden",
+    "place_type": "neighbourhood",
+    "latitude": 13.008248,
+    "longitude": 77.600105,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11652617764",
+    "osm_id": 11652617764,
+    "name": "Anchappa Garden",
+    "place_type": "neighbourhood",
+    "latitude": 13.010056,
+    "longitude": 77.59606,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11652617765",
+    "osm_id": 11652617765,
+    "name": "Upper Palace Orchard",
+    "place_type": "neighbourhood",
+    "latitude": 13.007495,
+    "longitude": 77.581029,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11652617766",
+    "osm_id": 11652617766,
+    "name": "Rajajinagar 4M Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.982097,
+    "longitude": 77.557871,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11652675948",
+    "osm_id": 11652675948,
+    "name": "Dinnur",
+    "place_type": "neighbourhood",
+    "latitude": 13.022956,
+    "longitude": 77.603216,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11652753116",
+    "osm_id": 11652753116,
+    "name": "NR Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.938816,
+    "longitude": 77.568326,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11652753120",
+    "osm_id": 11652753120,
+    "name": "Hosakerehalli Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.934592,
+    "longitude": 77.542341,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11689969342",
+    "osm_id": 11689969342,
+    "name": "Siddapura",
+    "place_type": "neighbourhood",
+    "latitude": 12.946421,
+    "longitude": 77.592088,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11726861076",
+    "osm_id": 11726861076,
+    "name": "MCHS Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.915573,
+    "longitude": 77.626463,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11726921124",
+    "osm_id": 11726921124,
+    "name": "MCHS Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.913879,
+    "longitude": 77.639163,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11738125027",
+    "osm_id": 11738125027,
+    "name": "OMBR Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.008211,
+    "longitude": 77.652778,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11745792240",
+    "osm_id": 11745792240,
+    "name": "Kirloskar Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.999356,
+    "longitude": 77.539683,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11758553976",
+    "osm_id": 11758553976,
+    "name": "Madeena Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.906739,
+    "longitude": 77.609986,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11773086779",
+    "osm_id": 11773086779,
+    "name": "Dwaraka Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.120848,
+    "longitude": 77.618687,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11773440438",
+    "osm_id": 11773440438,
+    "name": "Bangarappa Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.925019,
+    "longitude": 77.527642,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11773801243",
+    "osm_id": 11773801243,
+    "name": "RHB Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.993861,
+    "longitude": 77.69697,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11774065733",
+    "osm_id": 11774065733,
+    "name": "Fatima Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.048762,
+    "longitude": 77.626712,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11777696136",
+    "osm_id": 11777696136,
+    "name": "Ilyas Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.907039,
+    "longitude": 77.569309,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11778631761",
+    "osm_id": 11778631761,
+    "name": "Pillaganahlli",
+    "place_type": "neighbourhood",
+    "latitude": 12.847278,
+    "longitude": 77.581898,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11801508329",
+    "osm_id": 11801508329,
+    "name": "JHBCS Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.912211,
+    "longitude": 77.564076,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11801880275",
+    "osm_id": 11801880275,
+    "name": "Kumaraswamy Layout 1st Stage",
+    "place_type": "neighbourhood",
+    "latitude": 12.907837,
+    "longitude": 77.563798,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11801880276",
+    "osm_id": 11801880276,
+    "name": "Kumaraswamy Layout 2nd Stage",
+    "place_type": "neighbourhood",
+    "latitude": 12.9059,
+    "longitude": 77.558075,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11801911781",
+    "osm_id": 11801911781,
+    "name": "Vikram Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.899497,
+    "longitude": 77.561331,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11801911782",
+    "osm_id": 11801911782,
+    "name": "Chandra Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.900865,
+    "longitude": 77.563106,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11801945155",
+    "osm_id": 11801945155,
+    "name": "Bendre Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.910206,
+    "longitude": 77.563922,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11801945156",
+    "osm_id": 11801945156,
+    "name": "Minaz Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 12.911943,
+    "longitude": 77.561702,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11812207736",
+    "osm_id": 11812207736,
+    "name": "Shamanna Reddy Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.970543,
+    "longitude": 77.693229,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11817854571",
+    "osm_id": 11817854571,
+    "name": "Yashoda Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.078279,
+    "longitude": 77.592106,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11837312647",
+    "osm_id": 11837312647,
+    "name": "MLA Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.017912,
+    "longitude": 77.590679,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11880571706",
+    "osm_id": 11880571706,
+    "name": "Subramanya Nagar 2nd Stage",
+    "place_type": "neighbourhood",
+    "latitude": 13.007176,
+    "longitude": 77.555956,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11880637076",
+    "osm_id": 11880637076,
+    "name": "Prakruthi Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.097897,
+    "longitude": 77.615737,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11932360084",
+    "osm_id": 11932360084,
+    "name": "Kaveri Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.096015,
+    "longitude": 77.559928,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11969539839",
+    "osm_id": 11969539839,
+    "name": "Pramodha Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.936197,
+    "longitude": 77.527876,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11987328050",
+    "osm_id": 11987328050,
+    "name": "Kenchenahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.926791,
+    "longitude": 77.513298,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n11987347815",
+    "osm_id": 11987347815,
+    "name": "Ideal Homes Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.932689,
+    "longitude": 77.514296,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12031544035",
+    "osm_id": 12031544035,
+    "name": "Chikkabommasandra",
+    "place_type": "neighbourhood",
+    "latitude": 13.091669,
+    "longitude": 77.580393,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12032654131",
+    "osm_id": 12032654131,
+    "name": "Doctors Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.005337,
+    "longitude": 77.658185,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12040963494",
+    "osm_id": 12040963494,
+    "name": "Sir M. Visvesvaraya Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.881943,
+    "longitude": 77.672807,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12047214010",
+    "osm_id": 12047214010,
+    "name": "TC Palya",
+    "place_type": "suburb",
+    "latitude": 13.022615,
+    "longitude": 77.705733,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12061099245",
+    "osm_id": 12061099245,
+    "name": "Royal Residency Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.881171,
+    "longitude": 77.611982,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12073167139",
+    "osm_id": 12073167139,
+    "name": "Tunga Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.991804,
+    "longitude": 77.485027,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12095364735",
+    "osm_id": 12095364735,
+    "name": "SHBCS Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.928663,
+    "longitude": 77.639603,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12104424609",
+    "osm_id": 12104424609,
+    "name": "JK Pura",
+    "place_type": "neighbourhood",
+    "latitude": 12.951393,
+    "longitude": 77.60071,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12107512071",
+    "osm_id": 12107512071,
+    "name": "Achaiah Chetty Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.013475,
+    "longitude": 77.583011,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12107537237",
+    "osm_id": 12107537237,
+    "name": "MLA Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.041825,
+    "longitude": 77.563849,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12107621914",
+    "osm_id": 12107621914,
+    "name": "Rajajinagara 1st N Block",
+    "place_type": "neighbourhood",
+    "latitude": 13.005177,
+    "longitude": 77.552305,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12120352167",
+    "osm_id": 12120352167,
+    "name": "Srikantan Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.988064,
+    "longitude": 77.582005,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12150911601",
+    "osm_id": 12150911601,
+    "name": "Gorkamantapalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.976329,
+    "longitude": 77.664558,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12150911602",
+    "osm_id": 12150911602,
+    "name": "Nagavarapalaya",
+    "place_type": "neighbourhood",
+    "latitude": 12.989888,
+    "longitude": 77.664014,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12150911631",
+    "osm_id": 12150911631,
+    "name": "Byrasandra",
+    "place_type": "neighbourhood",
+    "latitude": 12.982217,
+    "longitude": 77.665784,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12161093396",
+    "osm_id": 12161093396,
+    "name": "Kankanpalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.942119,
+    "longitude": 77.583983,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12161142137",
+    "osm_id": 12161142137,
+    "name": "Chinnayanapalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.947916,
+    "longitude": 77.600908,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12161142138",
+    "osm_id": 12161142138,
+    "name": "Pudupadacheri",
+    "place_type": "neighbourhood",
+    "latitude": 12.959792,
+    "longitude": 77.600444,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12174147910",
+    "osm_id": 12174147910,
+    "name": "D'Souza Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.93214,
+    "longitude": 77.532639,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12210283198",
+    "osm_id": 12210283198,
+    "name": "Abbaiah Reddy Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.979226,
+    "longitude": 77.680936,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12215405971",
+    "osm_id": 12215405971,
+    "name": "Krishnappa Garden",
+    "place_type": "neighbourhood",
+    "latitude": 12.977456,
+    "longitude": 77.659325,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12252173604",
+    "osm_id": 12252173604,
+    "name": "Geleyara Balaga Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.071282,
+    "longitude": 77.50615,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12257828361",
+    "osm_id": 12257828361,
+    "name": "Soundarya Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.066906,
+    "longitude": 77.496797,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12273251696",
+    "osm_id": 12273251696,
+    "name": "Muniswamappa Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.044113,
+    "longitude": 77.490369,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12288219219",
+    "osm_id": 12288219219,
+    "name": "Defence Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.059871,
+    "longitude": 77.585178,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12298364843",
+    "osm_id": 12298364843,
+    "name": "LRDE Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.969143,
+    "longitude": 77.700039,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12300691416",
+    "osm_id": 12300691416,
+    "name": "Alfa Gardens",
+    "place_type": "neighbourhood",
+    "latitude": 13.006526,
+    "longitude": 77.720533,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12343238242",
+    "osm_id": 12343238242,
+    "name": "MSR Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.951901,
+    "longitude": 77.701236,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12366318056",
+    "osm_id": 12366318056,
+    "name": "Nelagedaranahalli",
+    "place_type": "neighbourhood",
+    "latitude": 13.030857,
+    "longitude": 77.504711,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12367522144",
+    "osm_id": 12367522144,
+    "name": "Hanuman Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.970095,
+    "longitude": 77.656115,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12432287594",
+    "osm_id": 12432287594,
+    "name": "Junnasandra",
+    "place_type": "neighbourhood",
+    "latitude": 12.90642,
+    "longitude": 77.683516,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12441154157",
+    "osm_id": 12441154157,
+    "name": "Thimanahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.976875,
+    "longitude": 77.536963,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12441386569",
+    "osm_id": 12441386569,
+    "name": "Arkavathy Layout 17th Block",
+    "place_type": "neighbourhood",
+    "latitude": 13.056081,
+    "longitude": 77.641129,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12441386574",
+    "osm_id": 12441386574,
+    "name": "Arkavathy Layout 5th Block",
+    "place_type": "neighbourhood",
+    "latitude": 13.063405,
+    "longitude": 77.640563,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12441715408",
+    "osm_id": 12441715408,
+    "name": "Arkavathy Layout 11th Block",
+    "place_type": "neighbourhood",
+    "latitude": 13.059697,
+    "longitude": 77.626098,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12456008471",
+    "osm_id": 12456008471,
+    "name": "Ferrar Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.116436,
+    "longitude": 77.564294,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12458448933",
+    "osm_id": 12458448933,
+    "name": "GarvebhaviPalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.895066,
+    "longitude": 77.634582,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12459196485",
+    "osm_id": 12459196485,
+    "name": "Papaiah Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.02716,
+    "longitude": 77.654806,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12468364695",
+    "osm_id": 12468364695,
+    "name": "Hennur",
+    "place_type": "suburb",
+    "latitude": 13.037077,
+    "longitude": 77.641357,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12508633929",
+    "osm_id": 12508633929,
+    "name": "Ganigarapalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.873199,
+    "longitude": 77.531708,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12511444266",
+    "osm_id": 12511444266,
+    "name": "Jai Bheema Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.919429,
+    "longitude": 77.616976,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12511863424",
+    "osm_id": 12511863424,
+    "name": "Vasanthapura",
+    "place_type": "neighbourhood",
+    "latitude": 12.898255,
+    "longitude": 77.549832,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12532200073",
+    "osm_id": 12532200073,
+    "name": "Geetha Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.929726,
+    "longitude": 77.585493,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12547095010",
+    "osm_id": 12547095010,
+    "name": "Telecom Layout 10th Block",
+    "place_type": "neighbourhood",
+    "latitude": 13.041179,
+    "longitude": 77.629722,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12555764495",
+    "osm_id": 12555764495,
+    "name": "Chikka Kammanahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.848715,
+    "longitude": 77.599898,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12555786507",
+    "osm_id": 12555786507,
+    "name": "IDBI Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.861657,
+    "longitude": 77.586114,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12555786567",
+    "osm_id": 12555786567,
+    "name": "Kalena Agrahara",
+    "place_type": "neighbourhood",
+    "latitude": 12.865807,
+    "longitude": 77.591192,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12555786568",
+    "osm_id": 12555786568,
+    "name": "Dodda Kammanahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.858326,
+    "longitude": 77.599255,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12629973368",
+    "osm_id": 12629973368,
+    "name": "BHCS Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.901348,
+    "longitude": 77.528383,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12630280575",
+    "osm_id": 12630280575,
+    "name": "KFSC Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.012335,
+    "longitude": 77.633147,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12643846128",
+    "osm_id": 12643846128,
+    "name": "CQAL Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.107164,
+    "longitude": 77.568291,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12656262841",
+    "osm_id": 12656262841,
+    "name": "B Channasandra",
+    "place_type": "neighbourhood",
+    "latitude": 13.009915,
+    "longitude": 77.660272,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12657922332",
+    "osm_id": 12657922332,
+    "name": "Chikka Banasawadi",
+    "place_type": "neighbourhood",
+    "latitude": 13.007114,
+    "longitude": 77.647025,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12657922333",
+    "osm_id": 12657922333,
+    "name": "Subbayanapalya",
+    "place_type": "neighbourhood",
+    "latitude": 13.008104,
+    "longitude": 77.641848,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12657922334",
+    "osm_id": 12657922334,
+    "name": "Saitpalya",
+    "place_type": "neighbourhood",
+    "latitude": 13.011598,
+    "longitude": 77.629416,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12657922335",
+    "osm_id": 12657922335,
+    "name": "Kariyannanapalya",
+    "place_type": "neighbourhood",
+    "latitude": 13.014133,
+    "longitude": 77.628611,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12704524925",
+    "osm_id": 12704524925,
+    "name": "Kasturi Nagar 2nd Stage",
+    "place_type": "neighbourhood",
+    "latitude": 13.001441,
+    "longitude": 77.661859,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12712362612",
+    "osm_id": 12712362612,
+    "name": "Jai Jawan Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.007175,
+    "longitude": 77.642654,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12765434578",
+    "osm_id": 12765434578,
+    "name": "RMS Colony",
+    "place_type": "neighbourhood",
+    "latitude": 13.039565,
+    "longitude": 77.576731,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12770513049",
+    "osm_id": 12770513049,
+    "name": "Gurudarshan Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.071965,
+    "longitude": 77.561077,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12772730586",
+    "osm_id": 12772730586,
+    "name": "Chamundeshwari Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.066771,
+    "longitude": 77.555572,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12794021936",
+    "osm_id": 12794021936,
+    "name": "Vaishnavi Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.076842,
+    "longitude": 77.552997,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12797123072",
+    "osm_id": 12797123072,
+    "name": "AMS Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.087732,
+    "longitude": 77.558576,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12805665230",
+    "osm_id": 12805665230,
+    "name": "Narasipura Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.08224,
+    "longitude": 77.560487,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12805665231",
+    "osm_id": 12805665231,
+    "name": "HMT Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.084745,
+    "longitude": 77.562543,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12805665474",
+    "osm_id": 12805665474,
+    "name": "HMT Colony",
+    "place_type": "neighbourhood",
+    "latitude": 13.083797,
+    "longitude": 77.557541,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12806337002",
+    "osm_id": 12806337002,
+    "name": "Nagasandra",
+    "place_type": "suburb",
+    "latitude": 13.040968,
+    "longitude": 77.500429,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12816045429",
+    "osm_id": 12816045429,
+    "name": "Banashankari",
+    "place_type": "suburb",
+    "latitude": 12.92782,
+    "longitude": 77.556621,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12820381008",
+    "osm_id": 12820381008,
+    "name": "Byraveshwara Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 13.03738,
+    "longitude": 77.491124,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12820381011",
+    "osm_id": 12820381011,
+    "name": "Venugopala Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 13.039732,
+    "longitude": 77.493986,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12827725975",
+    "osm_id": 12827725975,
+    "name": "Chinnanna Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.025611,
+    "longitude": 77.61106,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12833132934",
+    "osm_id": 12833132934,
+    "name": "Cholanayakanahalli",
+    "place_type": "neighbourhood",
+    "latitude": 13.03645,
+    "longitude": 77.597527,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12833133744",
+    "osm_id": 12833133744,
+    "name": "RBI Colony",
+    "place_type": "neighbourhood",
+    "latitude": 13.028778,
+    "longitude": 77.58855,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12836271367",
+    "osm_id": 12836271367,
+    "name": "Krishnappa Block",
+    "place_type": "neighbourhood",
+    "latitude": 13.020125,
+    "longitude": 77.590005,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12850046729",
+    "osm_id": 12850046729,
+    "name": "Dollar Scheme Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.918154,
+    "longitude": 77.619536,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12850079672",
+    "osm_id": 12850079672,
+    "name": "Sri Sai Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.039596,
+    "longitude": 77.64454,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12875676574",
+    "osm_id": 12875676574,
+    "name": "Balaji Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.926389,
+    "longitude": 77.606829,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12887221981",
+    "osm_id": 12887221981,
+    "name": "Chamundi Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 13.034122,
+    "longitude": 77.599305,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12901667664",
+    "osm_id": 12901667664,
+    "name": "Rahat Bagh",
+    "place_type": "neighbourhood",
+    "latitude": 12.991486,
+    "longitude": 77.661368,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12944083413",
+    "osm_id": 12944083413,
+    "name": "Nehru Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.986963,
+    "longitude": 77.575558,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12948806709",
+    "osm_id": 12948806709,
+    "name": "Jogi Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.930918,
+    "longitude": 77.612813,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12981491766",
+    "osm_id": 12981491766,
+    "name": "Channama Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.979141,
+    "longitude": 77.712676,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n12994644712",
+    "osm_id": 12994644712,
+    "name": "Sarovara Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.053147,
+    "longitude": 77.581557,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13008635705",
+    "osm_id": 13008635705,
+    "name": "Bestcounty2",
+    "place_type": "neighbourhood",
+    "latitude": 13.092905,
+    "longitude": 77.54428,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13033330827",
+    "osm_id": 13033330827,
+    "name": "MCHS Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.07344,
+    "longitude": 77.605303,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13037016627",
+    "osm_id": 13037016627,
+    "name": "Ramaswami Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.937397,
+    "longitude": 77.749968,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13068033897",
+    "osm_id": 13068033897,
+    "name": "Maruthi Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.920402,
+    "longitude": 77.606743,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13070773912",
+    "osm_id": 13070773912,
+    "name": "KPC Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.904186,
+    "longitude": 77.677852,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13099742332",
+    "osm_id": 13099742332,
+    "name": "Muneshwara Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.018181,
+    "longitude": 77.67165,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13245148756",
+    "osm_id": 13245148756,
+    "name": "Anjanapura 10th Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.855998,
+    "longitude": 77.570354,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13245148757",
+    "osm_id": 13245148757,
+    "name": "Anjanapura 9th Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.856668,
+    "longitude": 77.567006,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13245148758",
+    "osm_id": 13245148758,
+    "name": "Anjanapura 8th Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.858843,
+    "longitude": 77.554926,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13245148759",
+    "osm_id": 13245148759,
+    "name": "Anjanapura 7th Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.862316,
+    "longitude": 77.554496,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13245148760",
+    "osm_id": 13245148760,
+    "name": "Anjanapura 6th Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.853676,
+    "longitude": 77.551836,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13245148761",
+    "osm_id": 13245148761,
+    "name": "Anjanapura 3rd Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.864439,
+    "longitude": 77.555741,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13245148762",
+    "osm_id": 13245148762,
+    "name": "Anjanapura 5th Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.857651,
+    "longitude": 77.558445,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13245148763",
+    "osm_id": 13245148763,
+    "name": "Anjanapura 4th Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.858686,
+    "longitude": 77.559721,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13245148764",
+    "osm_id": 13245148764,
+    "name": "Anjanapura 2nd Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.86287,
+    "longitude": 77.549819,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13245148765",
+    "osm_id": 13245148765,
+    "name": "Anjanapura 1st Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.858854,
+    "longitude": 77.547759,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13284716268",
+    "osm_id": 13284716268,
+    "name": "Syed Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.965971,
+    "longitude": 77.674411,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13286934138",
+    "osm_id": 13286934138,
+    "name": "Gandhi Circle",
+    "place_type": "neighbourhood",
+    "latitude": 12.940092,
+    "longitude": 77.746872,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13287526782",
+    "osm_id": 13287526782,
+    "name": "NGEF Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.037721,
+    "longitude": 77.575146,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13288611810",
+    "osm_id": 13288611810,
+    "name": "Palanahalli",
+    "place_type": "neighbourhood",
+    "latitude": 13.116335,
+    "longitude": 77.614664,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13296279145",
+    "osm_id": 13296279145,
+    "name": "Talacauvery Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.967244,
+    "longitude": 77.680346,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13316652691",
+    "osm_id": 13316652691,
+    "name": "Kasavanahalli",
+    "place_type": "suburb",
+    "latitude": 12.897774,
+    "longitude": 77.674508,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13325810057",
+    "osm_id": 13325810057,
+    "name": "Akshaya Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.098538,
+    "longitude": 77.565614,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13325810058",
+    "osm_id": 13325810058,
+    "name": "Tirumala Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.098581,
+    "longitude": 77.563789,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13325951415",
+    "osm_id": 13325951415,
+    "name": "Srinivas Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 12.936357,
+    "longitude": 77.554129,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13342712943",
+    "osm_id": 13342712943,
+    "name": "Panathur Dinne",
+    "place_type": "neighbourhood",
+    "latitude": 12.930828,
+    "longitude": 77.712387,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13377519121",
+    "osm_id": 13377519121,
+    "name": "GJM Sai Garden Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.952419,
+    "longitude": 77.71783,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13391097191",
+    "osm_id": 13391097191,
+    "name": "Maruthi House Building Co-operative Society Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.997741,
+    "longitude": 77.541837,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13391097192",
+    "osm_id": 13391097192,
+    "name": "Bhimajyothi LIC HBCS Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.998071,
+    "longitude": 77.541464,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13391115175",
+    "osm_id": 13391115175,
+    "name": "Waseem Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.105645,
+    "longitude": 77.626734,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13391115176",
+    "osm_id": 13391115176,
+    "name": "Fakir Colony",
+    "place_type": "neighbourhood",
+    "latitude": 13.106167,
+    "longitude": 77.628568,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13415315599",
+    "osm_id": 13415315599,
+    "name": "Ambedkar Colony",
+    "place_type": "neighbourhood",
+    "latitude": 12.970893,
+    "longitude": 77.695192,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13415315696",
+    "osm_id": 13415315696,
+    "name": "Wasa Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.970602,
+    "longitude": 77.698148,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13417376503",
+    "osm_id": 13417376503,
+    "name": "Chettupalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.896025,
+    "longitude": 77.485296,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13420680785",
+    "osm_id": 13420680785,
+    "name": "Brooke Bond",
+    "place_type": "neighbourhood",
+    "latitude": 12.963562,
+    "longitude": 77.749315,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13472646799",
+    "osm_id": 13472646799,
+    "name": "Pai Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.993111,
+    "longitude": 77.666677,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13473734374",
+    "osm_id": 13473734374,
+    "name": "Gangappa Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.992859,
+    "longitude": 77.669829,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13503143526",
+    "osm_id": 13503143526,
+    "name": "Vasanthappa Block",
+    "place_type": "neighbourhood",
+    "latitude": 13.02587,
+    "longitude": 77.588633,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13503228646",
+    "osm_id": 13503228646,
+    "name": "Green Leaf Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.935294,
+    "longitude": 77.62947,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13503228657",
+    "osm_id": 13503228657,
+    "name": "Chandra Reddy Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.935229,
+    "longitude": 77.6301,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13630287403",
+    "osm_id": 13630287403,
+    "name": "Kasavanahalli",
+    "place_type": "neighbourhood",
+    "latitude": 12.910866,
+    "longitude": 77.680004,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13690404260",
+    "osm_id": 13690404260,
+    "name": "N. G. R. Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.911963,
+    "longitude": 77.622362,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13705186929",
+    "osm_id": 13705186929,
+    "name": "Maruthi Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.963118,
+    "longitude": 77.708217,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13706213031",
+    "osm_id": 13706213031,
+    "name": "Thubarahalli Palya",
+    "place_type": "neighbourhood",
+    "latitude": 12.960104,
+    "longitude": 77.722772,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13706426674",
+    "osm_id": 13706426674,
+    "name": "Nanjappa Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.068259,
+    "longitude": 77.556682,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13715420718",
+    "osm_id": 13715420718,
+    "name": "MEG Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.992277,
+    "longitude": 77.677326,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13730658983",
+    "osm_id": 13730658983,
+    "name": "LBS Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.065738,
+    "longitude": 77.640048,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13730669017",
+    "osm_id": 13730669017,
+    "name": "Arkavathy Layout 6th Block",
+    "place_type": "neighbourhood",
+    "latitude": 13.064403,
+    "longitude": 77.637699,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13730702947",
+    "osm_id": 13730702947,
+    "name": "Kanakashree Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.051788,
+    "longitude": 77.654261,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13730702956",
+    "osm_id": 13730702956,
+    "name": "Evergreen Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.058153,
+    "longitude": 77.650434,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13748576550",
+    "osm_id": 13748576550,
+    "name": "Kothnur Lake View Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.871803,
+    "longitude": 77.578559,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13779003647",
+    "osm_id": 13779003647,
+    "name": "Wellington Paradise Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.878508,
+    "longitude": 77.640823,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13808285507",
+    "osm_id": 13808285507,
+    "name": "Ramanna Gardens",
+    "place_type": "neighbourhood",
+    "latitude": 13.065074,
+    "longitude": 77.554835,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13844554670",
+    "osm_id": 13844554670,
+    "name": "SFHS Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.914154,
+    "longitude": 77.601634,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13849804027",
+    "osm_id": 13849804027,
+    "name": "Subedar Garden",
+    "place_type": "neighbourhood",
+    "latitude": 12.980009,
+    "longitude": 77.643546,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13903989157",
+    "osm_id": 13903989157,
+    "name": "Ramachandrapura",
+    "place_type": "neighbourhood",
+    "latitude": 13.062095,
+    "longitude": 77.551773,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13928697875",
+    "osm_id": 13928697875,
+    "name": "Bethel Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.005407,
+    "longitude": 77.71721,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13928697876",
+    "osm_id": 13928697876,
+    "name": "Muneshwara Nagar",
+    "place_type": "neighbourhood",
+    "latitude": 13.005245,
+    "longitude": 77.713251,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n13944469964",
+    "osm_id": 13944469964,
+    "name": "CQAL Layout",
+    "place_type": "neighbourhood",
+    "latitude": 13.063635,
+    "longitude": 77.58325,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n14030669601",
+    "osm_id": 14030669601,
+    "name": "Papareddypalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.974601,
+    "longitude": 77.507928,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n14030669602",
+    "osm_id": 14030669602,
+    "name": "Nagarabhavi 9th Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.969601,
+    "longitude": 77.508202,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n14031382189",
+    "osm_id": 14031382189,
+    "name": "Nagarbhavi 5th Block",
+    "place_type": "neighbourhood",
+    "latitude": 12.977486,
+    "longitude": 77.511415,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n14040744994",
+    "osm_id": 14040744994,
+    "name": "D Group Employees Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.977701,
+    "longitude": 77.498776,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n14040762156",
+    "osm_id": 14040762156,
+    "name": "RHCS Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.979708,
+    "longitude": 77.49773,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n14045090352",
+    "osm_id": 14045090352,
+    "name": "Narasipura",
+    "place_type": "neighbourhood",
+    "latitude": 12.97687,
+    "longitude": 77.494442,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n14046562319",
+    "osm_id": 14046562319,
+    "name": "Upkar Residency Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.961396,
+    "longitude": 77.483396,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n14055650396",
+    "osm_id": 14055650396,
+    "name": "NGEF Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.960761,
+    "longitude": 77.490655,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n14076625557",
+    "osm_id": 14076625557,
+    "name": "Mariyappanapalya",
+    "place_type": "neighbourhood",
+    "latitude": 12.944729,
+    "longitude": 77.496467,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n14078047757",
+    "osm_id": 14078047757,
+    "name": "Doddagollarahatti",
+    "place_type": "neighbourhood",
+    "latitude": 12.938487,
+    "longitude": 77.488222,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n14078904901",
+    "osm_id": 14078904901,
+    "name": "Judicial Layout",
+    "place_type": "neighbourhood",
+    "latitude": 12.865956,
+    "longitude": 77.5374,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n14081429037",
+    "osm_id": 14081429037,
+    "name": "Jnana Jyothi Nagara",
+    "place_type": "neighbourhood",
+    "latitude": 12.939193,
+    "longitude": 77.494989,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n14089034838",
+    "osm_id": 14089034838,
+    "name": "Bharath Nagara 2nd Stage",
+    "place_type": "neighbourhood",
+    "latitude": 12.978736,
+    "longitude": 77.475961,
+    "source": "OSM"
+  },
+  {
+    "id": "osm-n14089034839",
+    "osm_id": 14089034839,
+    "name": "Bharath Nagara 1st Stage",
+    "place_type": "neighbourhood",
+    "latitude": 12.983111,
+    "longitude": 77.477356,
+    "source": "OSM"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "_note": "Small hand-trimmed sample of real records pulled from data/candidate_sites_bengaluru.json and data/substations_bengaluru.json (fetched 2026-08-23 by app/scripts/fetch_bengaluru_data.py). Used only by backend/tests/test_site_scoring.py, which never hits a network -- these are static fixtures, not live lookups.",
+  "sites": [
+    { "id": "site-koramangala", "name": "Koramangala 5th Block Hub", "latitude": 12.9352, "longitude": 77.6245 },
+    { "id": "site-mg-road", "name": "MG Road Metro Precinct", "latitude": 12.9756, "longitude": 77.6066 }
+  ],
+  "candidate_sites": [
+    { "id": "osm-n303938132", "name": "Bharat Petroleum", "category": "fuel_station", "latitude": 12.93659, "longitude": 77.580445, "capacity": null, "area_m2": null },
+    { "id": "osm-n312545031", "name": "Garuda Mall Parking", "category": "parking", "latitude": 12.970381, "longitude": 77.609419, "capacity": null, "area_m2": null },
+    { "id": "osm-n1387516391", "name": "Gem Plaza", "category": "mall", "latitude": 12.980388, "longitude": 77.604616, "capacity": null, "area_m2": null },
+    { "id": "osm-n446805877", "name": "Chikkamaranahalli", "category": "bus_station", "latitude": 13.036222, "longitude": 77.566348, "capacity": null, "area_m2": null },
+    { "id": "osm-n1576973980", "name": "Manjunathanagara", "category": "metro_station", "latitude": 13.05009, "longitude": 77.494446, "capacity": null, "area_m2": null },
+    { "id": "osm-w111996869", "name": "Oasis Centre", "category": "mall", "latitude": 12.937496, "longitude": 77.628132, "capacity": null, "area_m2": 4231.2 },
+    { "id": "osm-w613469815", "name": "Indian Oil", "category": "fuel_station", "latitude": 12.93951, "longitude": 77.625354, "capacity": null, "area_m2": 702.8 },
+    { "id": "osm-w122415848", "name": "Koramangala TTMC", "category": "bus_station", "latitude": 12.940898, "longitude": 77.625022, "capacity": null, "area_m2": 7809.4 },
+    { "id": "osm-n1464896674", "name": "HP Petrol Pump", "category": "fuel_station", "latitude": 12.933506, "longitude": 77.630394, "capacity": null, "area_m2": null }
+  ],
+  "substations": [
+    { "id": "osm-w24488576", "name": "HSR Layout Substation", "latitude": 12.9022267, "longitude": 77.6495638, "osm_voltage_kv": [220.0, 66.0], "bescom_voltage_class_kv": 66.0, "matched": true },
+    { "id": "osm-w130871139", "name": "Adugodi Substation", "latitude": 12.9326212, "longitude": 77.6129323, "osm_voltage_kv": [66.0, 11.0], "bescom_voltage_class_kv": 66.0, "matched": true },
+    { "id": "osm-w172899327", "name": "BMTC Substation", "latitude": 12.9543033, "longitude": 77.5940534, "osm_voltage_kv": [66.0], "bescom_voltage_class_kv": 66.0, "matched": true },
+    { "id": "bescom-hoody", "name": "Hoody", "latitude": null, "longitude": null, "bescom_voltage_class_kv": 220.0, "matched": false }
+  ],
+  "chargers_demo": [
+    { "id": "chg-koramangala-01", "name": "Koramangala DC Fast 1 (demo)", "latitude": 12.9358, "longitude": 77.6251, "site_id": "site-koramangala" },
+    { "id": "chg-mg-road-01", "name": "MG Road Metro DC (demo)", "latitude": 12.9760, "longitude": 77.6070, "site_id": "site-mg-road" },
+    { "id": "chg-indiranagar-01", "name": "Indiranagar AC Hub (demo)", "latitude": 12.9789, "longitude": 77.6414, "site_id": "site-indiranagar" },
+    { "id": "chg-whitefield-01", "name": "Whitefield DC Fast 1 (demo)", "latitude": 12.9704, "longitude": 77.7506, "site_id": "site-whitefield" },
+    { "id": "chg-near-koramangala-01", "name": "Forum Mall DC (demo)", "latitude": 12.9450, "longitude": 77.6245, "site_id": "site-other-1" },
+    { "id": "chg-near-mg-road-01", "name": "Cubbon Park AC (demo)", "latitude": 12.9800, "longitude": 77.6066, "site_id": "site-other-2" }
+  ],
+  "ev_registrations_2025_citywide": {
+    "note": "aggregated from data/ev_registrations_bengaluru.json, year 2025, all 10 RTOs: 48779 EV / 358058 total",
+    "ev_share_pct": 13.62
+  },
+  "localities": [
+    { "id": "osm-n377219489", "name": "Whitefield", "latitude": 12.969637, "longitude": 77.749745, "kind": "locality" },
+    { "id": "osm-n429853334", "name": "Jayanagar", "latitude": 12.929273, "longitude": 77.582423, "kind": "locality" },
+    { "id": "osm-n429918282", "name": "Koramangala", "latitude": 12.935737, "longitude": 77.624081, "kind": "locality" },
+    { "id": "osm-n448991617", "name": "Indiranagar", "latitude": 12.973291, "longitude": 77.640467, "kind": "locality" }
+  ]
+}

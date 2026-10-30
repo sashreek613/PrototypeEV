@@ -1,0 +1,283 @@
+@import "tailwindcss";
+@import "maplibre-gl/dist/maplibre-gl.css";
+
+/* Self-hosted (not fonts.googleapis.com) -- the driver PWA's Kannada/Hindi
+ * toggle must render correctly with no network dependency at demo time.
+ * Lazy by default (only fetched once matching glyphs are actually painted),
+ * so this costs nothing on English-only or planner screens. Only the
+ * script-specific weight range is subset here -- Latin/numerals in the same
+ * string still come from Inter via the --font-sans fallback order below. */
+@font-face {
+  font-family: "Noto Sans Kannada";
+  src: url("/fonts/noto-sans-kannada-var.woff2") format("woff2");
+  font-weight: 400 700;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0951-0952, U+0964-0965, U+0C80-0CF3, U+1CD0, U+1CD2-1CD3, U+1CDA, U+1CF2, U+1CF4, U+200C-200D, U+A830-A835;
+}
+@font-face {
+  font-family: "Noto Sans Devanagari";
+  src: url("/fonts/noto-sans-devanagari-var.woff2") format("woff2");
+  font-weight: 400 700;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+A830-A839, U+A8E0-A8FF;
+}
+
+@theme {
+  --font-sans: "Inter", "Noto Sans Kannada", "Noto Sans Devanagari", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+
+  --color-vo-bg: var(--vo-bg);
+  --color-vo-surface: var(--vo-surface);
+  --color-vo-elevated: var(--vo-elevated);
+  --color-vo-card: var(--vo-card);
+  --color-vo-border: var(--vo-border);
+  --color-vo-line: var(--vo-line);
+  --color-vo-muted: var(--vo-muted);
+  --color-vo-soft: var(--vo-soft);
+  --color-vo-text: var(--vo-text);
+  --color-vo-accent: #4F6F9F;
+  --color-vo-accent-dim: var(--vo-accent-dim);
+  --color-vo-accent-ink: var(--vo-accent-ink);
+  --color-vo-info-ink: var(--vo-info-ink);
+  --color-vo-good-bg: var(--vo-good-bg);
+  --color-vo-good-ink: var(--vo-good-ink);
+  --color-vo-good-border: var(--vo-good-border);
+  --color-vo-warn-bg: var(--vo-warn-bg);
+  --color-vo-warn-ink: var(--vo-warn-ink);
+  --color-vo-warn-border: var(--vo-warn-border);
+  --color-vo-bad-bg: var(--vo-bad-bg);
+  --color-vo-bad-ink: var(--vo-bad-ink);
+  --color-vo-bad-border: var(--vo-bad-border);
+  --color-vo-amber: #C5A66A;
+  --color-vo-red: #B87979;
+  --color-vo-map: var(--vo-map);
+
+  --color-driver-bg: var(--driver-bg);
+  --color-driver-card: var(--driver-card);
+  --color-driver-ink: var(--driver-ink);
+  --color-driver-muted: var(--driver-muted);
+  --color-driver-line: var(--driver-line);
+  --color-driver-mint: var(--driver-mint);
+}
+
+:root,
+html[data-theme="light"] {
+  --vo-bg: #f7f8fa;
+  --vo-surface: #ffffff;
+  --vo-elevated: #ffffff;
+  --vo-card: #ffffff;
+  --vo-border: #e5e7eb;
+  --vo-line: #e5e7eb;
+  --vo-muted: #667085;
+  --vo-soft: #4b5563;
+  --vo-text: #1f2937;
+  --vo-accent-primary: #4f6f9f;
+  --vo-accent-hover: #3f5f8f;
+  --vo-accent-dim: #eef2f7;
+  --vo-accent-ink: #4f6f9f;
+  --vo-info-ink: #4f6f9f;
+  --vo-good-bg: #f0f6f2;
+  --vo-good-ink: #7fa58a;
+  --vo-good-border: #d2e2d6;
+  --vo-warn-bg: #faf5ec;
+  --vo-warn-ink: #c5a66a;
+  --vo-warn-border: #ede2d0;
+  --vo-bad-bg: #fdf2f2;
+  --vo-bad-ink: #b87979;
+  --vo-bad-border: #f4d6d6;
+  --vo-map: #f7f8fa;
+  --vo-grid-color: rgba(203, 213, 225, 0.4);
+  --driver-bg: #f7f8fa;
+  --driver-card: #ffffff;
+  --driver-ink: #1f2937;
+  --driver-muted: #667085;
+  --driver-line: #e5e7eb;
+  --driver-mint: #f0f6f2;
+}
+
+html[data-theme="dark"] {
+  --vo-bg: #0f141b;
+  --vo-surface: #151c24;
+  --vo-elevated: #1c242f;
+  --vo-card: #151c24;
+  --vo-border: #273241;
+  --vo-line: #273241;
+  --vo-muted: #9aa5b1;
+  --vo-soft: #cbd5e1;
+  --vo-text: #f1f3f5;
+  --vo-accent-primary: #6f8fb8;
+  --vo-accent-hover: #5d7ea8;
+  --vo-accent-dim: rgba(111, 143, 184, 0.15);
+  --vo-accent-ink: #6f8fb8;
+  --vo-info-ink: #6f8fb8;
+  --vo-good-bg: rgba(127, 165, 138, 0.15);
+  --vo-good-ink: #7fa58a;
+  --vo-good-border: rgba(127, 165, 138, 0.3);
+  --vo-warn-bg: rgba(197, 166, 106, 0.15);
+  --vo-warn-ink: #c5a66a;
+  --vo-warn-border: rgba(197, 166, 106, 0.3);
+  --vo-bad-bg: rgba(184, 121, 121, 0.15);
+  --vo-bad-ink: #b87979;
+  --vo-bad-border: rgba(184, 121, 121, 0.3);
+  --vo-map: #0f141b;
+  --vo-grid-color: rgba(39, 50, 65, 0.45);
+  --driver-bg: #0f141b;
+  --driver-card: #151c24;
+  --driver-ink: #f1f3f5;
+  --driver-muted: #9aa5b1;
+  --driver-line: #273241;
+  --driver-mint: rgba(127, 165, 138, 0.15);
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--vo-bg);
+  color: var(--vo-text);
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+button,
+input {
+  font-family: inherit;
+}
+
+.vo-radar {
+  background-size: 32px 32px;
+  background-image: 
+    linear-gradient(to right, var(--vo-grid-color, rgba(203, 213, 225, 0.45)) 1px, transparent 1px),
+    linear-gradient(to bottom, var(--vo-grid-color, rgba(203, 213, 225, 0.45)) 1px, transparent 1px);
+}
+
+.vo-hover-interactive {
+  transition: all 180ms ease-out !important;
+}
+.vo-hover-interactive:hover:not(:disabled) {
+  transform: translateY(-1px) !important;
+}
+
+.maplibregl-popup {
+  z-index: 1000 !important;
+}
+
+.maplibregl-popup-content {
+  background: #ffffff;
+  color: #1f2937;
+  border-radius: 10px;
+  padding: 8px 12px;
+  font-size: 12px;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.2), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+  border: 1px solid #e5e7eb;
+}
+
+.maplibregl-popup-anchor-bottom .maplibregl-popup-tip {
+  border-top-color: #ffffff;
+}
+
+.maplibregl-canvas-container.maplibregl-interactive {
+  cursor: default;
+}
+
+.maplibregl-ctrl-attrib {
+  font-size: 10px;
+}
+
+.vo-scroll::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.vo-scroll::-webkit-scrollbar-thumb {
+  background: var(--vo-border);
+  border-radius: 99px;
+}
+
+@media print {
+  aside,
+  header,
+  .no-print {
+    display: none !important;
+  }
+
+  html,
+  body,
+  #root {
+    background: #ffffff !important;
+    color: #111111 !important;
+    height: auto !important;
+    min-height: 0 !important;
+    overflow: visible !important;
+  }
+
+  .h-screen,
+  .overflow-hidden,
+  .overflow-auto,
+  .vo-scroll {
+    height: auto !important;
+    overflow: visible !important;
+  }
+
+  body * {
+    visibility: hidden;
+  }
+
+  .print-report,
+  .print-report * {
+    visibility: visible;
+  }
+
+  .print-report .no-print,
+  .print-report .no-print * {
+    visibility: hidden !important;
+    display: none !important;
+  }
+
+  .print-report {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    background: #ffffff !important;
+    color: #111111 !important;
+    max-width: none !important;
+    padding: 16px !important;
+    margin: 0 !important;
+  }
+
+  .print-report,
+  .print-report * {
+    color: #111111 !important;
+    box-shadow: none !important;
+    background-image: none !important;
+  }
+
+  .print-report table {
+    width: 100% !important;
+    border-collapse: collapse !important;
+  }
+
+  .print-report thead {
+    display: table-header-group;
+  }
+
+  .print-report tr {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .print-report th,
+  .print-report td {
+    border-bottom: 1px solid #d1d5db !important;
+    padding: 8px 6px !important;
+  }
+}
+

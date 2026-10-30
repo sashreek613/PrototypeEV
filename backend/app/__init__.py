@@ -1,0 +1,1 @@
+"""VidyutOne backend application package."""

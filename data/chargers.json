@@ -1,0 +1,156 @@
+[
+  {
+    "id": "chg-koramangala-01",
+    "name": "Koramangala DC Fast 1 (demo)",
+    "latitude": 12.9358,
+    "longitude": 77.6251,
+    "power_kw": 60,
+    "price_per_kwh": 18.5,
+    "availability": true,
+    "connector_type": "CCS2",
+    "site_id": "site-koramangala"
+  },
+  {
+    "id": "chg-koramangala-02",
+    "name": "Koramangala AC 1 (demo)",
+    "latitude": 12.9349,
+    "longitude": 77.6238,
+    "power_kw": 22,
+    "price_per_kwh": 14.0,
+    "availability": true,
+    "connector_type": "Type 2",
+    "site_id": "site-koramangala"
+  },
+  {
+    "id": "chg-whitefield-01",
+    "name": "Whitefield DC Fast 1 (demo)",
+    "latitude": 12.9704,
+    "longitude": 77.7506,
+    "power_kw": 120,
+    "price_per_kwh": 21.0,
+    "availability": true,
+    "connector_type": "CCS2",
+    "site_id": "site-whitefield"
+  },
+  {
+    "id": "chg-whitefield-02",
+    "name": "Whitefield DC Fast 2 (demo)",
+    "latitude": 12.9691,
+    "longitude": 77.7492,
+    "power_kw": 60,
+    "price_per_kwh": 19.5,
+    "availability": false,
+    "connector_type": "CCS2",
+    "site_id": "site-whitefield"
+  },
+  {
+    "id": "chg-indiranagar-01",
+    "name": "Indiranagar AC Hub (demo)",
+    "latitude": 12.9789,
+    "longitude": 77.6414,
+    "power_kw": 22,
+    "price_per_kwh": 15.5,
+    "availability": true,
+    "connector_type": "Type 2",
+    "site_id": "site-indiranagar"
+  },
+  {
+    "id": "chg-mg-road-01",
+    "name": "MG Road Metro DC (demo)",
+    "latitude": 12.9760,
+    "longitude": 77.6072,
+    "power_kw": 50,
+    "price_per_kwh": 17.0,
+    "availability": true,
+    "connector_type": "CCS2",
+    "site_id": "site-mg-road"
+  },
+  {
+    "id": "chg-electronic-city-01",
+    "name": "E-City Phase 1 DC (demo)",
+    "latitude": 12.8462,
+    "longitude": 77.6610,
+    "power_kw": 60,
+    "price_per_kwh": 16.5,
+    "availability": true,
+    "connector_type": "CCS2",
+    "site_id": "site-electronic-city"
+  },
+  {
+    "id": "chg-electronic-city-02",
+    "name": "E-City Phase 1 AC (demo)",
+    "latitude": 12.8450,
+    "longitude": 77.6596,
+    "power_kw": 22,
+    "price_per_kwh": 13.5,
+    "availability": true,
+    "connector_type": "Type 2",
+    "site_id": "site-electronic-city"
+  },
+  {
+    "id": "chg-hebbal-01",
+    "name": "Hebbal Highway DC (demo)",
+    "latitude": 13.0364,
+    "longitude": 77.5977,
+    "power_kw": 150,
+    "price_per_kwh": 22.0,
+    "availability": true,
+    "connector_type": "CCS2",
+    "site_id": "site-hebbal"
+  },
+  {
+    "id": "chg-jayanagar-01",
+    "name": "Jayanagar Market AC (demo)",
+    "latitude": 12.9256,
+    "longitude": 77.5944,
+    "power_kw": 11,
+    "price_per_kwh": 12.0,
+    "availability": true,
+    "connector_type": "Type 2",
+    "site_id": "site-jayanagar"
+  },
+  {
+    "id": "chg-yeshwanthpur-01",
+    "name": "Yeshwanthpur Depot DC (demo)",
+    "latitude": 13.0286,
+    "longitude": 77.5408,
+    "power_kw": 60,
+    "price_per_kwh": 16.0,
+    "availability": false,
+    "connector_type": "CHAdeMO",
+    "site_id": "site-yeshwanthpur"
+  },
+  {
+    "id": "chg-hsr-01",
+    "name": "HSR Sector 7 AC (demo)",
+    "latitude": 12.9127,
+    "longitude": 77.6452,
+    "power_kw": 22,
+    "price_per_kwh": 14.5,
+    "availability": true,
+    "connector_type": "Type 2",
+    "site_id": "site-hsr"
+  },
+  {
+    "id": "chg-marathahalli-01",
+    "name": "Marathahalli Outer Ring DC (demo)",
+    "latitude": 12.9597,
+    "longitude": 77.6981,
+    "power_kw": 60,
+    "price_per_kwh": 18.0,
+    "availability": true,
+    "connector_type": "CCS2",
+    "site_id": "site-marathahalli"
+  },
+  {
+    "id": "chg-marathahalli-02",
+    "name": "Marathahalli Mall AC (demo)",
+    "latitude": 12.9584,
+    "longitude": 77.6968,
+    "power_kw": 22,
+    "price_per_kwh": 15.0,
+    "availability": true,
+    "connector_type": "Type 2",
+    "site_id": "site-marathahalli"
+  }
+]
